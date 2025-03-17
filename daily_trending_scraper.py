@@ -39,25 +39,25 @@ if __name__ == "__main__":
     trending_repos = parse_trending(html)
     markdown = generate_markdown(trending_repos)
     save_to_file(markdown)
-    print("✅ Trending repos markdown generated.")
+    print("Trending repos markdown generated.")
 
 # README.md
 
-# 📈 Daily GitHub Trending Fetcher
+# Daily GitHub Trending Fetcher
 
 This project automatically fetches GitHub Trending repositories every day and outputs them to a markdown file.
 
-- 🕐 Scheduled with GitHub Actions (daily)
-- 🧠 Written in Python
-- 📄 Output file: `trending.md`
+- Scheduled with GitHub Actions (daily)
+- Written in Python
+- Output file: `trending.md`
 
-## 💡 Features
+## Features
 - Scrapes GitHub Trending page
 - Parses top repositories (name, description, link)
 - Generates a clean Markdown file
 - Automatically commits updates every day
 
-## 📂 Output Example
+## Output Example
 ```
 # GitHub Trending Repos - 2025-03-17
 
@@ -68,13 +68,13 @@ This project automatically fetches GitHub Trending repositories every day and ou
    - Linux kernel source tree
 ```
 
-## 🚀 How to Run Locally
+## How to Run Locally
 ```bash
 pip install -r requirements.txt
 python daily_trending_scraper.py
 ```
 
-## ⚙️ GitHub Actions Workflow
+## GitHub Actions Workflow
 Add this in `.github/workflows/daily.yml` to automate daily run:
 ```yaml
 name: Daily Trending Fetcher
@@ -107,13 +107,13 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add trending.md
-          git commit -m "📝 Update trending.md $(date '+%Y-%m-%d')" || echo "Nothing to commit"
+          git commit -m "Update trending.md $(date '+%Y-%m-%d')" || echo "Nothing to commit"
           git push
 ```
 
 ---
 
-## 📎 requirements.txt
+## requirements.txt
 ```
 requests
 beautifulsoup4
@@ -121,4 +121,4 @@ beautifulsoup4
 
 ---
 
-📬 Enjoy and star the repo if you find it useful!
+Enjoy and star the repo if you find it useful!
