@@ -2,8 +2,11 @@ name: Daily Trending Fetcher
 
 on:
   schedule:
-    - cron: '0 2 * * *'  # 每天台灣時間上午10點執行（UTC+8）
-  workflow_dispatch:  # 手動觸發也可以
+    - cron: '0 2 * * *' # Every day at 10:00 AM Taiwan time
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   fetch-trending:
@@ -11,6 +14,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -18,7 +23,7 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install beautifulsoup4 requests
+        run: pip install -r requirements.txt
 
       - name: Run trending fetch script
         run: python daily_trending_scraper.py
@@ -28,5 +33,6 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add trending.md
-          git commit -m \"📝 Update trending.md $(date '+%Y-%m-%d')\" || echo \"Nothing to commit\"
+          COMMIT_DATE=$(date '+%Y-%m-%d')
+          git commit -m "Update trending.md ${COMMIT_DATE}" || echo "Nothing to commit"
           git push
