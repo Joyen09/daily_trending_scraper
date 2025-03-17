@@ -16,12 +16,17 @@ def parse_trending(html):
     soup = BeautifulSoup(html, 'html.parser')
     repos = []
     for repo_item in soup.select("article.Box-row"):
-        title = repo_item.h1.text.strip().replace("\n", " ").replace("  ", " ")
+        h1_tag = repo_item.find("h1")
+        if not h1_tag:
+            continue  # Skip if no h1 found (unexpected format)
+
+        title = h1_tag.text.strip().replace("\n", " ").replace("  ", " ")
         description_tag = repo_item.select_one("p")
         description = description_tag.text.strip() if description_tag else "No description"
-        link = "https://github.com/" + repo_item.h1.a['href'].strip()
+        link = "https://github.com/" + h1_tag.a['href'].strip()
         repos.append((title, description, link))
     return repos
+
 
 def generate_markdown(repos):
     today = datetime.now().strftime('%Y-%m-%d')
