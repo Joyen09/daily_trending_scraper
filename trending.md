@@ -1,38 +1,47 @@
-# GitHub Trending Repos - 2025-03-17
+# GitHub Trending Repos - 2025-03-18
 
 1. [glanceapp /    glance](https://github.com/glanceapp/glance)
    - A self-hosted dashboard that puts all your feeds in one place
 
-2. [xpipe-io /    xpipe](https://github.com/xpipe-io/xpipe)
-   - Access your entire server infrastructure from your local desktop
-
-3. [freeCodeCamp /    freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-   - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-
-4. [calcom /    cal.com](https://github.com/calcom/cal.com)
-   - Scheduling infrastructure for absolutely everyone.
-
-5. [ai-christianson /    RA.Aid](https://github.com/ai-christianson/RA.Aid)
-   - Develop software autonomously.
-
-6. [langchain-ai /    ollama-deep-researcher](https://github.com/langchain-ai/ollama-deep-researcher)
+2. [langchain-ai /    ollama-deep-researcher](https://github.com/langchain-ai/ollama-deep-researcher)
    - Fully local web research and report writing assistant
 
-7. [TanStack /    form](https://github.com/TanStack/form)
-   - 🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit.
+3. [nvim-lua /    kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
+   - A launch point for your personal nvim configuration
 
-8. [tj-actions /    changed-files](https://github.com/tj-actions/changed-files)
-   - Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.
+4. [microsoft /    RD-Agent](https://github.com/microsoft/RD-Agent)
+   - Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which lets AI drive data-driven AI.
 
-9. [hpcaitech /    Open-Sora](https://github.com/hpcaitech/Open-Sora)
-   - Open-Sora: Democratizing Efficient Video Production for All
+5. [yuruotong1 /    autoMate](https://github.com/yuruotong1/autoMate)
+   - Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
 
-10. [milanm /    DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
-   - DevOps Roadmap for 2025. with learning resources
+6. [calcom /    cal.com](https://github.com/calcom/cal.com)
+   - Scheduling infrastructure for absolutely everyone.
 
-11. [RIP-Comm /    sossoldi](https://github.com/RIP-Comm/sossoldi)
+7. [yuaotian /    go-cursor-help](https://github.com/yuaotian/go-cursor-help)
+   - 解决Cursor在免费订阅期间出现以下提示的问题: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+
+8. [patchy631 /    ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+   - No description
+
+9. [RIP-Comm /    sossoldi](https://github.com/RIP-Comm/sossoldi)
    - "Sossoldi" is a wealth management / personal finance / Net Worth tracking app, made with Flutter.
 
-12. [uutils /    coreutils](https://github.com/uutils/coreutils)
+10. [xpipe-io /    xpipe](https://github.com/xpipe-io/xpipe)
+   - Access your entire server infrastructure from your local desktop
+
+11. [DiceDB /    dice](https://github.com/DiceDB/dice)
+   - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
+
+12. [tj-actions /    changed-files](https://github.com/tj-actions/changed-files)
+   - Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.
+
+13. [donnemartin /    system-design-primer](https://github.com/donnemartin/system-design-primer)
+   - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+
+14. [uutils /    coreutils](https://github.com/uutils/coreutils)
    - Cross-platform Rust rewrite of the GNU coreutils
+
+15. [OpenBB-finance /    OpenBB](https://github.com/OpenBB-finance/OpenBB)
+   - Investment Research for Everyone, Everywhere.
 
