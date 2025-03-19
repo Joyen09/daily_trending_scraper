@@ -1,47 +1,41 @@
-# GitHub Trending Repos - 2025-03-18
+# GitHub Trending Repos - 2025-03-19
 
 1. [glanceapp /    glance](https://github.com/glanceapp/glance)
    - A self-hosted dashboard that puts all your feeds in one place
 
-2. [langchain-ai /    ollama-deep-researcher](https://github.com/langchain-ai/ollama-deep-researcher)
-   - Fully local web research and report writing assistant
-
-3. [nvim-lua /    kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
-   - A launch point for your personal nvim configuration
-
-4. [microsoft /    RD-Agent](https://github.com/microsoft/RD-Agent)
-   - Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which lets AI drive data-driven AI.
-
-5. [yuruotong1 /    autoMate](https://github.com/yuruotong1/autoMate)
-   - Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
-
-6. [calcom /    cal.com](https://github.com/calcom/cal.com)
-   - Scheduling infrastructure for absolutely everyone.
-
-7. [yuaotian /    go-cursor-help](https://github.com/yuaotian/go-cursor-help)
-   - 解决Cursor在免费订阅期间出现以下提示的问题: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-
-8. [patchy631 /    ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+2. [patchy631 /    ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
    - No description
 
-9. [RIP-Comm /    sossoldi](https://github.com/RIP-Comm/sossoldi)
-   - "Sossoldi" is a wealth management / personal finance / Net Worth tracking app, made with Flutter.
-
-10. [xpipe-io /    xpipe](https://github.com/xpipe-io/xpipe)
-   - Access your entire server infrastructure from your local desktop
-
-11. [DiceDB /    dice](https://github.com/DiceDB/dice)
+3. [DiceDB /    dice](https://github.com/DiceDB/dice)
    - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 
-12. [tj-actions /    changed-files](https://github.com/tj-actions/changed-files)
+4. [langchain-ai /    ollama-deep-researcher](https://github.com/langchain-ai/ollama-deep-researcher)
+   - Fully local web research and report writing assistant
+
+5. [tj-actions /    changed-files](https://github.com/tj-actions/changed-files)
    - Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.
 
-13. [donnemartin /    system-design-primer](https://github.com/donnemartin/system-design-primer)
+6. [graviraja /    MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+   - No description
+
+7. [donnemartin /    system-design-primer](https://github.com/donnemartin/system-design-primer)
    - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
-14. [uutils /    coreutils](https://github.com/uutils/coreutils)
-   - Cross-platform Rust rewrite of the GNU coreutils
+8. [block /    goose](https://github.com/block/goose)
+   - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 
-15. [OpenBB-finance /    OpenBB](https://github.com/OpenBB-finance/OpenBB)
-   - Investment Research for Everyone, Everywhere.
+9. [makeplane /    plane](https://github.com/makeplane/plane)
+   - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
+
+10. [wmariuss /    awesome-devops](https://github.com/wmariuss/awesome-devops)
+   - A curated list of awesome DevOps platforms, tools, practices and resources
+
+11. [milanm /    DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
+   - DevOps Roadmap for 2025. with learning resources
+
+12. [shadcn-ui /    ui](https://github.com/shadcn-ui/ui)
+   - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+
+13. [yuaotian /    go-cursor-help](https://github.com/yuaotian/go-cursor-help)
+   - 解决Cursor在免费订阅期间出现以下提示的问题: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
 
