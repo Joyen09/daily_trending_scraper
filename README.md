@@ -91,5 +91,5 @@ pip install -r requirements.txt
 ---
 
 ## 📬 Contact
-Maintained by [YourNameHere]. Feel free to fork or raise an issue!
+Maintained by Joyen. Feel free to fork or raise an issue!
 
