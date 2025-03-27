@@ -1,50 +1,44 @@
-# GitHub Trending Repos - 2025-03-26
+# GitHub Trending Repos - 2025-03-27
 
-1. [hacksider /    Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
-   - real time face swap and one-click video deepfake with only a single image
+1. [khoj-ai /    khoj](https://github.com/khoj-ai/khoj)
+   - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 
-2. [NVIDIA /    TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
-   - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.
+2. [kubernetes /    ingress-nginx](https://github.com/kubernetes/ingress-nginx)
+   - Ingress NGINX Controller for Kubernetes
 
-3. [ageerle /    ruoyi-ai](https://github.com/ageerle/ruoyi-ai)
-   - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
-
-4. [alibaba /    spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)
+3. [alibaba /    spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)
    - Agentic AI Framework for Java Developers
 
-5. [Shubhamsaboo /    awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
-   - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+4. [ourongxing /    newsnow](https://github.com/ourongxing/newsnow)
+   - Elegant reading of real-time and hottest news
+
+5. [Cryakl /    Ultimate-RAT-Collection](https://github.com/Cryakl/Ultimate-RAT-Collection)
+   - For educational purposes only, exhaustive samples of 450+ classic/modern trojan builders including screenshots.
 
 6. [joanrod /    star-vector](https://github.com/joanrod/star-vector)
    - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textual inputs to produce high-quality SVG code with remarkable precision.
 
-7. [NirDiamant /    GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)
-   - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
+7. [deepseek-ai /    DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
+   - No description
 
-8. [nf-core /    modules](https://github.com/nf-core/modules)
-   - Repository to host tool-specific module files for the Nextflow DSL2 community!
+8. [shadps4-emu /    shadPS4](https://github.com/shadps4-emu/shadPS4)
+   - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 
-9. [Cryakl /    Ultimate-RAT-Collection](https://github.com/Cryakl/Ultimate-RAT-Collection)
-   - For educational purposes only, exhaustive samples of 450+ classic/modern trojan builders including screenshots.
+9. [Akkudoktor-EOS /    EOS](https://github.com/Akkudoktor-EOS/EOS)
+   - This repository features an Energy Optimization System (EOS) that optimizes energy distribution, usage for batteries, heat pumps& household devices. It includes predictive models for electricity prices (planned), load forecasting& dynamic optimization to maximize energy efficiency & minimize costs. Founder Dr. Andreas Schmitz (YouTube @akkudoktor)
 
-10. [ocrmypdf /    OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
-   - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
-
-11. [ourongxing /    newsnow](https://github.com/ourongxing/newsnow)
-   - Elegant reading of real-time and hottest news
-
-12. [ByteByteGoHq /    system-design-101](https://github.com/ByteByteGoHq/system-design-101)
-   - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
-
-13. [bregman-arie /    devops-exercises](https://github.com/bregman-arie/devops-exercises)
-   - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-
-14. [home-assistant /    core](https://github.com/home-assistant/core)
-   - 🏡 Open source home automation that puts local control and privacy first.
-
-15. [browser-use /    browser-use](https://github.com/browser-use/browser-use)
+10. [browser-use /    browser-use](https://github.com/browser-use/browser-use)
    - Make websites accessible for AI agents
 
-16. [agno-agi /    agno](https://github.com/agno-agi/agno)
-   - Agno is a lightweight library for building Multimodal Agents. It exposes LLMs as a unified API and gives them superpowers like memory, knowledge, tools and reasoning.
+11. [NirDiamant /    GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)
+   - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
+
+12. [bregman-arie /    devops-exercises](https://github.com/bregman-arie/devops-exercises)
+   - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+
+13. [signalapp /    Signal-Android](https://github.com/signalapp/Signal-Android)
+   - A private messenger for Android.
+
+14. [juspay /    hyperswitch](https://github.com/juspay/hyperswitch)
+   - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
