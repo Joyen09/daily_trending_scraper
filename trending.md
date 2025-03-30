@@ -1,44 +1,44 @@
-# GitHub Trending Repos - 2025-03-29
+# GitHub Trending Repos - 2025-03-30
 
 1. [Shubhamsaboo /    awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
    - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 
-2. [NirDiamant /    GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)
-   - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
-
-3. [EFForg /    rayhunter](https://github.com/EFForg/rayhunter)
-   - Rust tool to detect cell site simulators on an orbic mobile hotspot
-
-4. [khoj-ai /    khoj](https://github.com/khoj-ai/khoj)
-   - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
-
-5. [ourongxing /    newsnow](https://github.com/ourongxing/newsnow)
-   - Elegant reading of real-time and hottest news
-
-6. [juspay /    hyperswitch](https://github.com/juspay/hyperswitch)
-   - An open source payments switch written in Rust to make payments fast, reliable and affordable
-
-7. [punkpeye /    awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+2. [punkpeye /    awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
    - A collection of MCP servers.
 
-8. [kern /    filepizza](https://github.com/kern/filepizza)
-   - 🍕 Peer-to-peer file transfers in your browser
+3. [juspay /    hyperswitch](https://github.com/juspay/hyperswitch)
+   - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
-9. [alibaba /    spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)
-   - Agentic AI Framework for Java Developers
+4. [google /    perfetto](https://github.com/google/perfetto)
+   - Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)
 
-10. [cline /    cline](https://github.com/cline/cline)
-   - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+5. [agno-agi /    agno](https://github.com/agno-agi/agno)
+   - A lightweight library for building Multimodal Agents. Use it to give LLMs superpowers like memory, knowledge, tools and reasoning.
 
-11. [n8n-io /    n8n](https://github.com/n8n-io/n8n)
-   - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+6. [NirDiamant /    GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)
+   - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
 
-12. [neovim /    neovim](https://github.com/neovim/neovim)
-   - Vim-fork focused on extensibility and usability
+7. [EFForg /    rayhunter](https://github.com/EFForg/rayhunter)
+   - Rust tool to detect cell site simulators on an orbic mobile hotspot
 
-13. [langgenius /    dify](https://github.com/langgenius/dify)
-   - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+8. [ourongxing /    newsnow](https://github.com/ourongxing/newsnow)
+   - Elegant reading of real-time and hottest news
 
-14. [shadps4-emu /    shadPS4](https://github.com/shadps4-emu/shadPS4)
+9. [shadps4-emu /    shadPS4](https://github.com/shadps4-emu/shadPS4)
    - PlayStation 4 emulator for Windows, Linux and macOS written in C++
+
+10. [jlowin /    fastmcp](https://github.com/jlowin/fastmcp)
+   - The fast, Pythonic way to build Model Context Protocol servers 🚀
+
+11. [angular /    angular](https://github.com/angular/angular)
+   - Deliver web apps with confidence 🚀
+
+12. [grpc /    grpc-go](https://github.com/grpc/grpc-go)
+   - The Go language implementation of gRPC. HTTP/2 based RPC
+
+13. [open-source-parsers /    jsoncpp](https://github.com/open-source-parsers/jsoncpp)
+   - A C++ library for interacting with JSON.
+
+14. [gogs /    gogs](https://github.com/gogs/gogs)
+   - Gogs is a painless self-hosted Git service
 
