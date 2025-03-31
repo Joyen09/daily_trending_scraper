@@ -1,44 +1,44 @@
-# GitHub Trending Repos - 2025-03-30
+# GitHub Trending Repos - 2025-03-31
 
-1. [Shubhamsaboo /    awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
-   - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-
-2. [punkpeye /    awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+1. [punkpeye /    awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
    - A collection of MCP servers.
 
-3. [juspay /    hyperswitch](https://github.com/juspay/hyperswitch)
-   - An open source payments switch written in Rust to make payments fast, reliable and affordable
+2. [ahmedkhaleel2004 /    gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
+   - Free, simple, fast interactive diagrams for any GitHub repository
 
-4. [google /    perfetto](https://github.com/google/perfetto)
-   - Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)
+3. [tulir /    whatsmeow](https://github.com/tulir/whatsmeow)
+   - Go library for the WhatsApp web multidevice API
 
-5. [agno-agi /    agno](https://github.com/agno-agi/agno)
-   - A lightweight library for building Multimodal Agents. Use it to give LLMs superpowers like memory, knowledge, tools and reasoning.
+4. [microsoft /    generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+   - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
 
-6. [NirDiamant /    GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)
-   - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
+5. [th-ch /    youtube-music](https://github.com/th-ch/youtube-music)
+   - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 
-7. [EFForg /    rayhunter](https://github.com/EFForg/rayhunter)
-   - Rust tool to detect cell site simulators on an orbic mobile hotspot
+6. [Shubhamsaboo /    awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+   - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 
-8. [ourongxing /    newsnow](https://github.com/ourongxing/newsnow)
-   - Elegant reading of real-time and hottest news
+7. [google /    perfetto](https://github.com/google/perfetto)
+   - Performance instrumentation and tracing for Android, Linux and Chrome
 
-9. [shadps4-emu /    shadPS4](https://github.com/shadps4-emu/shadPS4)
-   - PlayStation 4 emulator for Windows, Linux and macOS written in C++
+8. [causify-ai /    helpers](https://github.com/causify-ai/helpers)
+   - Causify development system
 
-10. [jlowin /    fastmcp](https://github.com/jlowin/fastmcp)
+9. [SoftFever /    OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
+   - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
+
+10. [AUTOMATIC1111 /    stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+   - Stable Diffusion web UI
+
+11. [neovim /    neovim](https://github.com/neovim/neovim)
+   - Vim-fork focused on extensibility and usability
+
+12. [coollabsio /    coolify](https://github.com/coollabsio/coolify)
+   - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+
+13. [jlowin /    fastmcp](https://github.com/jlowin/fastmcp)
    - The fast, Pythonic way to build Model Context Protocol servers 🚀
 
-11. [angular /    angular](https://github.com/angular/angular)
-   - Deliver web apps with confidence 🚀
-
-12. [grpc /    grpc-go](https://github.com/grpc/grpc-go)
-   - The Go language implementation of gRPC. HTTP/2 based RPC
-
-13. [open-source-parsers /    jsoncpp](https://github.com/open-source-parsers/jsoncpp)
-   - A C++ library for interacting with JSON.
-
-14. [gogs /    gogs](https://github.com/gogs/gogs)
-   - Gogs is a painless self-hosted Git service
+14. [topjohnwu /    Magisk](https://github.com/topjohnwu/Magisk)
+   - The Magic Mask for Android
 
