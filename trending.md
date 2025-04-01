@@ -1,44 +1,47 @@
-# GitHub Trending Repos - 2025-03-31
+# GitHub Trending Repos - 2025-04-01
 
-1. [punkpeye /    awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
-   - A collection of MCP servers.
-
-2. [ahmedkhaleel2004 /    gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
+1. [ahmedkhaleel2004 /    gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
    - Free, simple, fast interactive diagrams for any GitHub repository
 
-3. [tulir /    whatsmeow](https://github.com/tulir/whatsmeow)
-   - Go library for the WhatsApp web multidevice API
+2. [unclecode /    crawl4ai](https://github.com/unclecode/crawl4ai)
+   - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 
-4. [microsoft /    generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
-   - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+3. [punkpeye /    awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+   - A collection of MCP servers.
+
+4. [tulir /    whatsmeow](https://github.com/tulir/whatsmeow)
+   - Go library for the WhatsApp web multidevice API
 
 5. [th-ch /    youtube-music](https://github.com/th-ch/youtube-music)
    - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 
-6. [Shubhamsaboo /    awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
-   - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+6. [microsoft /    generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+   - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
 
-7. [google /    perfetto](https://github.com/google/perfetto)
-   - Performance instrumentation and tracing for Android, Linux and Chrome
+7. [virattt /    ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+   - An AI Hedge Fund Team
 
-8. [causify-ai /    helpers](https://github.com/causify-ai/helpers)
-   - Causify development system
-
-9. [SoftFever /    OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
-   - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
-
-10. [AUTOMATIC1111 /    stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-   - Stable Diffusion web UI
-
-11. [neovim /    neovim](https://github.com/neovim/neovim)
-   - Vim-fork focused on extensibility and usability
-
-12. [coollabsio /    coolify](https://github.com/coollabsio/coolify)
-   - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-
-13. [jlowin /    fastmcp](https://github.com/jlowin/fastmcp)
+8. [jlowin /    fastmcp](https://github.com/jlowin/fastmcp)
    - The fast, Pythonic way to build Model Context Protocol servers 🚀
 
-14. [topjohnwu /    Magisk](https://github.com/topjohnwu/Magisk)
-   - The Magic Mask for Android
+9. [AUTOMATIC1111 /    stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+   - Stable Diffusion web UI
+
+10. [yetone /    avante.nvim](https://github.com/yetone/avante.nvim)
+   - Use your Neovim like using Cursor AI IDE!
+
+11. [ocornut /    imgui](https://github.com/ocornut/imgui)
+   - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+
+12. [neovim /    neovim](https://github.com/neovim/neovim)
+   - Vim-fork focused on extensibility and usability
+
+13. [dubinc /    dub](https://github.com/dubinc/dub)
+   - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
+
+14. [supabase-community /    postgres-language-server](https://github.com/supabase-community/postgres-language-server)
+   - A Language Server for Postgres
+
+15. [Shubhamsaboo /    awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+   - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 
