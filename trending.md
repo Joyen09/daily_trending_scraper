@@ -1,47 +1,38 @@
-# GitHub Trending Repos - 2025-04-06
+# GitHub Trending Repos - 2025-04-07
 
-1. [nuejs /    nue](https://github.com/nuejs/nue)
-   - Standards first web framework taking HTML, CSS, JS, and WASM to their absolute peak
+1. [meta-llama /    llama-models](https://github.com/meta-llama/llama-models)
+   - Utilities intended for use with Llama models.
 
-2. [freeCodeCamp /    freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-   - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+2. [juliangarnier /    anime](https://github.com/juliangarnier/anime)
+   - JavaScript animation engine
 
-3. [Azure /    azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net)
-   - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.
+3. [microsoft /    markitdown](https://github.com/microsoft/markitdown)
+   - Python tool for converting files and office documents to Markdown.
 
-4. [liam-hq /    liam](https://github.com/liam-hq/liam)
-   - Automatically generates beautiful and easy-to-read ER diagrams from your database.
+4. [NVIDIA-Omniverse /    PhysX](https://github.com/NVIDIA-Omniverse/PhysX)
+   - NVIDIA PhysX SDK
 
-5. [tenstorrent /    tt-metal](https://github.com/tenstorrent/tt-metal)
-   - 🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.
+5. [datawhalechina /    llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
+   - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
 
-6. [kubernetes-sigs /    headlamp](https://github.com/kubernetes-sigs/headlamp)
-   - A Kubernetes web UI that is fully-featured, user-friendly and extensible
+6. [activepieces /    activepieces](https://github.com/activepieces/activepieces)
+   - Open Source AI Automation ✨ All our 280+ pieces are now available as MCP to use with LLMs
 
-7. [google /    googletest](https://github.com/google/googletest)
-   - GoogleTest - Google Testing and Mocking Framework
-
-8. [funstory-ai /    BabelDOC](https://github.com/funstory-ai/BabelDOC)
+7. [funstory-ai /    BabelDOC](https://github.com/funstory-ai/BabelDOC)
    - Yet Another Document Translator
 
-9. [twbs /    bootstrap](https://github.com/twbs/bootstrap)
+8. [twbs /    bootstrap](https://github.com/twbs/bootstrap)
    - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+
+9. [supabase-community /    supabase-mcp](https://github.com/supabase-community/supabase-mcp)
+   - Connect Supabase to your AI assistants
 
 10. [fleetdm /    fleet](https://github.com/fleetdm/fleet)
    - Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
 
-11. [unclecode /    crawl4ai](https://github.com/unclecode/crawl4ai)
-   - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+11. [unionlabs /    union](https://github.com/unionlabs/union)
+   - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 
-12. [maotoumao /    MusicFree](https://github.com/maotoumao/MusicFree)
-   - 插件化、定制化、无广告的免费音乐播放器
-
-13. [hashicorp /    terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
-   - The AWS Provider enables Terraform to manage AWS resources.
-
-14. [tensorflow /    tensorflow](https://github.com/tensorflow/tensorflow)
-   - An Open Source Machine Learning Framework for Everyone
-
-15. [chiphuyen /    aie-book](https://github.com/chiphuyen/aie-book)
-   - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
+12. [SimplifyJobs /    Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships)
+   - Collection of Summer 2025 tech internships!
 
