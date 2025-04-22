@@ -1,44 +1,41 @@
-# GitHub Trending Repos - 2025-04-21
+# GitHub Trending Repos - 2025-04-22
 
-1. [microsoft /    BitNet](https://github.com/microsoft/BitNet)
+1. [microsoft /    markitdown](https://github.com/microsoft/markitdown)
+   - Python tool for converting files and office documents to Markdown.
+
+2. [microsoft /    BitNet](https://github.com/microsoft/BitNet)
    - Official inference framework for 1-bit LLMs
 
-2. [Byaidu /    PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
-   - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker/Zotero
+3. [elie222 /    inbox-zero](https://github.com/elie222/inbox-zero)
+   - AI personal assistant for email. Open source app to help you reach inbox zero fast.
 
-3. [public-apis /    public-apis](https://github.com/public-apis/public-apis)
-   - A collective list of free APIs
-
-4. [Anduin2017 /    HowToCook](https://github.com/Anduin2017/HowToCook)
-   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-
-5. [Shubhamsaboo /    awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+4. [Shubhamsaboo /    awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
    - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 
-6. [jlowin /    fastmcp](https://github.com/jlowin/fastmcp)
-   - 🚀 The fast, Pythonic way to build MCP servers and clients
+5. [allenai /    olmocr](https://github.com/allenai/olmocr)
+   - Toolkit for linearizing PDFs for LLM datasets/training
 
-7. [1Panel-dev /    1Panel](https://github.com/1Panel-dev/1Panel)
-   - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
+6. [yt-dlp /    yt-dlp](https://github.com/yt-dlp/yt-dlp)
+   - A feature-rich command-line audio/video downloader
+
+7. [drawdb-io /    drawdb](https://github.com/drawdb-io/drawdb)
+   - Free, simple, and intuitive online database diagram editor and SQL generator.
 
 8. [nocobase /    nocobase](https://github.com/nocobase/nocobase)
    - NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
 
-9. [yt-dlp /    yt-dlp](https://github.com/yt-dlp/yt-dlp)
-   - A feature-rich command-line audio/video downloader
+9. [public-apis /    public-apis](https://github.com/public-apis/public-apis)
+   - A collective list of free APIs
 
-10. [microsoft /    markitdown](https://github.com/microsoft/markitdown)
-   - Python tool for converting files and office documents to Markdown.
+10. [jwasham /    coding-interview-university](https://github.com/jwasham/coding-interview-university)
+   - A complete computer science study plan to become a software engineer.
 
-11. [elie222 /    inbox-zero](https://github.com/elie222/inbox-zero)
-   - AI personal assistant for email. Open source app to help you reach inbox zero fast.
+11. [Byaidu /    PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
+   - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker/Zotero
 
-12. [ashvardanian /    less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp)
-   - Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO
+12. [007revad /    Synology_HDD_db](https://github.com/007revad/Synology_HDD_db)
+   - Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more
 
-13. [wandb /    openui](https://github.com/wandb/openui)
-   - OpenUI let's you describe UI using your imagination, then see it rendered live.
-
-14. [linera-io /    linera-protocol](https://github.com/linera-io/linera-protocol)
-   - Main repository for the Linera protocol
+13. [jumpserver /    jumpserver](https://github.com/jumpserver/jumpserver)
+   - JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
 
