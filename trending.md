@@ -1,32 +1,29 @@
-# GitHub Trending Repos - 2025-04-24
+# GitHub Trending Repos - 2025-04-25
 
-1. [microsoft /    markitdown](https://github.com/microsoft/markitdown)
-   - Python tool for converting files and office documents to Markdown.
+1. [kortix-ai /    suna](https://github.com/kortix-ai/suna)
+   - Suna - Open Source Generalist AI Agent
 
-2. [hydralauncher /    hydra](https://github.com/hydralauncher/hydra)
-   - Hydra is a game launcher with its own embedded bittorrent client
+2. [RVC-Boss /    GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
+   - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 
-3. [pocketbase /    pocketbase](https://github.com/pocketbase/pocketbase)
-   - Open Source realtime backend in 1 file
+3. [cloudcommunity /    Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)
+   - A curated list of free courses with certifications. Also available at https://free-certifications.com/
 
 4. [bytedance /    UI-TARS](https://github.com/bytedance/UI-TARS)
    - No description
 
-5. [anthropics /    courses](https://github.com/anthropics/courses)
-   - Anthropic's educational courses
+5. [microsoft /    generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+   - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
 
-6. [drawdb-io /    drawdb](https://github.com/drawdb-io/drawdb)
-   - Free, simple, and intuitive online database diagram editor and SQL generator.
+6. [jujumilk3 /    leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)
+   - Collection of leaked system prompts
 
-7. [jwasham /    coding-interview-university](https://github.com/jwasham/coding-interview-university)
-   - A complete computer science study plan to become a software engineer.
+7. [khoj-ai /    khoj](https://github.com/khoj-ai/khoj)
+   - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 
-8. [PKUFlyingPig /    cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
-   - 计算机自学指南
+8. [facebookresearch /    dinov2](https://github.com/facebookresearch/dinov2)
+   - PyTorch code and models for the DINOv2 self-supervised learning method.
 
-9. [kamranahmedse /    developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-   - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-
-10. [microsoft /    BitNet](https://github.com/microsoft/BitNet)
-   - Official inference framework for 1-bit LLMs
+9. [tensorflow /    tensorflow](https://github.com/tensorflow/tensorflow)
+   - An Open Source Machine Learning Framework for Everyone
 
