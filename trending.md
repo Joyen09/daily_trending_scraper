@@ -1,41 +1,44 @@
-# GitHub Trending Repos - 2025-04-30
+# GitHub Trending Repos - 2025-05-01
 
 1. [hacksider /    Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
    - real time face swap and one-click video deepfake with only a single image
 
-2. [bgstaal /    multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene)
-   - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
+2. [patchy631 /    ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+   - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 
-3. [0xk1h0 /    ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN)
-   - ChatGPT DAN, Jailbreaks prompt
+3. [QwenLM /    Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
+   - Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
 
-4. [microsoft /    generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
-   - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+4. [QwenLM /    Qwen3](https://github.com/QwenLM/Qwen3)
+   - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
 
-5. [practical-tutorials /    project-based-learning](https://github.com/practical-tutorials/project-based-learning)
-   - Curated list of project-based tutorials
-
-6. [LadybirdBrowser /    ladybird](https://github.com/LadybirdBrowser/ladybird)
-   - Truly independent web browser
-
-7. [jackfrued /    Python-100-Days](https://github.com/jackfrued/Python-100-Days)
-   - Python - 100天从新手到大师
-
-8. [juspay /    hyperswitch](https://github.com/juspay/hyperswitch)
+5. [juspay /    hyperswitch](https://github.com/juspay/hyperswitch)
    - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
-9. [simular-ai /    Agent-S](https://github.com/simular-ai/Agent-S)
+6. [daytonaio /    daytona](https://github.com/daytonaio/daytona)
+   - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
+
+7. [vllm-project /    vllm](https://github.com/vllm-project/vllm)
+   - A high-throughput and memory-efficient inference and serving engine for LLMs
+
+8. [simular-ai /    Agent-S](https://github.com/simular-ai/Agent-S)
    - Agent S: an open agentic framework that uses computers like a human
 
-10. [codecrafters-io /    build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
-   - Master programming by recreating your favorite technologies from scratch.
+9. [microsoft /    generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+   - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
 
-11. [carykh /    jes](https://github.com/carykh/jes)
-   - Jelly Evolution Simulator
+10. [LadybirdBrowser /    ladybird](https://github.com/LadybirdBrowser/ladybird)
+   - Truly independent web browser
 
-12. [jujumilk3 /    leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)
-   - Collection of leaked system prompts
+11. [ml-explore /    mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples)
+   - Examples using MLX Swift
 
-13. [lobehub /    lobe-chat](https://github.com/lobehub/lobe-chat)
-   - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
+12. [hiyouga /    LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
+   - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+
+13. [AutoMQ /    automq](https://github.com/AutoMQ/automq)
+   - AutoMQ is a stateless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
+
+14. [bitcoin /    bitcoin](https://github.com/bitcoin/bitcoin)
+   - Bitcoin Core integration/staging tree
 
