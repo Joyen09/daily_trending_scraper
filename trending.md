@@ -1,44 +1,59 @@
-# GitHub Trending Repos - 2025-05-01
+# GitHub Trending Repos - 2025-05-02
 
 1. [hacksider /    Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
    - real time face swap and one-click video deepfake with only a single image
 
-2. [patchy631 /    ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
-   - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-
-3. [QwenLM /    Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
+2. [QwenLM /    Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
    - Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
 
-4. [QwenLM /    Qwen3](https://github.com/QwenLM/Qwen3)
-   - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+3. [teableio /    teable](https://github.com/teableio/teable)
+   - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 
-5. [juspay /    hyperswitch](https://github.com/juspay/hyperswitch)
+4. [juspay /    hyperswitch](https://github.com/juspay/hyperswitch)
    - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
-6. [daytonaio /    daytona](https://github.com/daytonaio/daytona)
-   - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
+5. [jackfrued /    Python-100-Days](https://github.com/jackfrued/Python-100-Days)
+   - Python - 100天从新手到大师
 
-7. [vllm-project /    vllm](https://github.com/vllm-project/vllm)
-   - A high-throughput and memory-efficient inference and serving engine for LLMs
-
-8. [simular-ai /    Agent-S](https://github.com/simular-ai/Agent-S)
+6. [simular-ai /    Agent-S](https://github.com/simular-ai/Agent-S)
    - Agent S: an open agentic framework that uses computers like a human
 
-9. [microsoft /    generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
-   - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+7. [QwenLM /    Qwen3](https://github.com/QwenLM/Qwen3)
+   - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
 
-10. [LadybirdBrowser /    ladybird](https://github.com/LadybirdBrowser/ladybird)
-   - Truly independent web browser
+8. [louislam /    uptime-kuma](https://github.com/louislam/uptime-kuma)
+   - A fancy self-hosted monitoring tool
 
-11. [ml-explore /    mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples)
-   - Examples using MLX Swift
+9. [zed-industries /    zed](https://github.com/zed-industries/zed)
+   - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
-12. [hiyouga /    LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
-   - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+10. [patchy631 /    ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+   - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 
-13. [AutoMQ /    automq](https://github.com/AutoMQ/automq)
-   - AutoMQ is a stateless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
+11. [daytonaio /    daytona](https://github.com/daytonaio/daytona)
+   - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 
-14. [bitcoin /    bitcoin](https://github.com/bitcoin/bitcoin)
-   - Bitcoin Core integration/staging tree
+12. [open-webui /    open-webui](https://github.com/open-webui/open-webui)
+   - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
+13. [transformerlab /    transformerlab-app](https://github.com/transformerlab/transformerlab-app)
+   - Open Source Application for Advanced LLM Engineering: interact, train, fine-tune, and evaluate large language models on your own computer.
+
+14. [hzpt-inet-club /    english-note](https://github.com/hzpt-inet-club/english-note)
+   - 从0开始学习英语语法
+
+15. [alibaba /    MNN](https://github.com/alibaba/MNN)
+   - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md)
+
+16. [TheRobotStudio /    SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100)
+   - Standard Open Arm 100
+
+17. [quarkusio /    quarkus](https://github.com/quarkusio/quarkus)
+   - Quarkus: Supersonic Subatomic Java.
+
+18. [littlefs-project /    littlefs](https://github.com/littlefs-project/littlefs)
+   - A little fail-safe filesystem designed for microcontrollers
+
+19. [dotnet /    eShop](https://github.com/dotnet/eShop)
+   - A reference .NET application implementing an eCommerce site
 
