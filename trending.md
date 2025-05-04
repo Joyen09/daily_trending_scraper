@@ -1,56 +1,62 @@
-# GitHub Trending Repos - 2025-05-03
+# GitHub Trending Repos - 2025-05-04
 
-1. [hacksider /    Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
-   - real time face swap and one-click video deepfake with only a single image
-
-2. [aipotheosis-labs /    aci](https://github.com/aipotheosis-labs/aci)
+1. [aipotheosis-labs /    aci](https://github.com/aipotheosis-labs/aci)
    - ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
 
-3. [MODSetter /    SurfSense](https://github.com/MODSetter/SurfSense)
-   - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
-
-4. [cloudflare /    mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare)
-   - No description
-
-5. [wonderwhy-er /    DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
-   - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
-
-6. [juspay /    hyperswitch](https://github.com/juspay/hyperswitch)
-   - An open source payments switch written in Rust to make payments fast, reliable and affordable
-
-7. [Atmosphere-NX /    Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
-   - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
-
-8. [unionlabs /    union](https://github.com/unionlabs/union)
+2. [unionlabs /    union](https://github.com/unionlabs/union)
    - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 
-9. [cloudflare /    agents](https://github.com/cloudflare/agents)
-   - Build and deploy AI Agents on Cloudflare
+3. [Atmosphere-NX /    Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
+   - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 
-10. [DiceDB /    dice](https://github.com/DiceDB/dice)
-   - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
+4. [hacksider /    Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+   - real time face swap and one-click video deepfake with only a single image
 
-11. [Flowseal /    zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
+5. [cloudflare /    mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare)
    - No description
 
-12. [QwenLM /    Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
-   - Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
+6. [aws /    aws-sdk-java-v2](https://github.com/aws/aws-sdk-java-v2)
+   - The official AWS SDK for Java - Version 2
+
+7. [ChrisTitusTech /    winutil](https://github.com/ChrisTitusTech/winutil)
+   - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+
+8. [jackfrued /    Python-100-Days](https://github.com/jackfrued/Python-100-Days)
+   - Python - 100天从新手到大师
+
+9. [juanfont /    headscale](https://github.com/juanfont/headscale)
+   - An open source, self-hosted implementation of the Tailscale control server
+
+10. [koreader /    koreader](https://github.com/koreader/koreader)
+   - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
+
+11. [jj-vcs /    jj](https://github.com/jj-vcs/jj)
+   - A Git-compatible VCS that is both simple and powerful
+
+12. [Mail-0 /    Zero](https://github.com/Mail-0/Zero)
+   - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email
 
 13. [donnemartin /    system-design-primer](https://github.com/donnemartin/system-design-primer)
    - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
-14. [open-webui /    open-webui](https://github.com/open-webui/open-webui)
-   - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+14. [alibaba /    MNN](https://github.com/alibaba/MNN)
+   - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md)
 
-15. [langwatch /    langwatch](https://github.com/langwatch/langwatch)
-   - The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨
+15. [pydantic /    pydantic](https://github.com/pydantic/pydantic)
+   - Data validation using Python type hints
 
-16. [bitcoin /    bitcoin](https://github.com/bitcoin/bitcoin)
-   - Bitcoin Core integration/staging tree
+16. [alacritty /    alacritty](https://github.com/alacritty/alacritty)
+   - A cross-platform, OpenGL terminal emulator.
 
-17. [aws /    aws-sdk-java-v2](https://github.com/aws/aws-sdk-java-v2)
-   - The official AWS SDK for Java - Version 2
+17. [filamentphp /    filament](https://github.com/filamentphp/filament)
+   - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
 
-18. [TheRobotStudio /    SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100)
-   - Standard Open Arm 100
+18. [htr-tech /    zphisher](https://github.com/htr-tech/zphisher)
+   - An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
+
+19. [littlefs-project /    littlefs](https://github.com/littlefs-project/littlefs)
+   - A little fail-safe filesystem designed for microcontrollers
+
+20. [sunnypilot /    sunnypilot](https://github.com/sunnypilot/sunnypilot)
+   - sunnypilot is an open source driver assistance system. sunnypilot offers the user a unique driving experience for over 300 supported car makes and models with modified behaviors of driving assist engagements. sunnypilot complies with the safety policy from comma.ai's openpilot as accurately as possible.
 
