@@ -1,50 +1,50 @@
-# GitHub Trending Repos - 2025-05-18
+# GitHub Trending Repos - 2025-05-19
 
-1. [TapXWorld /    ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
-   - 所有小初高、大学PDF教材。
-
-2. [public-apis /    public-apis](https://github.com/public-apis/public-apis)
+1. [public-apis /    public-apis](https://github.com/public-apis/public-apis)
    - A collective list of free APIs
 
-3. [virattt /    ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
-   - An AI Hedge Fund Team
+2. [TapXWorld /    ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+   - 所有小初高、大学PDF教材。
 
-4. [mem0ai /    mem0](https://github.com/mem0ai/mem0)
-   - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
-
-5. [f /    awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
-   - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-
-6. [happycola233 /    tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser)
-   - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
-
-7. [trycua /    cua](https://github.com/trycua/cua)
-   - c/ua is the Docker Container for Computer-Use AI Agents.
-
-8. [xming521 /    WeClone](https://github.com/xming521/WeClone)
-   - 🚀从聊天记录创造数字分身的一站式解决方案💡 使用聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。 数字克隆/数字分身/数字永生/LLM/聊天机器人/LoRA
-
-9. [n8n-io /    n8n](https://github.com/n8n-io/n8n)
-   - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-
-10. [Capsize-Games /    airunner](https://github.com/Capsize-Games/airunner)
-   - Offline inference engine for art, real-time voice conversations, LLM powered chatbots and automated workflows
-
-11. [th-ch /    youtube-music](https://github.com/th-ch/youtube-music)
+3. [th-ch /    youtube-music](https://github.com/th-ch/youtube-music)
    - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 
-12. [facebookresearch /    fairchem](https://github.com/facebookresearch/fairchem)
-   - FAIR Chemistry's library of machine learning methods for chemistry
+4. [yt-dlp /    yt-dlp](https://github.com/yt-dlp/yt-dlp)
+   - A feature-rich command-line audio/video downloader
 
-13. [itdoginfo /    podkop](https://github.com/itdoginfo/podkop)
-   - Dev podkop
+5. [virattt /    ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+   - An AI Hedge Fund Team
 
-14. [neondatabase /    neon](https://github.com/neondatabase/neon)
+6. [unclecode /    crawl4ai](https://github.com/unclecode/crawl4ai)
+   - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+
+7. [ventoy /    Ventoy](https://github.com/ventoy/Ventoy)
+   - A new bootable USB solution.
+
+8. [f /    awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+   - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+
+9. [neondatabase /    neon](https://github.com/neondatabase/neon)
    - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 
-15. [google /    perfetto](https://github.com/google/perfetto)
-   - Performance instrumentation and tracing for Android, Linux and Chrome
+10. [Stirling-Tools /    Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+   - #1 Locally hosted web application that allows you to perform various operations on PDF files
 
-16. [CopilotKit /    CopilotKit](https://github.com/CopilotKit/CopilotKit)
-   - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
+11. [OpenBB-finance /    OpenBB](https://github.com/OpenBB-finance/OpenBB)
+   - Investment Research for Everyone, Everywhere.
+
+12. [tursodatabase /    limbo](https://github.com/tursodatabase/limbo)
+   - Limbo is a project to build the modern evolution of SQLite.
+
+13. [ed-donner /    llm_engineering](https://github.com/ed-donner/llm_engineering)
+   - Repo to accompany my mastering LLM engineering course
+
+14. [arendst /    Tasmota](https://github.com/arendst/Tasmota)
+   - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
+
+15. [LizardByte /    Sunshine](https://github.com/LizardByte/Sunshine)
+   - Self-hosted game stream host for Moonlight.
+
+16. [tiann /    KernelSU](https://github.com/tiann/KernelSU)
+   - A Kernel based root solution for Android
 
