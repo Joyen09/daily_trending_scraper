@@ -1,38 +1,35 @@
-# GitHub Trending Repos - 2025-05-23
+# GitHub Trending Repos - 2025-05-24
 
-1. [All-Hands-AI /    OpenHands](https://github.com/All-Hands-AI/OpenHands)
+1. [microsoft /    qlib](https://github.com/microsoft/qlib)
+   - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
+
+2. [All-Hands-AI /    OpenHands](https://github.com/All-Hands-AI/OpenHands)
    - 🙌 OpenHands: Code Less, Make More
 
-2. [appwrite /    appwrite](https://github.com/appwrite/appwrite)
-   - The open-source Vercel alternative
-
-3. [panaversity /    learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai)
-   - Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.
-
-4. [microsoft /    WSL](https://github.com/microsoft/WSL)
-   - Windows Subsystem for Linux
-
-5. [usebruno /    bruno](https://github.com/usebruno/bruno)
-   - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
-
-6. [HeyPuter /    puter](https://github.com/HeyPuter/puter)
-   - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
-
-7. [usememos /    memos](https://github.com/usememos/memos)
-   - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
-
-8. [modelcontextprotocol /    registry](https://github.com/modelcontextprotocol/registry)
+3. [modelcontextprotocol /    registry](https://github.com/modelcontextprotocol/registry)
    - A community driven registry service for Model Context Protocol (MCP) servers.
 
-9. [ZJU-LLMs /    Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs)
-   - No description
+4. [mindsdb /    mindsdb](https://github.com/mindsdb/mindsdb)
+   - AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
 
-10. [virattt /    ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
-   - An AI Hedge Fund Team
+5. [XiaoYouChR /    Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3)
+   - A cross-platform fluent-design AI-boost multi-threaded downloader built with Python.
 
-11. [microsoft /    vscode](https://github.com/microsoft/vscode)
+6. [microsoft /    vscode](https://github.com/microsoft/vscode)
    - Visual Studio Code
 
-12. [huggingface /    huggingface.js](https://github.com/huggingface/huggingface.js)
-   - Utilities to use the Hugging Face Hub API
+7. [freeCodeCamp /    freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+   - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+
+8. [donnemartin /    system-design-primer](https://github.com/donnemartin/system-design-primer)
+   - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+
+9. [anthropics /    claude-code](https://github.com/anthropics/claude-code)
+   - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+
+10. [flutter /    flutter](https://github.com/flutter/flutter)
+   - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+
+11. [Fosowl /    agenticSeek](https://github.com/Fosowl/agenticSeek)
+   - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
 
