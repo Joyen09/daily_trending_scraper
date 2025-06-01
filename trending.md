@@ -1,38 +1,44 @@
-# GitHub Trending Repos - 2025-05-31
+# GitHub Trending Repos - 2025-06-01
 
 1. [anthropics /    prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
    - Anthropic's Interactive Prompt Engineering Tutorial
 
-2. [microsoft /    ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-   - 11 Lessons to Get Started Building AI Agents
+2. [onlook-dev /    onlook](https://github.com/onlook-dev/onlook)
+   - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 
-3. [trimstray /    the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-   - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-
-4. [aaPanel /    BillionMail](https://github.com/aaPanel/BillionMail)
+3. [aaPanel /    BillionMail](https://github.com/aaPanel/BillionMail)
    - BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV
 
-5. [getzep /    graphiti](https://github.com/getzep/graphiti)
-   - Build Real-Time Knowledge Graphs for AI Agents
+4. [fastapi /    fastapi](https://github.com/fastapi/fastapi)
+   - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
-6. [anthropics /    courses](https://github.com/anthropics/courses)
-   - Anthropic's educational courses
+5. [ripienaar /    free-for-dev](https://github.com/ripienaar/free-for-dev)
+   - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
-7. [ccxt /    ccxt](https://github.com/ccxt/ccxt)
-   - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+6. [anthropics /    anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
+   - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 
-8. [coleam00 /    local-ai-packaged](https://github.com/coleam00/local-ai-packaged)
-   - Run all your local AI together in one package - Ollama, Supabase, n8n, Open WebUI, and more!
+7. [microsoft /    ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+   - 11 Lessons to Get Started Building AI Agents
 
-9. [KwaiVGI /    LivePortrait](https://github.com/KwaiVGI/LivePortrait)
-   - Bring portraits to life!
+8. [frdel /    agent-zero](https://github.com/frdel/agent-zero)
+   - Agent Zero AI framework
 
-10. [Fosowl /    agenticSeek](https://github.com/Fosowl/agenticSeek)
-   - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
+9. [syncthing /    syncthing](https://github.com/syncthing/syncthing)
+   - Open Source Continuous File Synchronization
 
-11. [langgenius /    dify](https://github.com/langgenius/dify)
-   - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+10. [microsoft /    generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+   - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
 
-12. [f /    awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
-   - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+11. [mui /    mui-x](https://github.com/mui/mui-x)
+   - MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
+
+12. [promptfoo /    promptfoo](https://github.com/promptfoo/promptfoo)
+   - Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
+
+13. [dair-ai /    Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+   - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+
+14. [ok-oldking /    ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves)
+   - 鸣潮 后台自动战斗 自动刷声骸 一键日常 Automation for Wuthering Waves
 
