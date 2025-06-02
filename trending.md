@@ -1,44 +1,53 @@
-# GitHub Trending Repos - 2025-06-01
+# GitHub Trending Repos - 2025-06-02
 
 1. [anthropics /    prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
    - Anthropic's Interactive Prompt Engineering Tutorial
 
-2. [onlook-dev /    onlook](https://github.com/onlook-dev/onlook)
-   - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+2. [anthropics /    courses](https://github.com/anthropics/courses)
+   - Anthropic's educational courses
 
-3. [aaPanel /    BillionMail](https://github.com/aaPanel/BillionMail)
-   - BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV
-
-4. [fastapi /    fastapi](https://github.com/fastapi/fastapi)
-   - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-
-5. [ripienaar /    free-for-dev](https://github.com/ripienaar/free-for-dev)
-   - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-6. [anthropics /    anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
-   - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-
-7. [microsoft /    ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-   - 11 Lessons to Get Started Building AI Agents
-
-8. [frdel /    agent-zero](https://github.com/frdel/agent-zero)
+3. [frdel /    agent-zero](https://github.com/frdel/agent-zero)
    - Agent Zero AI framework
 
-9. [syncthing /    syncthing](https://github.com/syncthing/syncthing)
+4. [onlook-dev /    onlook](https://github.com/onlook-dev/onlook)
+   - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+
+5. [imputnet /    cobalt](https://github.com/imputnet/cobalt)
+   - best way to save what you love
+
+6. [donnemartin /    system-design-primer](https://github.com/donnemartin/system-design-primer)
+   - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+
+7. [Flowseal /    zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
+   - No description
+
+8. [elebumm /    RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
+   - Create Reddit Videos with just✨ one command ✨
+
+9. [trimstray /    the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+   - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+
+10. [microsoft /    ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+   - 11 Lessons to Get Started Building AI Agents
+
+11. [coleam00 /    local-ai-packaged](https://github.com/coleam00/local-ai-packaged)
+   - Run all your local AI together in one package - Ollama, Supabase, n8n, Open WebUI, and more!
+
+12. [syncthing /    syncthing](https://github.com/syncthing/syncthing)
    - Open Source Continuous File Synchronization
 
-10. [microsoft /    generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
-   - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+13. [nautechsystems /    nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
+   - A high-performance algorithmic trading platform and event-driven backtester
 
-11. [mui /    mui-x](https://github.com/mui/mui-x)
+14. [assimp /    assimp](https://github.com/assimp/assimp)
+   - The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.
+
+15. [mui /    mui-x](https://github.com/mui/mui-x)
    - MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
 
-12. [promptfoo /    promptfoo](https://github.com/promptfoo/promptfoo)
-   - Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
+16. [googleapis /    go-genai](https://github.com/googleapis/go-genai)
+   - Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications.
 
-13. [dair-ai /    Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
-   - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
-
-14. [ok-oldking /    ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves)
-   - 鸣潮 后台自动战斗 自动刷声骸 一键日常 Automation for Wuthering Waves
+17. [GeostatsGuy /    DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython)
+   - Python interactive dashboards for learning data science
 
