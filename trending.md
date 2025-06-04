@@ -1,47 +1,38 @@
-# GitHub Trending Repos - 2025-06-03
+# GitHub Trending Repos - 2025-06-04
 
 1. [onlook-dev /    onlook](https://github.com/onlook-dev/onlook)
    - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 
-2. [donnemartin /    system-design-primer](https://github.com/donnemartin/system-design-primer)
-   - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-
-3. [anthropics /    prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
-   - Anthropic's Interactive Prompt Engineering Tutorial
-
-4. [gitroomhq /    postiz-app](https://github.com/gitroomhq/postiz-app)
-   - 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
-
-5. [nautechsystems /    nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
+2. [nautechsystems /    nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
    - A high-performance algorithmic trading platform and event-driven backtester
 
-6. [syncthing /    syncthing](https://github.com/syncthing/syncthing)
-   - Open Source Continuous File Synchronization
-
-7. [MODSetter /    SurfSense](https://github.com/MODSetter/SurfSense)
-   - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
-
-8. [anthropics /    courses](https://github.com/anthropics/courses)
-   - Anthropic's educational courses
-
-9. [frdel /    agent-zero](https://github.com/frdel/agent-zero)
+3. [frdel /    agent-zero](https://github.com/frdel/agent-zero)
    - Agent Zero AI framework
 
-10. [elebumm /    RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
+4. [DataExpert-io /    data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
+   - This is a repo with links to everything you'd ever want to learn about data engineering
+
+5. [donnemartin /    system-design-primer](https://github.com/donnemartin/system-design-primer)
+   - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+
+6. [gitroomhq /    postiz-app](https://github.com/gitroomhq/postiz-app)
+   - 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
+
+7. [plankanban /    planka](https://github.com/plankanban/planka)
+   - PLANKA is the kanban-style project mastering tool for everyone.
+
+8. [black-forest-labs /    flux](https://github.com/black-forest-labs/flux)
+   - Official inference repo for FLUX.1 models
+
+9. [elebumm /    RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
    - Create Reddit Videos with just✨ one command ✨
 
-11. [ok-oldking /    ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves)
-   - 鸣潮 后台自动战斗 自动刷声骸 一键日常 Automation for Wuthering Waves
+10. [WordPress /    gutenberg](https://github.com/WordPress/gutenberg)
+   - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
 
-12. [termux /    termux-app](https://github.com/termux/termux-app)
-   - Termux - a terminal emulator application for Android OS extendible by variety of packages.
+11. [Flowseal /    zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
+   - No description
 
-13. [MervinPraison /    PraisonAI](https://github.com/MervinPraison/PraisonAI)
-   - PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution to streamline the building and management of multi-agent LLM systems, emphasising simplicity, customisation, and effective human-agent collaboration.
-
-14. [assimp /    assimp](https://github.com/assimp/assimp)
-   - The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.
-
-15. [virattt /    ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
-   - An AI Hedge Fund Team
+12. [yeongpin /    cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)
+   - [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
 
