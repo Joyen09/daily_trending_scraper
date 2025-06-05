@@ -1,38 +1,41 @@
-# GitHub Trending Repos - 2025-06-04
+# GitHub Trending Repos - 2025-06-05
 
 1. [onlook-dev /    onlook](https://github.com/onlook-dev/onlook)
    - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 
-2. [nautechsystems /    nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
+2. [gitroomhq /    postiz-app](https://github.com/gitroomhq/postiz-app)
+   - 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
+
+3. [nautechsystems /    nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
    - A high-performance algorithmic trading platform and event-driven backtester
 
-3. [frdel /    agent-zero](https://github.com/frdel/agent-zero)
-   - Agent Zero AI framework
-
-4. [DataExpert-io /    data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
-   - This is a repo with links to everything you'd ever want to learn about data engineering
+4. [Anduin2017 /    HowToCook](https://github.com/Anduin2017/HowToCook)
+   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
 5. [donnemartin /    system-design-primer](https://github.com/donnemartin/system-design-primer)
    - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
-6. [gitroomhq /    postiz-app](https://github.com/gitroomhq/postiz-app)
-   - 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
+6. [TapXWorld /    ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+   - 所有小初高、大学PDF教材。
 
-7. [plankanban /    planka](https://github.com/plankanban/planka)
-   - PLANKA is the kanban-style project mastering tool for everyone.
-
-8. [black-forest-labs /    flux](https://github.com/black-forest-labs/flux)
-   - Official inference repo for FLUX.1 models
-
-9. [elebumm /    RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
+7. [elebumm /    RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
    - Create Reddit Videos with just✨ one command ✨
 
-10. [WordPress /    gutenberg](https://github.com/WordPress/gutenberg)
-   - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
-
-11. [Flowseal /    zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
+8. [jemalloc /    jemalloc](https://github.com/jemalloc/jemalloc)
    - No description
 
-12. [yeongpin /    cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)
-   - [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+9. [jwasham /    coding-interview-university](https://github.com/jwasham/coding-interview-university)
+   - A complete computer science study plan to become a software engineer.
+
+10. [scrapy /    scrapy](https://github.com/scrapy/scrapy)
+   - Scrapy, a fast high-level web crawling & scraping framework for Python.
+
+11. [frdel /    agent-zero](https://github.com/frdel/agent-zero)
+   - Agent Zero AI framework
+
+12. [SimplifyJobs /    Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships)
+   - Collection of Summer 2025 tech internships!
+
+13. [syncthing /    syncthing](https://github.com/syncthing/syncthing)
+   - Open Source Continuous File Synchronization
 
