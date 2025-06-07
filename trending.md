@@ -1,41 +1,47 @@
-# GitHub Trending Repos - 2025-06-06
+# GitHub Trending Repos - 2025-06-07
 
-1. [frdel /    agent-zero](https://github.com/frdel/agent-zero)
-   - Agent Zero AI framework
-
-2. [nautechsystems /    nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
-   - A high-performance algorithmic trading platform and event-driven backtester
-
-3. [scrapy /    scrapy](https://github.com/scrapy/scrapy)
-   - Scrapy, a fast high-level web crawling & scraping framework for Python.
-
-4. [onlook-dev /    onlook](https://github.com/onlook-dev/onlook)
-   - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
-
-5. [Anduin2017 /    HowToCook](https://github.com/Anduin2017/HowToCook)
-   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-
-6. [netbirdio /    netbird](https://github.com/netbirdio/netbird)
+1. [netbirdio /    netbird](https://github.com/netbirdio/netbird)
    - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 
-7. [iamgio /    quarkdown](https://github.com/iamgio/quarkdown)
-   - 🪐 Markdown with superpowers — from ideas to presentations, articles and books.
+2. [lastmile-ai /    mcp-agent](https://github.com/lastmile-ai/mcp-agent)
+   - Build effective agents using Model Context Protocol and simple workflow patterns
 
-8. [TapXWorld /    ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
-   - 所有小初高、大学PDF教材。
-
-9. [ArduPilot /    ardupilot](https://github.com/ArduPilot/ardupilot)
-   - ArduPlane, ArduCopter, ArduRover, ArduSub source
-
-10. [topoteretes /    cognee](https://github.com/topoteretes/cognee)
+3. [topoteretes /    cognee](https://github.com/topoteretes/cognee)
    - Memory for AI Agents in 5 lines of code
 
-11. [lastmile-ai /    mcp-agent](https://github.com/lastmile-ai/mcp-agent)
-   - Build effective agents using Model Context Protocol and simple workflow patterns
+4. [stanfordnlp /    dspy](https://github.com/stanfordnlp/dspy)
+   - DSPy: The framework for programming—not prompting—language models
+
+5. [codexu /    note-gen](https://github.com/codexu/note-gen)
+   - A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
+
+6. [unslothai /    notebooks](https://github.com/unslothai/notebooks)
+   - Fine-tune LLMs for free with guided Notebooks on Google Colab, Kaggle, and more.
+
+7. [jwasham /    coding-interview-university](https://github.com/jwasham/coding-interview-university)
+   - A complete computer science study plan to become a software engineer.
+
+8. [deepsense-ai /    ragbits](https://github.com/deepsense-ai/ragbits)
+   - Building blocks for rapid development of GenAI applications
+
+9. [rustdesk /    rustdesk](https://github.com/rustdesk/rustdesk)
+   - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+10. [coleam00 /    Archon](https://github.com/coleam00/Archon)
+   - Archon is an AI agent that is able to create other AI agents using an advanced agentic coding workflow and framework knowledge base to unlock a new frontier of automated agents.
+
+11. [mlabonne /    llm-course](https://github.com/mlabonne/llm-course)
+   - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 
 12. [practical-tutorials /    project-based-learning](https://github.com/practical-tutorials/project-based-learning)
    - Curated list of project-based tutorials
 
-13. [modelcontextprotocol /    ruby-sdk](https://github.com/modelcontextprotocol/ruby-sdk)
-   - The official Ruby SDK for the Model Context Protocol. Maintained in collaboration with Shopify.
+13. [ArduPilot /    ardupilot](https://github.com/ArduPilot/ardupilot)
+   - ArduPlane, ArduCopter, ArduRover, ArduSub source
+
+14. [codecrafters-io /    build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+   - Master programming by recreating your favorite technologies from scratch.
+
+15. [onlook-dev /    onlook](https://github.com/onlook-dev/onlook)
+   - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 
