@@ -1,44 +1,29 @@
-# GitHub Trending Repos - 2025-06-11
+# GitHub Trending Repos - 2025-06-12
 
-1. [jwohlwend /    boltz](https://github.com/jwohlwend/boltz)
-   - Official repository for the Boltz biomolecular interaction models
+1. [sindresorhus /    awesome](https://github.com/sindresorhus/awesome)
+   - 😎 Awesome lists about all kinds of interesting topics
 
-2. [tensorzero /    tensorzero](https://github.com/tensorzero/tensorzero)
-   - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
+2. [Shubhamsaboo /    awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+   - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 
 3. [alphacep /    vosk-api](https://github.com/alphacep/vosk-api)
    - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 
-4. [friuns2 /    BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)
-   - List of free GPTs that doesn't require plus subscription
+4. [jwohlwend /    boltz](https://github.com/jwohlwend/boltz)
+   - Official repository for the Boltz biomolecular interaction models
 
-5. [dair-ai /    Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
-   - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+5. [jdepoix /    youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api)
+   - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
 
-6. [eythaann /    Seelen-UI](https://github.com/eythaann/Seelen-UI)
-   - The Fully Customizable Desktop Environment for Windows 10/11.
-
-7. [ourongxing /    newsnow](https://github.com/ourongxing/newsnow)
-   - Elegant reading of real-time and hottest news
-
-8. [zijie0 /    HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
+6. [zijie0 /    HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
    - 健康学习到150岁 - 人体系统调优不完全指南
 
-9. [datawhalechina /    self-llm](https://github.com/datawhalechina/self-llm)
+7. [datawhalechina /    self-llm](https://github.com/datawhalechina/self-llm)
    - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
 
-10. [XTLS /    Xray-core](https://github.com/XTLS/Xray-core)
-   - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
+8. [juspay /    hyperswitch](https://github.com/juspay/hyperswitch)
+   - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
-11. [YaLTeR /    niri](https://github.com/YaLTeR/niri)
-   - A scrollable-tiling Wayland compositor.
-
-12. [modelcontextprotocol /    servers](https://github.com/modelcontextprotocol/servers)
-   - Model Context Protocol Servers
-
-13. [NirDiamant /    GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)
-   - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
-
-14. [PathOfBuildingCommunity /    PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding)
-   - Offline build planner for Path of Exile.
+9. [OpenBMB /    MiniCPM](https://github.com/OpenBMB/MiniCPM)
+   - MiniCPM4: Ultra-Efficient LLMs on End Devices, achieving 5+ speedup on typical end-side chips
 
