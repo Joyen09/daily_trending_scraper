@@ -1,4 +1,4 @@
-# GitHub Trending Repos - 2025-06-14
+# GitHub Trending Repos - 2025-06-15
 
 1. [Shubhamsaboo /    awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
    - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
