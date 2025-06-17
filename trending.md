@@ -1,29 +1,38 @@
-# GitHub Trending Repos - 2025-06-16
+# GitHub Trending Repos - 2025-06-17
 
-1. [sindresorhus /    awesome](https://github.com/sindresorhus/awesome)
-   - 😎 Awesome lists about all kinds of interesting topics
+1. [microsoft /    fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons)
+   - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 
-2. [xiangechen /    chili3d](https://github.com/xiangechen/chili3d)
-   - A web-based 3D CAD application for online model design and editing
+2. [anthropics /    anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
+   - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 
-3. [datawhalechina /    self-llm](https://github.com/datawhalechina/self-llm)
-   - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
+3. [anthropics /    prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
+   - Anthropic's Interactive Prompt Engineering Tutorial
 
-4. [jdepoix /    youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api)
-   - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
+4. [Shubhamsaboo /    awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+   - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 
-5. [microsoft /    ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-   - 11 Lessons to Get Started Building AI Agents
+5. [immich-app /    immich](https://github.com/immich-app/immich)
+   - High performance self-hosted photo and video management solution.
 
-6. [confident-ai /    deepeval](https://github.com/confident-ai/deepeval)
-   - The LLM Evaluation Framework
+6. [huggingface /    lerobot](https://github.com/huggingface/lerobot)
+   - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
 
-7. [YaLTeR /    niri](https://github.com/YaLTeR/niri)
-   - A scrollable-tiling Wayland compositor.
+7. [gtsteffaniak /    filebrowser](https://github.com/gtsteffaniak/filebrowser)
+   - 📂 Web File Browser
 
-8. [FareedKhan-dev /    all-rag-techniques](https://github.com/FareedKhan-dev/all-rag-techniques)
-   - Implementation of all RAG techniques in a simpler way
+8. [zen-browser /    desktop](https://github.com/zen-browser/desktop)
+   - Welcome to a calmer internet
 
-9. [virattt /    ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+9. [linshenkx /    prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
+   - 一款提示词优化器，助力于编写高质量的提示词
+
+10. [virattt /    ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
    - An AI Hedge Fund Team
+
+11. [panaversity /    learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai)
+   - Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.
+
+12. [YaLTeR /    niri](https://github.com/YaLTeR/niri)
+   - A scrollable-tiling Wayland compositor.
 
