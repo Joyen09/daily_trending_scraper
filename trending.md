@@ -1,47 +1,35 @@
-# GitHub Trending Repos - 2025-06-23
+# GitHub Trending Repos - 2025-06-24
 
-1. [rasbt /    LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
-   - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-
-2. [patchy631 /    ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
-   - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-
-3. [ManimCommunity /    manim](https://github.com/ManimCommunity/manim)
-   - A community-maintained Python framework for creating mathematical animations.
-
-4. [microsoft /    edit](https://github.com/microsoft/edit)
+1. [microsoft /    edit](https://github.com/microsoft/edit)
    - We all edit.
 
-5. [mikumifa /    biliTickerBuy](https://github.com/mikumifa/biliTickerBuy)
-   - b站会员购购票辅助工具
+2. [voideditor /    void](https://github.com/voideditor/void)
+   - No description
 
-6. [kortix-ai /    suna](https://github.com/kortix-ai/suna)
+3. [ghostty-org /    ghostty](https://github.com/ghostty-org/ghostty)
+   - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+
+4. [kortix-ai /    suna](https://github.com/kortix-ai/suna)
    - Suna - Open Source Generalist AI Agent
 
-7. [DrKLO /    Telegram](https://github.com/DrKLO/Telegram)
-   - Telegram for Android source
+5. [x1xhlol /    system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+   - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
 
-8. [anthropics /    claude-code](https://github.com/anthropics/claude-code)
-   - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+6. [typst /    typst](https://github.com/typst/typst)
+   - A new markup-based typesetting system that is powerful and easy to learn.
 
-9. [DataExpert-io /    data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
-   - This is a repo with links to everything you'd ever want to learn about data engineering
+7. [HarbourMasters /    SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart)
+   - No description
 
-10. [cyclotruc /    gitingest](https://github.com/cyclotruc/gitingest)
-   - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
-
-11. [krishnadey30 /    LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise)
-   - Contains Company Wise Questions sorted based on Frequency and all time
-
-12. [microsoft /    Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+8. [microsoft /    Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
    - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
-13. [dail8859 /    NotepadNext](https://github.com/dail8859/NotepadNext)
-   - A cross-platform, reimplementation of Notepad++
+9. [comfyanonymous /    ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+   - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 
-14. [donnemartin /    awesome-aws](https://github.com/donnemartin/awesome-aws)
-   - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome.
+10. [localsend /    localsend](https://github.com/localsend/localsend)
+   - An open-source cross-platform alternative to AirDrop
 
-15. [n8n-io /    n8n](https://github.com/n8n-io/n8n)
-   - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+11. [isledecomp /    isle-portable](https://github.com/isledecomp/isle-portable)
+   - A portable version of LEGO Island (1997)
 
