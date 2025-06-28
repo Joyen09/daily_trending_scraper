@@ -1,53 +1,44 @@
-# GitHub Trending Repos - 2025-06-27
+# GitHub Trending Repos - 2025-06-28
 
-1. [microsoft /    edit](https://github.com/microsoft/edit)
-   - We all edit.
+1. [coleam00 /    ottomator-agents](https://github.com/coleam00/ottomator-agents)
+   - All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
 
-2. [mui /    base-ui](https://github.com/mui/base-ui)
-   - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
+2. [sindresorhus /    awesome](https://github.com/sindresorhus/awesome)
+   - 😎 Awesome lists about all kinds of interesting topics
 
 3. [gitleaks /    gitleaks](https://github.com/gitleaks/gitleaks)
    - Find secrets with Gitleaks 🔑
 
-4. [modelcontextprotocol /    registry](https://github.com/modelcontextprotocol/registry)
-   - A community driven registry service for Model Context Protocol (MCP) servers.
+4. [twentyhq /    twenty](https://github.com/twentyhq/twenty)
+   - Building a modern alternative to Salesforce, powered by the community.
 
-5. [punkpeye /    awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
-   - A collection of MCP servers.
+5. [black-forest-labs /    flux](https://github.com/black-forest-labs/flux)
+   - Official inference repo for FLUX.1 models
 
 6. [jujumilk3 /    leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)
    - Collection of leaked system prompts
 
-7. [twentyhq /    twenty](https://github.com/twentyhq/twenty)
-   - Building a modern alternative to Salesforce, powered by the community.
+7. [gensyn-ai /    rl-swarm](https://github.com/gensyn-ai/rl-swarm)
+   - A fully open source framework for creating RL training swarms over the internet.
 
-8. [nexus-xyz /    nexus-cli](https://github.com/nexus-xyz/nexus-cli)
-   - Command line interface for supplying proofs to the Nexus network.
+8. [rxi /    microui](https://github.com/rxi/microui)
+   - A tiny immediate-mode UI library
 
-9. [AykutSarac /    jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)
+9. [automatisch /    automatisch](https://github.com/automatisch/automatisch)
+   - The open source Zapier alternative. Build workflow automation without spending time and money.
+
+10. [AykutSarac /    jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)
    - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 
-10. [DioxusLabs /    dioxus](https://github.com/DioxusLabs/dioxus)
-   - Fullstack app framework for web, desktop, and mobile.
-
-11. [Portkey-AI /    gateway](https://github.com/Portkey-AI/gateway)
-   - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
-
-12. [ml-tooling /    best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)
-   - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
-
-13. [microsoft /    ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
-   - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-
-14. [mikeroyal /    Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
-   - Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
-
-15. [microsoft /    generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
-   - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-
-16. [sdmg15 /    Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+11. [sdmg15 /    Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
    - 🔗 Some useful websites for programmers.
 
-17. [ripienaar /    free-for-dev](https://github.com/ripienaar/free-for-dev)
+12. [mui /    base-ui](https://github.com/mui/base-ui)
+   - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
+
+13. [ripienaar /    free-for-dev](https://github.com/ripienaar/free-for-dev)
    - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+14. [cline /    cline](https://github.com/cline/cline)
+   - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 
