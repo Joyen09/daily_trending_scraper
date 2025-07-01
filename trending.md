@@ -1,50 +1,53 @@
-# GitHub Trending Repos - 2025-06-30
+# GitHub Trending Repos - 2025-07-01
 
-1. [twentyhq /    twenty](https://github.com/twentyhq/twenty)
+1. [GraphiteEditor /    Graphite](https://github.com/GraphiteEditor/Graphite)
+   - An open source graphics editor for 2025: comprehensive 2D content creation tool for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+
+2. [twentyhq /    twenty](https://github.com/twentyhq/twenty)
    - Building a modern alternative to Salesforce, powered by the community.
 
-2. [GraphiteEditor /    Graphite](https://github.com/GraphiteEditor/Graphite)
-   - 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
+3. [nextcloud /    all-in-one](https://github.com/nextcloud/all-in-one)
+   - 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 
-3. [octra-labs /    wallet-gen](https://github.com/octra-labs/wallet-gen)
+4. [midday-ai /    midday](https://github.com/midday-ai/midday)
+   - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
+
+5. [octra-labs /    wallet-gen](https://github.com/octra-labs/wallet-gen)
    - No description
 
-4. [microsoft /    generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+6. [actualbudget /    actual](https://github.com/actualbudget/actual)
+   - A local-first personal finance app
+
+7. [microsoft /    generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
    - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
 
-5. [x1xhlol /    system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
-   - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
-
-6. [coleam00 /    ottomator-agents](https://github.com/coleam00/ottomator-agents)
-   - All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
-
-7. [stanford-oval /    storm](https://github.com/stanford-oval/storm)
-   - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
-
-8. [jnsahaj /    tweakcn](https://github.com/jnsahaj/tweakcn)
-   - A visual no-code theme editor for shadcn/ui components
-
-9. [mendableai /    firecrawl](https://github.com/mendableai/firecrawl)
+8. [mendableai /    firecrawl](https://github.com/mendableai/firecrawl)
    - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 
-10. [ItzCrazyKns /    Perplexica](https://github.com/ItzCrazyKns/Perplexica)
-   - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
-
-11. [adityachandelgit /    BookLore](https://github.com/adityachandelgit/BookLore)
-   - BookLore is a web app for hosting, managing, and exploring books, with support for PDFs, eBooks, reading progress, metadata, and stats.
-
-12. [swisskyrepo /    PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+9. [swisskyrepo /    PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
    - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
-13. [mikumifa /    biliTickerBuy](https://github.com/mikumifa/biliTickerBuy)
-   - b站会员购购票辅助工具
+10. [stanford-oval /    storm](https://github.com/stanford-oval/storm)
+   - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 
-14. [m1k1o /    neko](https://github.com/m1k1o/neko)
-   - A self hosted virtual browser that runs in docker and uses WebRTC.
+11. [aldinokemal /    go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice)
+   - API for Whatsapp Web Multi Device Version, Support UI, Webhook & MCP
 
-15. [LMCache /    LMCache](https://github.com/LMCache/LMCache)
-   - Supercharge Your LLM with the Fastest KV Cache Layer
+12. [snailyp /    gemini-balance](https://github.com/snailyp/gemini-balance)
+   - Gemini polling proxy service （gemini轮询代理服务）
 
-16. [zyronon /    typing-word](https://github.com/zyronon/typing-word)
-   - 在网页上背单词
+13. [paperless-ngx /    paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+   - A community-supported supercharged document management system: scan, index and archive all your documents
+
+14. [007revad /    Synology_HDD_db](https://github.com/007revad/Synology_HDD_db)
+   - Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more
+
+15. [vanshb03 /    Summer2026-Internships](https://github.com/vanshb03/Summer2026-Internships)
+   - Collection of Summer 2026 tech internships!
+
+16. [visgl /    deck.gl](https://github.com/visgl/deck.gl)
+   - WebGL2 powered visualization framework
+
+17. [coleam00 /    ottomator-agents](https://github.com/coleam00/ottomator-agents)
+   - All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
 
