@@ -1,35 +1,29 @@
-# GitHub Trending Repos - 2025-07-06
+# GitHub Trending Repos - 2025-07-07
 
 1. [NanmiCoder /    MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
    - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
 
-2. [rustfs /    rustfs](https://github.com/rustfs/rustfs)
-   - 🚀 High-performance distributed object storage for MinIO alternative.
+2. [dockur /    macos](https://github.com/dockur/macos)
+   - macOS inside a Docker container.
 
-3. [LadybirdBrowser /    ladybird](https://github.com/LadybirdBrowser/ladybird)
-   - Truly independent web browser
+3. [anthropics /    prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
+   - Anthropic's Interactive Prompt Engineering Tutorial
 
-4. [datawhalechina /    happy-llm](https://github.com/datawhalechina/happy-llm)
-   - 📚 从零开始的大语言模型原理与实践教程
+4. [vosen /    ZLUDA](https://github.com/vosen/ZLUDA)
+   - CUDA on non-NVIDIA GPUs
 
-5. [Universidade-Livre /    ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao)
-   - 🎓 Um caminho para a educação autodidata em Ciência da Computação!
+5. [GyulyVGC /    sniffnet](https://github.com/GyulyVGC/sniffnet)
+   - Comfortably monitor your Internet traffic 🕵️‍♂️
 
-6. [megadose /    toutatis](https://github.com/megadose/toutatis)
-   - Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more
+6. [Alex313031 /    thorium](https://github.com/Alex313031/thorium)
+   - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 
-7. [bregman-arie /    devops-exercises](https://github.com/bregman-arie/devops-exercises)
-   - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-
-8. [MotiaDev /    motia](https://github.com/MotiaDev/motia)
-   - Unified Backend Framework for APIs, Events, and AI Agents
-
-9. [directus /    directus](https://github.com/directus/directus)
-   - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-
-10. [google /    perfetto](https://github.com/google/perfetto)
-   - Production-grade client-side tracing, profiling, and analysis for complex software systems.
-
-11. [codecrafters-io /    build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+7. [codecrafters-io /    build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
    - Master programming by recreating your favorite technologies from scratch.
+
+8. [iib0011 /    omni-tools](https://github.com/iib0011/omni-tools)
+   - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
+
+9. [home-assistant /    home-assistant.io](https://github.com/home-assistant/home-assistant.io)
+   - 📘 Home Assistant User documentation
 
