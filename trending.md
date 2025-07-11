@@ -1,44 +1,50 @@
-# GitHub Trending Repos - 2025-07-10
+# GitHub Trending Repos - 2025-07-11
 
-1. [googleapis /    genai-toolbox](https://github.com/googleapis/genai-toolbox)
-   - MCP Toolbox for Databases is an open source MCP server for databases.
-
-2. [rustfs /    rustfs](https://github.com/rustfs/rustfs)
-   - 🚀 High-performance distributed object storage for MinIO alternative.
-
-3. [anthropics /    prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
-   - Anthropic's Interactive Prompt Engineering Tutorial
-
-4. [Alibaba-NLP /    WebAgent](https://github.com/Alibaba-NLP/WebAgent)
+1. [Alibaba-NLP /    WebAgent](https://github.com/Alibaba-NLP/WebAgent)
    - 🌐 WebAgent for Information Seeking bulit by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592
 
-5. [putyy /    res-downloader](https://github.com/putyy/res-downloader)
-   - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
+2. [WordPress /    wordpress-develop](https://github.com/WordPress/wordpress-develop)
+   - WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.
 
-6. [ed-donner /    agents](https://github.com/ed-donner/agents)
-   - Repo for the Complete Agentic AI Engineering Course
+3. [googleapis /    genai-toolbox](https://github.com/googleapis/genai-toolbox)
+   - MCP Toolbox for Databases is an open source MCP server for databases.
 
-7. [wanghongenpin /    proxypin](https://github.com/wanghongenpin/proxypin)
-   - Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems
+4. [LMCache /    LMCache](https://github.com/LMCache/LMCache)
+   - Supercharge Your LLM with the Fastest KV Cache Layer
 
-8. [microsoft /    ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-   - 11 Lessons to Get Started Building AI Agents
+5. [forthespada /    CS-Books](https://github.com/forthespada/CS-Books)
+   - 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
+
+6. [ByteByteGoHq /    system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+   - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+
+7. [snap-stanford /    Biomni](https://github.com/snap-stanford/Biomni)
+   - Biomni: a general-purpose biomedical AI agent
+
+8. [pybind /    pybind11](https://github.com/pybind/pybind11)
+   - Seamless operability between C++11 and Python
 
 9. [punkpeye /    awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients)
    - A collection of MCP clients.
 
-10. [strapi /    strapi](https://github.com/strapi/strapi)
-   - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
+10. [FujiwaraChoki /    MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
+   - Automate the process of making money online.
 
-11. [microsoft /    MoGe](https://github.com/microsoft/MoGe)
-   - [CVPR'25 Oral] MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision
+11. [helm /    helm](https://github.com/helm/helm)
+   - The Kubernetes Package Manager
 
-12. [alibaba /    MNN](https://github.com/alibaba/MNN)
-   - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md
+12. [coleam00 /    ai-agents-masterclass](https://github.com/coleam00/ai-agents-masterclass)
+   - Follow along with my AI Agents Masterclass videos! All of the code I create and use in this series on YouTube will be here for you to use and even build on top of!
 
-13. [ed-donner /    llm_engineering](https://github.com/ed-donner/llm_engineering)
-   - Repo to accompany my mastering LLM engineering course
+13. [HandsOnLLM /    Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+   - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
 
-14. [junegunn /    fzf](https://github.com/junegunn/fzf)
-   - 🌸 A command-line fuzzy finder
+14. [volcengine /    verl](https://github.com/volcengine/verl)
+   - verl: Volcano Engine Reinforcement Learning for LLMs
+
+15. [hashicorp /    terraform](https://github.com/hashicorp/terraform)
+   - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+
+16. [flutter /    packages](https://github.com/flutter/packages)
+   - A collection of useful packages maintained by the Flutter team
 
