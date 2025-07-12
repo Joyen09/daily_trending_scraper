@@ -1,50 +1,47 @@
-# GitHub Trending Repos - 2025-07-11
+# GitHub Trending Repos - 2025-07-12
 
-1. [Alibaba-NLP /    WebAgent](https://github.com/Alibaba-NLP/WebAgent)
-   - 🌐 WebAgent for Information Seeking bulit by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592
+1. [protocolbuffers /    protobuf](https://github.com/protocolbuffers/protobuf)
+   - Protocol Buffers - Google's data interchange format
 
-2. [WordPress /    wordpress-develop](https://github.com/WordPress/wordpress-develop)
-   - WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.
-
-3. [googleapis /    genai-toolbox](https://github.com/googleapis/genai-toolbox)
+2. [googleapis /    genai-toolbox](https://github.com/googleapis/genai-toolbox)
    - MCP Toolbox for Databases is an open source MCP server for databases.
 
-4. [LMCache /    LMCache](https://github.com/LMCache/LMCache)
-   - Supercharge Your LLM with the Fastest KV Cache Layer
+3. [Alibaba-NLP /    WebAgent](https://github.com/Alibaba-NLP/WebAgent)
+   - 🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592
 
-5. [forthespada /    CS-Books](https://github.com/forthespada/CS-Books)
-   - 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
+4. [WordPress /    wordpress-develop](https://github.com/WordPress/wordpress-develop)
+   - WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.
 
-6. [ByteByteGoHq /    system-design-101](https://github.com/ByteByteGoHq/system-design-101)
-   - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
-
-7. [snap-stanford /    Biomni](https://github.com/snap-stanford/Biomni)
+5. [snap-stanford /    Biomni](https://github.com/snap-stanford/Biomni)
    - Biomni: a general-purpose biomedical AI agent
 
-8. [pybind /    pybind11](https://github.com/pybind/pybind11)
-   - Seamless operability between C++11 and Python
+6. [google /    googletest](https://github.com/google/googletest)
+   - GoogleTest - Google Testing and Mocking Framework
 
-9. [punkpeye /    awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients)
+7. [ByteByteGoHq /    system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+   - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+
+8. [goauthentik /    authentik](https://github.com/goauthentik/authentik)
+   - The authentication glue you need.
+
+9. [LMCache /    LMCache](https://github.com/LMCache/LMCache)
+   - Supercharge Your LLM with the Fastest KV Cache Layer
+
+10. [punkpeye /    awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients)
    - A collection of MCP clients.
 
-10. [FujiwaraChoki /    MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
-   - Automate the process of making money online.
-
-11. [helm /    helm](https://github.com/helm/helm)
-   - The Kubernetes Package Manager
-
-12. [coleam00 /    ai-agents-masterclass](https://github.com/coleam00/ai-agents-masterclass)
-   - Follow along with my AI Agents Masterclass videos! All of the code I create and use in this series on YouTube will be here for you to use and even build on top of!
-
-13. [HandsOnLLM /    Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
-   - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
-
-14. [volcengine /    verl](https://github.com/volcengine/verl)
-   - verl: Volcano Engine Reinforcement Learning for LLMs
-
-15. [hashicorp /    terraform](https://github.com/hashicorp/terraform)
+11. [hashicorp /    terraform](https://github.com/hashicorp/terraform)
    - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 
-16. [flutter /    packages](https://github.com/flutter/packages)
-   - A collection of useful packages maintained by the Flutter team
+12. [landing-ai /    agentic-doc](https://github.com/landing-ai/agentic-doc)
+   - Python library for Agentic Document Extraction from LandingAI
+
+13. [open-telemetry /    opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go)
+   - OpenTelemetry Go API and SDK
+
+14. [getsentry /    sentry](https://github.com/getsentry/sentry)
+   - Developer-first error tracking and performance monitoring
+
+15. [antiwork /    flexile](https://github.com/antiwork/flexile)
+   - Contractor payments as easy as 1-2-3
 
