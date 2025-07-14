@@ -1,47 +1,41 @@
-# GitHub Trending Repos - 2025-07-13
+# GitHub Trending Repos - 2025-07-14
 
-1. [snap-stanford /    Biomni](https://github.com/snap-stanford/Biomni)
-   - Biomni: a general-purpose biomedical AI agent
+1. [anthropics /    claude-code](https://github.com/anthropics/claude-code)
+   - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
-2. [open-telemetry /    opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go)
-   - OpenTelemetry Go API and SDK
+2. [vercel /    commerce](https://github.com/vercel/commerce)
+   - Next.js Commerce
 
-3. [googleapis /    genai-toolbox](https://github.com/googleapis/genai-toolbox)
-   - MCP Toolbox for Databases is an open source MCP server for databases.
+3. [block /    goose](https://github.com/block/goose)
+   - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 
-4. [protocolbuffers /    protobuf](https://github.com/protocolbuffers/protobuf)
-   - Protocol Buffers - Google's data interchange format
+4. [trimstray /    the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+   - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
-5. [getzep /    graphiti](https://github.com/getzep/graphiti)
-   - Build Real-Time Knowledge Graphs for AI Agents
+5. [NVIDIA /    cutlass](https://github.com/NVIDIA/cutlass)
+   - CUDA Templates for Linear Algebra Subroutines
 
-6. [pybind /    pybind11](https://github.com/pybind/pybind11)
-   - Seamless operability between C++11 and Python
+6. [ripienaar /    free-for-dev](https://github.com/ripienaar/free-for-dev)
+   - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
-7. [WordPress /    wordpress-develop](https://github.com/WordPress/wordpress-develop)
-   - WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.
-
-8. [gorhill /    uBlock](https://github.com/gorhill/uBlock)
+7. [gorhill /    uBlock](https://github.com/gorhill/uBlock)
    - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
-9. [landing-ai /    agentic-doc](https://github.com/landing-ai/agentic-doc)
-   - Python library for Agentic Document Extraction from LandingAI
-
-10. [zijie0 /    HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
-   - 健康学习到150岁 - 人体系统调优不完全指南
-
-11. [farhanashrafdev /    90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
+8. [farhanashrafdev /    90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
    - This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md
 
-12. [ocrmypdf /    OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
-   - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+9. [microsoft /    qlib](https://github.com/microsoft/qlib)
+   - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
 
-13. [psf /    black](https://github.com/psf/black)
-   - The uncompromising Python code formatter
+10. [browserbase /    stagehand](https://github.com/browserbase/stagehand)
+   - The AI Browser Automation Framework
 
-14. [Alibaba-NLP /    WebAgent](https://github.com/Alibaba-NLP/WebAgent)
-   - 🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592
+11. [landing-ai /    agentic-doc](https://github.com/landing-ai/agentic-doc)
+   - Python library for Agentic Document Extraction from LandingAI
 
-15. [odoo /    odoo](https://github.com/odoo/odoo)
-   - Odoo. Open Source Apps To Grow Your Business.
+12. [getzep /    graphiti](https://github.com/getzep/graphiti)
+   - Build Real-Time Knowledge Graphs for AI Agents
+
+13. [RezaSi /    go-interview-practice](https://github.com/RezaSi/go-interview-practice)
+   - Go Interview Practice is a series of coding challenges to help you prepare for technical interviews in Go. Solve problems, submit your solutions, and receive instant feedback with automated testing. Track your progress with per-challenge scoreboards and improve your coding skills step by step.
 
