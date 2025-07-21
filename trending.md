@@ -1,56 +1,47 @@
-# GitHub Trending Repos - 2025-07-20
+# GitHub Trending Repos - 2025-07-21
 
-1. [hyprwm /    Hyprland](https://github.com/hyprwm/Hyprland)
+1. [srbhr /    Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
+   - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
+
+2. [hyprwm /    Hyprland](https://github.com/hyprwm/Hyprland)
    - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 
-2. [langchain-ai /    open_deep_research](https://github.com/langchain-ai/open_deep_research)
-   - No description
+3. [better-auth /    better-auth](https://github.com/better-auth/better-auth)
+   - The most comprehensive authentication framework for TypeScript
 
-3. [bluenviron /    mediamtx](https://github.com/bluenviron/mediamtx)
-   - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
-
-4. [shadps4-emu /    shadPS4](https://github.com/shadps4-emu/shadPS4)
-   - PlayStation 4 emulator for Windows, Linux and macOS written in C++
-
-5. [soxoj /    maigret](https://github.com/soxoj/maigret)
-   - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
-
-6. [github /    github-mcp-server](https://github.com/github/github-mcp-server)
-   - GitHub's official MCP Server
-
-7. [remoteintech /    remote-jobs](https://github.com/remoteintech/remote-jobs)
+4. [remoteintech /    remote-jobs](https://github.com/remoteintech/remote-jobs)
    - A list of semi to fully remote-friendly companies (jobs) in tech.
 
-8. [bknd-io /    bknd](https://github.com/bknd-io/bknd)
+5. [maybe-finance /    maybe](https://github.com/maybe-finance/maybe)
+   - The personal finance app for everyone
+
+6. [simstudioai /    sim](https://github.com/simstudioai/sim)
+   - Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+
+7. [roboflow /    supervision](https://github.com/roboflow/supervision)
+   - We write your reusable computer vision tools. 💜
+
+8. [shadps4-emu /    shadPS4](https://github.com/shadps4-emu/shadPS4)
+   - PlayStation 4 emulator for Windows, Linux and macOS written in C++
+
+9. [langchain-ai /    open_deep_research](https://github.com/langchain-ai/open_deep_research)
+   - No description
+
+10. [tracel-ai /    burn](https://github.com/tracel-ai/burn)
+   - Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
+
+11. [bknd-io /    bknd](https://github.com/bknd-io/bknd)
    - Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, Remix, Astro, Cloudflare, Bun, Node, AWS Lambda & more.
 
-9. [mrdbourke /    pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
-   - Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
+12. [TheOdinProject /    css-exercises](https://github.com/TheOdinProject/css-exercises)
+   - No description
 
-10. [n8n-io /    n8n](https://github.com/n8n-io/n8n)
+13. [n8n-io /    n8n](https://github.com/n8n-io/n8n)
    - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
-11. [gitleaks /    gitleaks](https://github.com/gitleaks/gitleaks)
-   - Find secrets with Gitleaks 🔑
+14. [panaversity /    learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai)
+   - Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.
 
-12. [Kyome22 /    RunCat365](https://github.com/Kyome22/RunCat365)
-   - A cute running cat animation on your windows taskbar.
-
-13. [Lightricks /    LTX-Video](https://github.com/Lightricks/LTX-Video)
-   - Official repository for LTX-Video
-
-14. [strapi /    strapi](https://github.com/strapi/strapi)
-   - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-
-15. [influxdata /    telegraf](https://github.com/influxdata/telegraf)
-   - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-
-16. [actions /    runner-images](https://github.com/actions/runner-images)
-   - GitHub Actions runner images
-
-17. [HotCakeX /    Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security)
-   - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | Read The Rationale https://github.com/HotCakeX/Harden-Windows-Security/blob/main/Rationale.md
-
-18. [ikawrakow /    ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp)
-   - llama.cpp fork with additional SOTA quants and improved performance
+15. [topjohnwu /    Magisk](https://github.com/topjohnwu/Magisk)
+   - The Magic Mask for Android
 
