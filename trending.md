@@ -1,38 +1,41 @@
-# GitHub Trending Repos - 2025-07-25
+# GitHub Trending Repos - 2025-07-26
 
-1. [srbhr /    Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
-   - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
+1. [QwenLM /    Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder)
+   - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
 
-2. [OpenBB-finance /    OpenBB](https://github.com/OpenBB-finance/OpenBB)
+2. [m1k1o /    neko](https://github.com/m1k1o/neko)
+   - A self hosted virtual browser that runs in docker and uses WebRTC.
+
+3. [juspay /    hyperswitch](https://github.com/juspay/hyperswitch)
+   - An open source payments switch written in Rust to make payments fast, reliable and affordable
+
+4. [semgrep /    semgrep](https://github.com/semgrep/semgrep)
+   - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+
+5. [OpenBB-finance /    OpenBB](https://github.com/OpenBB-finance/OpenBB)
    - Investment Research for Everyone, Everywhere.
-
-3. [HumanSignal /    label-studio](https://github.com/HumanSignal/label-studio)
-   - Label Studio is a multi-type data labeling and annotation tool with standardized output format
-
-4. [yeongpin /    cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)
-   - [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-
-5. [aaPanel /    BillionMail](https://github.com/aaPanel/BillionMail)
-   - BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
 
 6. [frappe /    hrms](https://github.com/frappe/hrms)
    - Open Source HR and Payroll Software
 
-7. [QwenLM /    Qwen3](https://github.com/QwenLM/Qwen3)
-   - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+7. [tensorzero /    tensorzero](https://github.com/tensorzero/tensorzero)
+   - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
 
-8. [microsoft /    generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
-   - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+8. [software-mansion /    react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)
+   - React Native's Animated library reimplemented
 
-9. [minio /    minio](https://github.com/minio/minio)
-   - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+9. [steven2358 /    awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai)
+   - A curated list of modern Generative Artificial Intelligence projects and services
 
-10. [langchain-ai /    rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch)
-   - No description
+10. [srbhr /    Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
+   - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 
-11. [BerriAI /    litellm](https://github.com/BerriAI/litellm)
-   - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
+11. [aaPanel /    BillionMail](https://github.com/aaPanel/BillionMail)
+   - BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
 
-12. [juspay /    hyperswitch](https://github.com/juspay/hyperswitch)
-   - An open source payments switch written in Rust to make payments fast, reliable and affordable
+12. [moby /    moby](https://github.com/moby/moby)
+   - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+
+13. [twbs /    bootstrap](https://github.com/twbs/bootstrap)
+   - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
