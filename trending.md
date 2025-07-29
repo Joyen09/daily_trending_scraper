@@ -1,23 +1,35 @@
-# GitHub Trending Repos - 2025-07-28
+# GitHub Trending Repos - 2025-07-29
 
-1. [Genesis-Embodied-AI /    Genesis](https://github.com/Genesis-Embodied-AI/Genesis)
-   - A generative world for general-purpose robotics & embodied AI learning.
-
-2. [Shubhamsaboo /    awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+1. [Shubhamsaboo /    awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
    - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 
-3. [frappe /    hrms](https://github.com/frappe/hrms)
-   - Open Source HR and Payroll Software
+2. [Genesis-Embodied-AI /    Genesis](https://github.com/Genesis-Embodied-AI/Genesis)
+   - A generative world for general-purpose robotics & embodied AI learning.
 
-4. [juspay /    hyperswitch](https://github.com/juspay/hyperswitch)
-   - An open source payments switch written in Rust to make payments fast, reliable and affordable
-
-5. [daveebbelaar /    ai-cookbook](https://github.com/daveebbelaar/ai-cookbook)
+3. [daveebbelaar /    ai-cookbook](https://github.com/daveebbelaar/ai-cookbook)
    - Examples and tutorials to help developers build AI systems
 
-6. [tldr-pages /    tldr](https://github.com/tldr-pages/tldr)
+4. [tldr-pages /    tldr](https://github.com/tldr-pages/tldr)
    - 📚 Collaborative cheatsheets for console commands
 
-7. [Infisical /    infisical](https://github.com/Infisical/infisical)
-   - Infisical is the open-source platform for secrets management, PKI, and SSH access.
+5. [microsoft /    generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+   - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+
+6. [dgtlmoon /    changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+   - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
+
+7. [mikf /    gallery-dl](https://github.com/mikf/gallery-dl)
+   - Command-line program to download image galleries and collections from several image hosting sites
+
+8. [outline /    outline](https://github.com/outline/outline)
+   - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
+
+9. [ashishpatel26 /    500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
+   - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.
+
+10. [mattermost-community /    focalboard](https://github.com/mattermost-community/focalboard)
+   - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+
+11. [SillyTavern /    SillyTavern](https://github.com/SillyTavern/SillyTavern)
+   - LLM Frontend for Power Users.
 
