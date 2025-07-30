@@ -1,35 +1,35 @@
-# GitHub Trending Repos - 2025-07-29
+# GitHub Trending Repos - 2025-07-30
 
-1. [Shubhamsaboo /    awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
-   - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+1. [9001 /    copyparty](https://github.com/9001/copyparty)
+   - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 
-2. [Genesis-Embodied-AI /    Genesis](https://github.com/Genesis-Embodied-AI/Genesis)
-   - A generative world for general-purpose robotics & embodied AI learning.
+2. [cloudwego /    eino](https://github.com/cloudwego/eino)
+   - The ultimate LLM/AI application development framework in Golang.
 
-3. [daveebbelaar /    ai-cookbook](https://github.com/daveebbelaar/ai-cookbook)
-   - Examples and tutorials to help developers build AI systems
+3. [n0-computer /    iroh](https://github.com/n0-computer/iroh)
+   - peer-2-peer that just works
 
 4. [tldr-pages /    tldr](https://github.com/tldr-pages/tldr)
    - 📚 Collaborative cheatsheets for console commands
 
-5. [microsoft /    generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
-   - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+5. [Shubhamsaboo /    awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+   - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 
-6. [dgtlmoon /    changedetection.io](https://github.com/dgtlmoon/changedetection.io)
-   - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
+6. [microsoft /    PowerToys](https://github.com/microsoft/PowerToys)
+   - Windows system utilities to maximize productivity
 
-7. [mikf /    gallery-dl](https://github.com/mikf/gallery-dl)
-   - Command-line program to download image galleries and collections from several image hosting sites
+7. [lapce /    lapce](https://github.com/lapce/lapce)
+   - Lightning-fast and Powerful Code Editor written in Rust
 
-8. [outline /    outline](https://github.com/outline/outline)
-   - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-
-9. [ashishpatel26 /    500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
+8. [ashishpatel26 /    500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
    - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.
 
-10. [mattermost-community /    focalboard](https://github.com/mattermost-community/focalboard)
-   - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+9. [linshenkx /    prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
+   - 一款提示词优化器，助力于编写高质量的提示词
 
-11. [SillyTavern /    SillyTavern](https://github.com/SillyTavern/SillyTavern)
-   - LLM Frontend for Power Users.
+10. [outline /    outline](https://github.com/outline/outline)
+   - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
+
+11. [musistudio /    claude-code-router](https://github.com/musistudio/claude-code-router)
+   - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 
