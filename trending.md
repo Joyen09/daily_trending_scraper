@@ -1,35 +1,44 @@
-# GitHub Trending Repos - 2025-07-31
+# GitHub Trending Repos - 2025-08-01
 
-1. [9001 /    copyparty](https://github.com/9001/copyparty)
+1. [kijai /    ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper)
+   - No description
+
+2. [stenzek /    duckstation](https://github.com/stenzek/duckstation)
+   - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
+
+3. [SkyworkAI /    SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2)
+   - SkyReels-V2: Infinite-length Film Generative model
+
+4. [OpenPipe /    ART](https://github.com/OpenPipe/ART)
+   - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!
+
+5. [EmenstaNougat /    ESP32-BlueJammer](https://github.com/EmenstaNougat/ESP32-BlueJammer)
+   - The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications. Using an ESP32 and nRF24 modules, it generates noise and unnecessary packets, causing interference between the devices communicating, making them unable to work as intended. Ideal for controlled disruption and security testing.
+
+6. [9001 /    copyparty](https://github.com/9001/copyparty)
    - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 
-2. [roboflow /    supervision](https://github.com/roboflow/supervision)
-   - We write your reusable computer vision tools. 💜
+7. [puppeteer /    puppeteer](https://github.com/puppeteer/puppeteer)
+   - JavaScript API for Chrome and Firefox
 
-3. [outline /    outline](https://github.com/outline/outline)
-   - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
+8. [Canner /    WrenAI](https://github.com/Canner/WrenAI)
+   - ⚡️Wren AI is your GenBI Agent, that you can query any database with natural language, get accurate SQL(Text-to-SQL), charts(Text-to-Charts) & AI-generated insights in seconds.
 
-4. [linshenkx /    prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
-   - 一款提示词优化器，助力于编写高质量的提示词
+9. [pointfreeco /    swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)
+   - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 
-5. [tldr-pages /    tldr](https://github.com/tldr-pages/tldr)
-   - 📚 Collaborative cheatsheets for console commands
+10. [fastrepl /    hyprnote](https://github.com/fastrepl/hyprnote)
+   - Local-first AI Notepad for Private Meetings
 
-6. [mikf /    gallery-dl](https://github.com/mikf/gallery-dl)
-   - Command-line program to download image galleries and collections from several image hosting sites
+11. [NemProject /    nem](https://github.com/NemProject/nem)
+   - number go up 💹
 
-7. [sindresorhus /    awesome](https://github.com/sindresorhus/awesome)
-   - 😎 Awesome lists about all kinds of interesting topics
+12. [linkwarden /    linkwarden](https://github.com/linkwarden/linkwarden)
+   - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 
-8. [ashishpatel26 /    500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
-   - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.
+13. [rustdesk /    rustdesk](https://github.com/rustdesk/rustdesk)
+   - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
-9. [cloudwego /    eino](https://github.com/cloudwego/eino)
+14. [cloudwego /    eino](https://github.com/cloudwego/eino)
    - The ultimate LLM/AI application development framework in Golang.
-
-10. [mattermost-community /    focalboard](https://github.com/mattermost-community/focalboard)
-   - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-
-11. [LMCache /    LMCache](https://github.com/LMCache/LMCache)
-   - Supercharge Your LLM with the Fastest KV Cache Layer
 
