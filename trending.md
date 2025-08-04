@@ -1,35 +1,47 @@
-# GitHub Trending Repos - 2025-08-03
+# GitHub Trending Repos - 2025-08-04
 
 1. [dyad-sh /    dyad](https://github.com/dyad-sh/dyad)
    - Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!
 
-2. [pointfreeco /    swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)
-   - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+2. [wg-easy /    wg-easy](https://github.com/wg-easy/wg-easy)
+   - The easiest way to run WireGuard VPN + Web-based Admin UI.
 
-3. [MotiaDev /    motia](https://github.com/MotiaDev/motia)
-   - Unified Backend Framework for APIs, Events, and AI Agents
+3. [eclipse-sumo /    sumo](https://github.com/eclipse-sumo/sumo)
+   - Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.
 
-4. [OpenBAS-Platform /    openbas](https://github.com/OpenBAS-Platform/openbas)
-   - Open Adversary Exposure Validation Platform
-
-5. [tonsky /    FiraCode](https://github.com/tonsky/FiraCode)
-   - Free monospaced font with programming ligatures
-
-6. [kubesphere /    kubesphere](https://github.com/kubesphere/kubesphere)
-   - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
-
-7. [trekhleb /    javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+4. [trekhleb /    javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
    - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 
-8. [jlevy /    the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
-   - Master the command line, in one page
+5. [XTLS /    Xray-core](https://github.com/XTLS/Xray-core)
+   - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 
-9. [lydiahallie /    javascript-questions](https://github.com/lydiahallie/javascript-questions)
-   - A long list of (advanced) JavaScript questions, and their explanations ✨
+6. [jellyfin /    jellyfin](https://github.com/jellyfin/jellyfin)
+   - The Free Software Media System - Server Backend & API
 
-10. [trimstray /    the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-   - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+7. [rasbt /    LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+   - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
-11. [Huanshere /    VideoLingo](https://github.com/Huanshere/VideoLingo)
-   - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
+8. [LadybirdBrowser /    ladybird](https://github.com/LadybirdBrowser/ladybird)
+   - Truly independent web browser
+
+9. [sst /    opencode](https://github.com/sst/opencode)
+   - AI coding agent, built for the terminal.
+
+10. [TideDra /    zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily)
+   - Recommend new arxiv papers of your interest daily according to your Zotero libarary.
+
+11. [TandoorRecipes /    recipes](https://github.com/TandoorRecipes/recipes)
+   - Application for managing recipes, planning meals, building shopping lists and much much more!
+
+12. [MotiaDev /    motia](https://github.com/MotiaDev/motia)
+   - Modern Backend Framework that unifies APIs, background jobs, workflows, and AI agents into a single cohesive system with built-in observability and state management.
+
+13. [reflex-dev /    reflex](https://github.com/reflex-dev/reflex)
+   - 🕸️ Web apps in pure Python 🐍
+
+14. [flydelabs /    flyde](https://github.com/flydelabs/flyde)
+   - Open-source Visual programming for backend logic that integrates with existing codebases. Flyde bridges the gap between technical and non-technical team members. Product managers, designers, and backend developers can collaborate on the same visual flows.
+
+15. [pointfreeco /    swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)
+   - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 
