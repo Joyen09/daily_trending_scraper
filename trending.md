@@ -1,47 +1,29 @@
-# GitHub Trending Repos - 2025-08-04
+# GitHub Trending Repos - 2025-08-05
 
 1. [dyad-sh /    dyad](https://github.com/dyad-sh/dyad)
    - Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!
 
-2. [wg-easy /    wg-easy](https://github.com/wg-easy/wg-easy)
-   - The easiest way to run WireGuard VPN + Web-based Admin UI.
+2. [souzatharsis /    podcastfy](https://github.com/souzatharsis/podcastfy)
+   - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
 
-3. [eclipse-sumo /    sumo](https://github.com/eclipse-sumo/sumo)
-   - Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.
+3. [actualbudget /    actual](https://github.com/actualbudget/actual)
+   - A local-first personal finance app
 
-4. [trekhleb /    javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-   - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-
-5. [XTLS /    Xray-core](https://github.com/XTLS/Xray-core)
-   - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
-
-6. [jellyfin /    jellyfin](https://github.com/jellyfin/jellyfin)
-   - The Free Software Media System - Server Backend & API
-
-7. [rasbt /    LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
-   - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-
-8. [LadybirdBrowser /    ladybird](https://github.com/LadybirdBrowser/ladybird)
-   - Truly independent web browser
-
-9. [sst /    opencode](https://github.com/sst/opencode)
-   - AI coding agent, built for the terminal.
-
-10. [TideDra /    zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily)
-   - Recommend new arxiv papers of your interest daily according to your Zotero libarary.
-
-11. [TandoorRecipes /    recipes](https://github.com/TandoorRecipes/recipes)
-   - Application for managing recipes, planning meals, building shopping lists and much much more!
-
-12. [MotiaDev /    motia](https://github.com/MotiaDev/motia)
+4. [MotiaDev /    motia](https://github.com/MotiaDev/motia)
    - Modern Backend Framework that unifies APIs, background jobs, workflows, and AI agents into a single cohesive system with built-in observability and state management.
 
-13. [reflex-dev /    reflex](https://github.com/reflex-dev/reflex)
+5. [rasbt /    LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+   - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+
+6. [MaaAssistantArknights /    MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
+   - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
+
+7. [reflex-dev /    reflex](https://github.com/reflex-dev/reflex)
    - 🕸️ Web apps in pure Python 🐍
 
-14. [flydelabs /    flyde](https://github.com/flydelabs/flyde)
-   - Open-source Visual programming for backend logic that integrates with existing codebases. Flyde bridges the gap between technical and non-technical team members. Product managers, designers, and backend developers can collaborate on the same visual flows.
+8. [jellyfin /    jellyfin](https://github.com/jellyfin/jellyfin)
+   - The Free Software Media System - Server Backend & API
 
-15. [pointfreeco /    swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)
-   - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+9. [wg-easy /    wg-easy](https://github.com/wg-easy/wg-easy)
+   - The easiest way to run WireGuard VPN + Web-based Admin UI.
 
