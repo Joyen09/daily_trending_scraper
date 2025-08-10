@@ -1,41 +1,44 @@
-# GitHub Trending Repos - 2025-08-09
+# GitHub Trending Repos - 2025-08-10
 
-1. [nautechsystems /    nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
-   - A high-performance algorithmic trading platform and event-driven backtester
-
-2. [openai /    openai-cookbook](https://github.com/openai/openai-cookbook)
-   - Examples and guides for using the OpenAI API
-
-3. [openai /    codex](https://github.com/openai/codex)
+1. [openai /    codex](https://github.com/openai/codex)
    - Lightweight coding agent that runs in your terminal
 
-4. [netbirdio /    netbird](https://github.com/netbirdio/netbird)
-   - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+2. [xiaoyaocz /    dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live)
+   - 简简单单的看直播
 
-5. [FFmpeg /    asm-lessons](https://github.com/FFmpeg/asm-lessons)
-   - FFMPEG Assembly Language Lessons
+3. [nautechsystems /    nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
+   - A high-performance algorithmic trading platform and event-driven backtester
 
-6. [polarsource /    polar](https://github.com/polarsource/polar)
+4. [nomic-ai /    gpt4all](https://github.com/nomic-ai/gpt4all)
+   - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+
+5. [polarsource /    polar](https://github.com/polarsource/polar)
    - An open source engine for your digital products. Sell SaaS and digital products in minutes.
 
-7. [python-poetry /    poetry](https://github.com/python-poetry/poetry)
-   - Python packaging and dependency management made easy
+6. [exo-explore /    exo](https://github.com/exo-explore/exo)
+   - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 
-8. [google /    adk-python](https://github.com/google/adk-python)
-   - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+7. [steveiliop56 /    tinyauth](https://github.com/steveiliop56/tinyauth)
+   - The simplest way to protect your apps with a login screen.
 
-9. [browserbase /    stagehand](https://github.com/browserbase/stagehand)
-   - The AI Browser Automation Framework
+8. [lfnovo /    open-notebook](https://github.com/lfnovo/open-notebook)
+   - An Open Source implementation of Notebook LM with more flexibility and features
 
-10. [e2b-dev /    awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)
-   - A list of AI autonomous agents
+9. [libsdl-org /    SDL](https://github.com/libsdl-org/SDL)
+   - Simple Directmedia Layer
 
-11. [backstage /    backstage](https://github.com/backstage/backstage)
-   - Backstage is an open framework for building developer portals
+10. [sinaptik-ai /    pandas-ai](https://github.com/sinaptik-ai/pandas-ai)
+   - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 
-12. [google /    adk-samples](https://github.com/google/adk-samples)
-   - A collection of sample agents built with Agent Development (ADK)
-
-13. [openai /    openai-python](https://github.com/openai/openai-python)
+11. [openai /    openai-python](https://github.com/openai/openai-python)
    - The official Python library for the OpenAI API
+
+12. [tadata-org /    fastapi_mcp](https://github.com/tadata-org/fastapi_mcp)
+   - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
+
+13. [datawhalechina /    self-llm](https://github.com/datawhalechina/self-llm)
+   - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
+
+14. [zumerlab /    snapdom](https://github.com/zumerlab/snapdom)
+   - snapDOM captures HTML elements to images with exceptional speed and accuracy.
 
