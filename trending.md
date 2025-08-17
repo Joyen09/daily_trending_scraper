@@ -1,41 +1,38 @@
-# GitHub Trending Repos - 2025-08-16
+# GitHub Trending Repos - 2025-08-17
 
-1. [tadata-org /    fastapi_mcp](https://github.com/tadata-org/fastapi_mcp)
-   - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
+1. [coleam00 /    Archon](https://github.com/coleam00/Archon)
+   - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
 
-2. [ubicloud /    ubicloud](https://github.com/ubicloud/ubicloud)
-   - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
+2. [microsoft /    poml](https://github.com/microsoft/poml)
+   - Prompt Orchestration Markup Language
 
-3. [budtmo /    docker-android](https://github.com/budtmo/docker-android)
-   - Android in docker solution with noVNC supported and video recording
+3. [LMCache /    LMCache](https://github.com/LMCache/LMCache)
+   - Supercharge Your LLM with the Fastest KV Cache Layer
 
-4. [manycore-research /    SpatialLM](https://github.com/manycore-research/SpatialLM)
-   - SpatialLM: Training Large Language Models for Structured Indoor Modeling
+4. [codecrafters-io /    build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+   - Master programming by recreating your favorite technologies from scratch.
 
-5. [microsoft /    magentic-ui](https://github.com/microsoft/magentic-ui)
-   - A research prototype of a human-centered web agent
+5. [farhanashrafdev /    90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
+   - This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md
 
-6. [datalab-to /    marker](https://github.com/datalab-to/marker)
-   - Convert PDF to markdown + JSON quickly with high accuracy
+6. [jaywcjlove /    awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+   -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 
-7. [redis /    go-redis](https://github.com/redis/go-redis)
-   - Redis Go client
+7. [tsoding /    nob.h](https://github.com/tsoding/nob.h)
+   - Header only library for writing build recipes in C.
 
-8. [qarmin /    czkawka](https://github.com/qarmin/czkawka)
-   - Multi functional app to find duplicates, empty folders, similar images etc.
+8. [IBM /    mcp-context-forge](https://github.com/IBM/mcp-context-forge)
+   - A Model Context Protocol (MCP) Gateway & Registry. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE, Streamable HTTP).
 
-9. [Librum-Reader /    Librum](https://github.com/Librum-Reader/Librum)
-   - The Librum client application
+9. [emcie-co /    parlant](https://github.com/emcie-co/parlant)
+   - LLM agents built for control. Designed for real-world use. Deployed in minutes.
 
-10. [microsoft /    markitdown](https://github.com/microsoft/markitdown)
-   - Python tool for converting files and office documents to Markdown.
+10. [PixiEditor /    PixiEditor](https://github.com/PixiEditor/PixiEditor)
+   - PixiEditor is a Universal Editor for all your 2D needs
 
-11. [jitsi /    jitsi-meet](https://github.com/jitsi/jitsi-meet)
-   - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+11. [Shubhamsaboo /    awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+   - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 
-12. [dotnet /    maui](https://github.com/dotnet/maui)
-   - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
-
-13. [google /    wire](https://github.com/google/wire)
-   - Compile-time Dependency Injection for Go
+12. [dtyq /    magic](https://github.com/dtyq/magic)
+   - Super Magic (超级麦吉). The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
 
