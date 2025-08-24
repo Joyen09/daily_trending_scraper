@@ -1,41 +1,62 @@
-# GitHub Trending Repos - 2025-08-23
+# GitHub Trending Repos - 2025-08-24
 
-1. [simstudioai /    sim](https://github.com/simstudioai/sim)
-   - Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
-
-2. [moeru-ai /    airi](https://github.com/moeru-ai/airi)
+1. [moeru-ai /    airi](https://github.com/moeru-ai/airi)
    - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
 
-3. [google /    googletest](https://github.com/google/googletest)
+2. [plait-board /    drawnix](https://github.com/plait-board/drawnix)
+   - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
+
+3. [Budibase /    budibase](https://github.com/Budibase/budibase)
+   - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
+
+4. [simstudioai /    sim](https://github.com/simstudioai/sim)
+   - Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
+
+5. [google /    googletest](https://github.com/google/googletest)
    - GoogleTest - Google Testing and Mocking Framework
-
-4. [dataease /    SQLBot](https://github.com/dataease/SQLBot)
-   - 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
-
-5. [dream-num /    univer](https://github.com/dream-num/univer)
-   - Univer is a full-stack framework for creating and editing spreadsheets, documents, and slides on both web and server.
 
 6. [HunxByts /    GhostTrack](https://github.com/HunxByts/GhostTrack)
    - Useful tool to track location or mobile number
 
-7. [puckeditor /    puck](https://github.com/puckeditor/puck)
+7. [Leantime /    leantime](https://github.com/Leantime/leantime)
+   - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
+
+8. [clash-verge-rev /    clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+   - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+
+9. [winapps-org /    winapps](https://github.com/winapps-org/winapps)
+   - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
+
+10. [zigtools /    zls](https://github.com/zigtools/zls)
+   - A language server for Zig supporting developers with features like autocomplete and goto definition
+
+11. [HKUDS /    DeepCode](https://github.com/HKUDS/DeepCode)
+   - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+
+12. [scottpetrovic /    mesh2motion-app](https://github.com/scottpetrovic/mesh2motion-app)
+   - Import a 3D Model and automatically assign and export animations
+
+13. [puckeditor /    puck](https://github.com/puckeditor/puck)
    - The visual editor for React
 
-8. [Dokploy /    dokploy](https://github.com/Dokploy/dokploy)
-   - Open Source Alternative to Vercel, Netlify and Heroku.
+14. [dream-num /    univer](https://github.com/dream-num/univer)
+   - Build truly AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets, documents, and slides on both web and server. With Univer MCP, Univer Sheet is driven directly through natural language.
 
-9. [puppeteer /    puppeteer](https://github.com/puppeteer/puppeteer)
-   - JavaScript API for Chrome and Firefox
+15. [deepseek-ai /    awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
+   - Integrate the DeepSeek API into popular softwares
 
-10. [SpecterOps /    BloodHound](https://github.com/SpecterOps/BloodHound)
-   - Six Degrees of Domain Admin
+16. [google /    highway](https://github.com/google/highway)
+   - Performance-portable, length-agnostic SIMD with runtime dispatch
 
-11. [nextjs /    saas-starter](https://github.com/nextjs/saas-starter)
-   - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
+17. [chartdb /    chartdb](https://github.com/chartdb/chartdb)
+   - Database diagrams editor that allows you to visualize and design your DB with a single query.
 
-12. [microsoft /    BitNet](https://github.com/microsoft/BitNet)
-   - Official inference framework for 1-bit LLMs
+18. [dataease /    SQLBot](https://github.com/dataease/SQLBot)
+   - 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
 
-13. [Leantime /    leantime](https://github.com/Leantime/leantime)
-   - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
+19. [pestphp /    pest](https://github.com/pestphp/pest)
+   - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
+
+20. [NVIDIA-NeMo /    RL](https://github.com/NVIDIA-NeMo/RL)
+   - Scalable toolkit for efficient model reinforcement
 
