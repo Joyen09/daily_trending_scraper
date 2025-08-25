@@ -1,62 +1,62 @@
-# GitHub Trending Repos - 2025-08-24
+# GitHub Trending Repos - 2025-08-25
 
-1. [moeru-ai /    airi](https://github.com/moeru-ai/airi)
-   - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-
-2. [plait-board /    drawnix](https://github.com/plait-board/drawnix)
-   - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
-
-3. [Budibase /    budibase](https://github.com/Budibase/budibase)
-   - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
-
-4. [simstudioai /    sim](https://github.com/simstudioai/sim)
-   - Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
-
-5. [google /    googletest](https://github.com/google/googletest)
-   - GoogleTest - Google Testing and Mocking Framework
-
-6. [HunxByts /    GhostTrack](https://github.com/HunxByts/GhostTrack)
-   - Useful tool to track location or mobile number
-
-7. [Leantime /    leantime](https://github.com/Leantime/leantime)
-   - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
-
-8. [clash-verge-rev /    clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
-   - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
-
-9. [winapps-org /    winapps](https://github.com/winapps-org/winapps)
+1. [winapps-org /    winapps](https://github.com/winapps-org/winapps)
    - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
 
-10. [zigtools /    zls](https://github.com/zigtools/zls)
-   - A language server for Zig supporting developers with features like autocomplete and goto definition
+2. [moeru-ai /    airi](https://github.com/moeru-ai/airi)
+   - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
 
-11. [HKUDS /    DeepCode](https://github.com/HKUDS/DeepCode)
+3. [HKUDS /    DeepCode](https://github.com/HKUDS/DeepCode)
    - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
 
-12. [scottpetrovic /    mesh2motion-app](https://github.com/scottpetrovic/mesh2motion-app)
+4. [scottpetrovic /    mesh2motion-app](https://github.com/scottpetrovic/mesh2motion-app)
    - Import a 3D Model and automatically assign and export animations
 
-13. [puckeditor /    puck](https://github.com/puckeditor/puck)
+5. [EbookFoundation /    free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+   - 📚 Freely available programming books
+
+6. [plait-board /    drawnix](https://github.com/plait-board/drawnix)
+   - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
+
+7. [midday-ai /    midday](https://github.com/midday-ai/midday)
+   - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
+
+8. [yt-dlp /    yt-dlp](https://github.com/yt-dlp/yt-dlp)
+   - A feature-rich command-line audio/video downloader
+
+9. [django /    django](https://github.com/django/django)
+   - The Web framework for perfectionists with deadlines.
+
+10. [Klipper3d /    klipper](https://github.com/Klipper3d/klipper)
+   - Klipper is a 3d-printer firmware
+
+11. [TheAlgorithms /    Java](https://github.com/TheAlgorithms/Java)
+   - All Algorithms implemented in Java
+
+12. [HunxByts /    GhostTrack](https://github.com/HunxByts/GhostTrack)
+   - Useful tool to track location or mobile number
+
+13. [simstudioai /    sim](https://github.com/simstudioai/sim)
+   - Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
+
+14. [puckeditor /    puck](https://github.com/puckeditor/puck)
    - The visual editor for React
 
-14. [dream-num /    univer](https://github.com/dream-num/univer)
-   - Build truly AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets, documents, and slides on both web and server. With Univer MCP, Univer Sheet is driven directly through natural language.
+15. [RSSNext /    Folo](https://github.com/RSSNext/Folo)
+   - 🧡 Follow everything in one place
 
-15. [deepseek-ai /    awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
-   - Integrate the DeepSeek API into popular softwares
+16. [dream-num /    univer](https://github.com/dream-num/univer)
+   - Build AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets on both web and server. With Univer MCP, Univer spreadsheet is driven directly through natural language.
 
-16. [google /    highway](https://github.com/google/highway)
-   - Performance-portable, length-agnostic SIMD with runtime dispatch
+17. [Leantime /    leantime](https://github.com/Leantime/leantime)
+   - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 
-17. [chartdb /    chartdb](https://github.com/chartdb/chartdb)
-   - Database diagrams editor that allows you to visualize and design your DB with a single query.
+18. [microsoft /    ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+   - 11 Lessons to Get Started Building AI Agents
 
-18. [dataease /    SQLBot](https://github.com/dataease/SQLBot)
-   - 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
+19. [Budibase /    budibase](https://github.com/Budibase/budibase)
+   - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
 
-19. [pestphp /    pest](https://github.com/pestphp/pest)
-   - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
-
-20. [NVIDIA-NeMo /    RL](https://github.com/NVIDIA-NeMo/RL)
-   - Scalable toolkit for efficient model reinforcement
+20. [GitHubDaily /    GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
+   - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 
