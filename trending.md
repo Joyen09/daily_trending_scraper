@@ -1,62 +1,44 @@
-# GitHub Trending Repos - 2025-08-25
+# GitHub Trending Repos - 2025-08-26
 
-1. [winapps-org /    winapps](https://github.com/winapps-org/winapps)
-   - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
-
-2. [moeru-ai /    airi](https://github.com/moeru-ai/airi)
-   - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-
-3. [HKUDS /    DeepCode](https://github.com/HKUDS/DeepCode)
-   - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
-
-4. [scottpetrovic /    mesh2motion-app](https://github.com/scottpetrovic/mesh2motion-app)
-   - Import a 3D Model and automatically assign and export animations
-
-5. [EbookFoundation /    free-programming-books](https://github.com/EbookFoundation/free-programming-books)
-   - 📚 Freely available programming books
-
-6. [plait-board /    drawnix](https://github.com/plait-board/drawnix)
+1. [plait-board /    drawnix](https://github.com/plait-board/drawnix)
    - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
 
-7. [midday-ai /    midday](https://github.com/midday-ai/midday)
-   - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
+2. [HKUDS /    DeepCode](https://github.com/HKUDS/DeepCode)
+   - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
 
-8. [yt-dlp /    yt-dlp](https://github.com/yt-dlp/yt-dlp)
-   - A feature-rich command-line audio/video downloader
+3. [winapps-org /    winapps](https://github.com/winapps-org/winapps)
+   - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
 
-9. [django /    django](https://github.com/django/django)
-   - The Web framework for perfectionists with deadlines.
+4. [moeru-ai /    airi](https://github.com/moeru-ai/airi)
+   - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
 
-10. [Klipper3d /    klipper](https://github.com/Klipper3d/klipper)
-   - Klipper is a 3d-printer firmware
-
-11. [TheAlgorithms /    Java](https://github.com/TheAlgorithms/Java)
-   - All Algorithms implemented in Java
-
-12. [HunxByts /    GhostTrack](https://github.com/HunxByts/GhostTrack)
+5. [HunxByts /    GhostTrack](https://github.com/HunxByts/GhostTrack)
    - Useful tool to track location or mobile number
 
-13. [simstudioai /    sim](https://github.com/simstudioai/sim)
-   - Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
+6. [willccbb /    verifiers](https://github.com/willccbb/verifiers)
+   - Verifiers for LLM Reinforcement Learning
 
-14. [puckeditor /    puck](https://github.com/puckeditor/puck)
-   - The visual editor for React
+7. [spotDL /    spotify-downloader](https://github.com/spotDL/spotify-downloader)
+   - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 
-15. [RSSNext /    Folo](https://github.com/RSSNext/Folo)
-   - 🧡 Follow everything in one place
+8. [anuraghazra /    github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+   - ⚡ Dynamically generated stats for your github readmes
 
-16. [dream-num /    univer](https://github.com/dream-num/univer)
-   - Build AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets on both web and server. With Univer MCP, Univer spreadsheet is driven directly through natural language.
+9. [karpathy /    nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)
+   - Neural Networks: Zero to Hero
 
-17. [Leantime /    leantime](https://github.com/Leantime/leantime)
-   - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
+10. [asgeirtj /    system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+   - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 
-18. [microsoft /    ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-   - 11 Lessons to Get Started Building AI Agents
+11. [microsoft /    generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+   - 21 Lessons, Get Started Building with Generative AI
 
-19. [Budibase /    budibase](https://github.com/Budibase/budibase)
-   - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
-
-20. [GitHubDaily /    GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
+12. [GitHubDaily /    GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
    - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+
+13. [yt-dlp /    yt-dlp](https://github.com/yt-dlp/yt-dlp)
+   - A feature-rich command-line audio/video downloader
+
+14. [rothgar /    awesome-tuis](https://github.com/rothgar/awesome-tuis)
+   - List of projects that provide terminal user interfaces
 
