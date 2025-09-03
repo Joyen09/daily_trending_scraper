@@ -1,44 +1,38 @@
-# GitHub Trending Repos - 2025-09-02
+# GitHub Trending Repos - 2025-09-03
 
 1. [dockur /    windows](https://github.com/dockur/windows)
    - Windows inside a Docker container.
 
-2. [JetBrains /    koog](https://github.com/JetBrains/koog)
+2. [crewAIInc /    crewAI](https://github.com/crewAIInc/crewAI)
+   - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+
+3. [JetBrains /    koog](https://github.com/JetBrains/koog)
    - Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
 
-3. [juspay /    hyperswitch](https://github.com/juspay/hyperswitch)
-   - An open source payments switch written in Rust to make payments fast, reliable and affordable
-
-4. [QuentinFuxa /    WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)
-   - Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
-
-5. [activepieces /    activepieces](https://github.com/activepieces/activepieces)
-   - AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
-
-6. [lllyasviel /    Fooocus](https://github.com/lllyasviel/Fooocus)
-   - Focus on prompting and generating
-
-7. [laramies /    theHarvester](https://github.com/laramies/theHarvester)
-   - E-mails, subdomains and names Harvester - OSINT
-
-8. [humanlayer /    humanlayer](https://github.com/humanlayer/humanlayer)
-   - HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling
-
-9. [resemble-ai /    chatterbox](https://github.com/resemble-ai/chatterbox)
-   - SoTA open-source TTS
-
-10. [OpenBMB /    MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)
-   - MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
-
-11. [ashishpatel26 /    500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
+4. [ashishpatel26 /    500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
    - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.
 
-12. [zakirullin /    cognitive-load](https://github.com/zakirullin/cognitive-load)
-   - 🧠 Cognitive Load is what matters
+5. [google /    mangle](https://github.com/google/mangle)
+   - No description
 
-13. [denizsafak /    abogen](https://github.com/denizsafak/abogen)
-   - Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
+6. [resemble-ai /    chatterbox](https://github.com/resemble-ai/chatterbox)
+   - SoTA open-source TTS
 
-14. [bevyengine /    bevy](https://github.com/bevyengine/bevy)
-   - A refreshingly simple data-driven game engine built in Rust
+7. [pedroslopez /    whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
+   - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+
+8. [LukeGus /    Termix](https://github.com/LukeGus/Termix)
+   - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
+
+9. [rustdesk /    rustdesk](https://github.com/rustdesk/rustdesk)
+   - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+10. [bytebot-ai /    bytebot](https://github.com/bytebot-ai/bytebot)
+   - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
+
+11. [google /    comprehensive-rust](https://github.com/google/comprehensive-rust)
+   - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+
+12. [projectdiscovery /    nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)
+   - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 
