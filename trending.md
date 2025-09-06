@@ -1,44 +1,47 @@
-# GitHub Trending Repos - 2025-09-05
+# GitHub Trending Repos - 2025-09-06
 
 1. [bytebot-ai /    bytebot](https://github.com/bytebot-ai/bytebot)
    - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 
-2. [LukeGus /    Termix](https://github.com/LukeGus/Termix)
-   - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
+2. [microsoft /    BitNet](https://github.com/microsoft/BitNet)
+   - Official inference framework for 1-bit LLMs
 
-3. [rustdesk /    rustdesk](https://github.com/rustdesk/rustdesk)
-   - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-4. [crewAIInc /    crewAI](https://github.com/crewAIInc/crewAI)
-   - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
-
-5. [aquasecurity /    trivy](https://github.com/aquasecurity/trivy)
+3. [aquasecurity /    trivy](https://github.com/aquasecurity/trivy)
    - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
-6. [microsoft /    PowerToys](https://github.com/microsoft/PowerToys)
-   - Windows system utilities to maximize productivity
-
-7. [pedroslopez /    whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
-   - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
-
-8. [trufflesecurity /    trufflehog](https://github.com/trufflesecurity/trufflehog)
+4. [trufflesecurity /    trufflehog](https://github.com/trufflesecurity/trufflehog)
    - Find, verify, and analyze leaked credentials
 
-9. [eriklindernoren /    ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-   - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
+5. [mack-a /    v2ray-agent](https://github.com/mack-a/v2ray-agent)
+   - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
 
-10. [pocketbase /    pocketbase](https://github.com/pocketbase/pocketbase)
-   - Open Source realtime backend in 1 file
+6. [nukeop /    nuclear](https://github.com/nukeop/nuclear)
+   - Streaming music player that finds free music for you
 
-11. [weaviate /    elysia](https://github.com/weaviate/elysia)
-   - Python package and backend for the Elysia platform app.
+7. [EvolutionAPI /    evolution-api](https://github.com/EvolutionAPI/evolution-api)
+   - Evolution API is an open-source WhatsApp integration API
 
-12. [socfortress /    Wazuh-Rules](https://github.com/socfortress/Wazuh-Rules)
-   - Advanced Wazuh Rules for more accurate threat detection. Feel free to implement within your own Wazuh environment, contribute, or fork!
+8. [appcypher /    awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers)
+   - Awesome MCP Servers - A curated list of Model Context Protocol servers
 
-13. [ansible /    ansible](https://github.com/ansible/ansible)
-   - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+9. [emcie-co /    parlant](https://github.com/emcie-co/parlant)
+   - LLM agents built for control. Designed for real-world use. Deployed in minutes.
 
-14. [tensorzero /    tensorzero](https://github.com/tensorzero/tensorzero)
-   - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+10. [coleam00 /    ottomator-agents](https://github.com/coleam00/ottomator-agents)
+   - All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
+
+11. [kestra-io /    kestra](https://github.com/kestra-io/kestra)
+   - ⚡ Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.
+
+12. [AI4Finance-Foundation /    FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)
+   - FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace.
+
+13. [TapXWorld /    ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+   - 所有小初高、大学PDF教材。
+
+14. [apache /    airflow](https://github.com/apache/airflow)
+   - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+
+15. [wazuh /    wazuh](https://github.com/wazuh/wazuh)
+   - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 
