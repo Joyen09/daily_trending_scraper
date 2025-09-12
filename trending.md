@@ -1,4 +1,4 @@
-# GitHub Trending Repos - 2025-09-11
+# GitHub Trending Repos - 2025-09-12
 
 1. [Physical-Intelligence /    openpi](https://github.com/Physical-Intelligence/openpi)
    - No description
@@ -6,51 +6,54 @@
 2. [modelcontextprotocol /    registry](https://github.com/modelcontextprotocol/registry)
    - A community driven registry service for Model Context Protocol (MCP) servers.
 
-3. [vercel /    examples](https://github.com/vercel/examples)
-   - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
-
-4. [microsoft /    ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-   - 12 Lessons to Get Started Building AI Agents
-
-5. [11cafe /    jaaz](https://github.com/11cafe/jaaz)
-   - The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.
-
-6. [twitter /    the-algorithm](https://github.com/twitter/the-algorithm)
+3. [twitter /    the-algorithm](https://github.com/twitter/the-algorithm)
    - Source code for the X Recommendation Algorithm
 
-7. [ZuodaoTech /    everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)
-   - 人人都能用英语
+4. [google /    material-design-icons](https://github.com/google/material-design-icons)
+   - Material Design icons by Google (Material Symbols)
 
-8. [tesseract-ocr /    tesseract](https://github.com/tesseract-ocr/tesseract)
-   - Tesseract Open Source OCR Engine (main repository)
+5. [ccfos /    nightingale](https://github.com/ccfos/nightingale)
+   - Nightingale for monitoring and alerting, just as Grafana for visualization.
 
-9. [huggingface /    aisheets](https://github.com/huggingface/aisheets)
-   - Build, enrich, and transform datasets using AI models with no code
+6. [mxrch /    GHunt](https://github.com/mxrch/GHunt)
+   - 🕵️‍♂️ Offensive Google framework.
 
-10. [x1xhlol /    system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
-   - FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.
+7. [agno-agi /    agno](https://github.com/agno-agi/agno)
+   - High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
 
-11. [ahujasid /    blender-mcp](https://github.com/ahujasid/blender-mcp)
-   - No description
+8. [trueadm /    ripple](https://github.com/trueadm/ripple)
+   - the elegant TypeScript UI framework
 
-12. [HKUDS /    AutoAgent](https://github.com/HKUDS/AutoAgent)
-   - "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
+9. [aaPanel /    BillionMail](https://github.com/aaPanel/BillionMail)
+   - BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
 
-13. [Stirling-Tools /    Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
-   - #1 Locally hosted web application that allows you to perform various operations on PDF files
+10. [MotiaDev /    motia](https://github.com/MotiaDev/motia)
+   - Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
 
-14. [heroui-inc /    heroui](https://github.com/heroui-inc/heroui)
+11. [heroui-inc /    heroui](https://github.com/heroui-inc/heroui)
    - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 
-15. [ClemensElflein /    OpenMower](https://github.com/ClemensElflein/OpenMower)
+12. [ClemensElflein /    OpenMower](https://github.com/ClemensElflein/OpenMower)
    - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
 
-16. [1Panel-dev /    MaxKB](https://github.com/1Panel-dev/MaxKB)
-   - 🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。
+13. [epfml /    ML_course](https://github.com/epfml/ML_course)
+   - EPFL Machine Learning Course, Fall 2025
 
-17. [ntdevlabs /    tiny11builder](https://github.com/ntdevlabs/tiny11builder)
-   - Scripts to build a trimmed-down Windows 11 image.
+14. [NationalSecurityAgency /    ghidra](https://github.com/NationalSecurityAgency/ghidra)
+   - Ghidra is a software reverse engineering (SRE) framework
 
-18. [microsoft /    terminal](https://github.com/microsoft/terminal)
-   - The new Windows Terminal and the original Windows console host, all in the same place!
+15. [supabase /    supabase](https://github.com/supabase/supabase)
+   - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+
+16. [Azure /    azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
+   - This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.
+
+17. [x1xhlol /    system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+   - FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.
+
+18. [Zie619 /    n8n-workflows](https://github.com/Zie619/n8n-workflows)
+   - all of the workflows of n8n i could find (also from the site itself)
+
+19. [TapXWorld /    ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+   - 所有小初高、大学PDF教材。
 
