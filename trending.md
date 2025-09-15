@@ -1,4 +1,4 @@
-# GitHub Trending Repos - 2025-09-14
+# GitHub Trending Repos - 2025-09-15
 
 1. [PowerShell /    PowerShell](https://github.com/PowerShell/PowerShell)
    - PowerShell for every system!
@@ -6,45 +6,45 @@
 2. [trueadm /    ripple](https://github.com/trueadm/ripple)
    - the elegant TypeScript UI framework
 
-3. [MotiaDev /    motia](https://github.com/MotiaDev/motia)
-   - Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
+3. [SkyworkAI /    DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent)
+   - DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains.
 
-4. [grpc /    grpc-go](https://github.com/grpc/grpc-go)
-   - The Go language implementation of gRPC. HTTP/2 based RPC
+4. [ccxt /    ccxt](https://github.com/ccxt/ccxt)
+   - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 
-5. [sentient-agi /    ROMA](https://github.com/sentient-agi/ROMA)
-   - Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
+5. [Shubhamsaboo /    awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+   - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 
-6. [ReVanced /    revanced-patches](https://github.com/ReVanced/revanced-patches)
+6. [ItzCrazyKns /    Perplexica](https://github.com/ItzCrazyKns/Perplexica)
+   - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+
+7. [midday-ai /    midday](https://github.com/midday-ai/midday)
+   - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
+
+8. [ReVanced /    revanced-patches](https://github.com/ReVanced/revanced-patches)
    - 🧩 Patches for ReVanced
 
-7. [Azure /    azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
-   - This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.
+9. [deepset-ai /    haystack](https://github.com/deepset-ai/haystack)
+   - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
 
-8. [CodebuffAI /    codebuff](https://github.com/CodebuffAI/codebuff)
-   - Generate code from the terminal!
+10. [docker /    mcp-gateway](https://github.com/docker/mcp-gateway)
+   - docker mcp CLI plugin / MCP Gateway
 
-9. [protocolbuffers /    protobuf](https://github.com/protocolbuffers/protobuf)
-   - Protocol Buffers - Google's data interchange format
+11. [firebase /    genkit](https://github.com/firebase/genkit)
+   - Google's multi-model AI framework in Javascript, Go and Python
 
-10. [facebook /    folly](https://github.com/facebook/folly)
-   - An open-source C++ library developed and used at Facebook.
-
-11. [huggingface /    transformers](https://github.com/huggingface/transformers)
-   - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-
-12. [datawhalechina /    happy-llm](https://github.com/datawhalechina/happy-llm)
-   - 📚 从零开始的大语言模型原理与实践教程
-
-13. [simdjson /    simdjson](https://github.com/simdjson/simdjson)
+12. [simdjson /    simdjson](https://github.com/simdjson/simdjson)
    - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 
-14. [fla-org /    flash-linear-attention](https://github.com/fla-org/flash-linear-attention)
-   - 🚀 Efficient implementations of state-of-the-art linear attention models
+13. [unclecode /    crawl4ai](https://github.com/unclecode/crawl4ai)
+   - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 
-15. [NVIDIA /    garak](https://github.com/NVIDIA/garak)
-   - the LLM vulnerability scanner
+14. [Arindam200 /    awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)
+   - A collection of projects showcasing RAG, agents, workflows, and other AI use cases
 
-16. [Physical-Intelligence /    openpi](https://github.com/Physical-Intelligence/openpi)
-   - No description
+15. [donnemartin /    system-design-primer](https://github.com/donnemartin/system-design-primer)
+   - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+
+16. [ml-explore /    mlx-lm](https://github.com/ml-explore/mlx-lm)
+   - Run LLMs with MLX
 
