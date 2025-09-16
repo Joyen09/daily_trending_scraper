@@ -1,50 +1,53 @@
-# GitHub Trending Repos - 2025-09-15
+# GitHub Trending Repos - 2025-09-16
 
-1. [PowerShell /    PowerShell](https://github.com/PowerShell/PowerShell)
+1. [rasbt /    LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+   - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+
+2. [microsoft /    markitdown](https://github.com/microsoft/markitdown)
+   - Python tool for converting files and office documents to Markdown.
+
+3. [PowerShell /    PowerShell](https://github.com/PowerShell/PowerShell)
    - PowerShell for every system!
 
-2. [trueadm /    ripple](https://github.com/trueadm/ripple)
-   - the elegant TypeScript UI framework
+4. [x1xhlol /    system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+   - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 
-3. [SkyworkAI /    DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent)
-   - DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains.
+5. [virattt /    ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+   - An AI Hedge Fund Team
 
-4. [ccxt /    ccxt](https://github.com/ccxt/ccxt)
-   - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
+6. [SoftFever /    OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
+   - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 
-5. [Shubhamsaboo /    awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
-   - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+7. [simdjson /    simdjson](https://github.com/simdjson/simdjson)
+   - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 
-6. [ItzCrazyKns /    Perplexica](https://github.com/ItzCrazyKns/Perplexica)
+8. [ItzCrazyKns /    Perplexica](https://github.com/ItzCrazyKns/Perplexica)
    - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 
-7. [midday-ai /    midday](https://github.com/midday-ai/midday)
+9. [sst /    opencode](https://github.com/sst/opencode)
+   - AI coding agent, built for the terminal.
+
+10. [Zie619 /    n8n-workflows](https://github.com/Zie619/n8n-workflows)
+   - all of the workflows of n8n i could find (also from the site itself)
+
+11. [ccxt /    ccxt](https://github.com/ccxt/ccxt)
+   - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
+
+12. [midday-ai /    midday](https://github.com/midday-ai/midday)
    - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
-
-8. [ReVanced /    revanced-patches](https://github.com/ReVanced/revanced-patches)
-   - 🧩 Patches for ReVanced
-
-9. [deepset-ai /    haystack](https://github.com/deepset-ai/haystack)
-   - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
-
-10. [docker /    mcp-gateway](https://github.com/docker/mcp-gateway)
-   - docker mcp CLI plugin / MCP Gateway
-
-11. [firebase /    genkit](https://github.com/firebase/genkit)
-   - Google's multi-model AI framework in Javascript, Go and Python
-
-12. [simdjson /    simdjson](https://github.com/simdjson/simdjson)
-   - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 
 13. [unclecode /    crawl4ai](https://github.com/unclecode/crawl4ai)
    - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 
-14. [Arindam200 /    awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)
-   - A collection of projects showcasing RAG, agents, workflows, and other AI use cases
-
-15. [donnemartin /    system-design-primer](https://github.com/donnemartin/system-design-primer)
-   - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-
-16. [ml-explore /    mlx-lm](https://github.com/ml-explore/mlx-lm)
+14. [ml-explore /    mlx-lm](https://github.com/ml-explore/mlx-lm)
    - Run LLMs with MLX
+
+15. [CorentinJ /    Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
+   - Clone a voice in 5 seconds to generate arbitrary speech in real-time
+
+16. [mnh-jansson /    open-battery-information](https://github.com/mnh-jansson/open-battery-information)
+   - No description
+
+17. [HKUDS /    DeepCode](https://github.com/HKUDS/DeepCode)
+   - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
 
