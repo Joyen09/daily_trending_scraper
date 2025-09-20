@@ -1,56 +1,50 @@
-# GitHub Trending Repos - 2025-09-19
+# GitHub Trending Repos - 2025-09-20
 
-1. [microsoft /    markitdown](https://github.com/microsoft/markitdown)
-   - Python tool for converting files and office documents to Markdown.
+1. [Alibaba-NLP /    DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
+   - Tongyi Deep Research, the Leading Open-source Deep Research Agent
 
-2. [TheAlgorithms /    Python](https://github.com/TheAlgorithms/Python)
-   - All Algorithms implemented in Python
+2. [LazyVim /    LazyVim](https://github.com/LazyVim/LazyVim)
+   - Neovim config for the lazy
 
-3. [curl /    curl](https://github.com/curl/curl)
-   - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
+3. [basecamp /    omarchy](https://github.com/basecamp/omarchy)
+   - Opinionated Arch/Hyprland Setup
 
-4. [flutter /    flutter](https://github.com/flutter/flutter)
+4. [WebGoat /    WebGoat](https://github.com/WebGoat/WebGoat)
+   - WebGoat is a deliberately insecure application
+
+5. [flutter /    flutter](https://github.com/flutter/flutter)
    - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
-5. [Alibaba-NLP /    DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
-   - Tongyi DeepResearch, the Leading Open-source DeepResearch Agent
+6. [nocodb /    nocodb](https://github.com/nocodb/nocodb)
+   - 🔥 🔥 🔥 Open Source Airtable Alternative
 
-6. [category-labs /    monad](https://github.com/category-labs/monad)
-   - No description
+7. [facebookresearch /    detectron2](https://github.com/facebookresearch/detectron2)
+   - Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
 
-7. [TEN-framework /    ten-framework](https://github.com/TEN-framework/ten-framework)
-   - Open-source framework for conversational voice AI agents.
+8. [fmtlib /    fmt](https://github.com/fmtlib/fmt)
+   - A modern formatting library
 
-8. [jwasham /    coding-interview-university](https://github.com/jwasham/coding-interview-university)
-   - A complete computer science study plan to become a software engineer.
-
-9. [BasedHardware /    omi](https://github.com/BasedHardware/omi)
-   - AI wearables. Put it on, speak, transcribe, automatically
+9. [Gar-b-age /    CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
+   - 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 
 10. [linera-io /    linera-protocol](https://github.com/linera-io/linera-protocol)
    - Main repository for the Linera protocol
 
-11. [dataease /    SQLBot](https://github.com/dataease/SQLBot)
-   - 🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
+11. [microsoft /    AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+   - 12 Weeks, 24 Lessons, AI for All!
 
-12. [ArthurBrussee /    brush](https://github.com/ArthurBrussee/brush)
-   - 3D Reconstruction for all
+12. [CopilotKit /    CopilotKit](https://github.com/CopilotKit/CopilotKit)
+   - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 
-13. [PaddlePaddle /    PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
-   - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages.
+13. [microsoft /    markitdown](https://github.com/microsoft/markitdown)
+   - Python tool for converting files and office documents to Markdown.
 
-14. [unslothai /    unsloth](https://github.com/unslothai/unsloth)
-   - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
+14. [bitnami /    containers](https://github.com/bitnami/containers)
+   - Bitnami container images
 
-15. [openai /    codex](https://github.com/openai/codex)
-   - Lightweight coding agent that runs in your terminal
+15. [google-research /    timesfm](https://github.com/google-research/timesfm)
+   - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
 
-16. [tenstorrent /    tt-metal](https://github.com/tenstorrent/tt-metal)
-   - 🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.
-
-17. [virattt /    ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
-   - An AI Hedge Fund Team
-
-18. [cypress-io /    cypress](https://github.com/cypress-io/cypress)
-   - Fast, easy and reliable testing for anything that runs in a browser.
+16. [bitnami /    charts](https://github.com/bitnami/charts)
+   - Bitnami Helm Charts
 
