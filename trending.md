@@ -1,56 +1,53 @@
-# GitHub Trending Repos - 2025-09-24
+# GitHub Trending Repos - 2025-09-25
 
-1. [gin-gonic /    gin](https://github.com/gin-gonic/gin)
-   - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+1. [cloudflare /    capnweb](https://github.com/cloudflare/capnweb)
+   - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
 
-2. [LadybirdBrowser /    ladybird](https://github.com/LadybirdBrowser/ladybird)
+2. [elastic /    elasticsearch](https://github.com/elastic/elasticsearch)
+   - Free and Open Source, Distributed, RESTful Search Engine
+
+3. [LadybirdBrowser /    ladybird](https://github.com/LadybirdBrowser/ladybird)
    - Truly independent web browser
 
-3. [gofiber /    fiber](https://github.com/gofiber/fiber)
-   - ⚡️ Express inspired web framework written in Go
+4. [HKUDS /    RAG-Anything](https://github.com/HKUDS/RAG-Anything)
+   - "RAG-Anything: All-in-One RAG Framework"
 
-4. [eslint /    eslint](https://github.com/eslint/eslint)
-   - Find and fix problems in your JavaScript code.
+5. [ultralytics /    ultralytics](https://github.com/ultralytics/ultralytics)
+   - Ultralytics YOLO 🚀
 
-5. [fmtlib /    fmt](https://github.com/fmtlib/fmt)
-   - A modern formatting library
+6. [istio /    istio](https://github.com/istio/istio)
+   - Connect, secure, control, and observe services.
 
-6. [mtdvio /    every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
-   - A collection of (mostly) technical things every software developer should know about
+7. [gin-gonic /    gin](https://github.com/gin-gonic/gin)
+   - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
 
-7. [nvm-sh /    nvm](https://github.com/nvm-sh/nvm)
-   - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+8. [freqtrade /    freqtrade](https://github.com/freqtrade/freqtrade)
+   - Free, open source crypto trading bot
 
-8. [OpenZeppelin /    openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
-   - OpenZeppelin Contracts is a library for secure smart contract development.
+9. [bytedance /    Dolphin](https://github.com/bytedance/Dolphin)
+   - The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
 
-9. [Gar-b-age /    CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
+10. [aliasrobotics /    cai](https://github.com/aliasrobotics/cai)
+   - Cybersecurity AI (CAI), the framework for AI Security
+
+11. [Gar-b-age /    CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
    - 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 
-10. [EbookFoundation /    free-programming-books](https://github.com/EbookFoundation/free-programming-books)
-   - 📚 Freely available programming books
+12. [mtdvio /    every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
+   - A collection of (mostly) technical things every software developer should know about
 
-11. [WECENG /    ticket-purchase](https://github.com/WECENG/ticket-purchase)
-   - 大麦自动抢票，支持人员、城市、日期场次、价格选择
+13. [solana-labs /    solana](https://github.com/solana-labs/solana)
+   - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 
-12. [HKUDS /    AI-Researcher](https://github.com/HKUDS/AI-Researcher)
-   - [NeurIPS2025] "AI-Researcher: Autonomous Scientific Innovation" -- A production-ready version: https://novix.science/chat
+14. [siyuan-note /    siyuan](https://github.com/siyuan-note/siyuan)
+   - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 
-13. [foundry-rs /    foundry](https://github.com/foundry-rs/foundry)
-   - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+15. [django /    django](https://github.com/django/django)
+   - The Web framework for perfectionists with deadlines.
 
-14. [microsoft /    TypeScript](https://github.com/microsoft/TypeScript)
-   - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+16. [ByteByteGoHq /    system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+   - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 
-15. [helm /    helm](https://github.com/helm/helm)
-   - The Kubernetes Package Manager
-
-16. [tldraw /    tldraw](https://github.com/tldraw/tldraw)
-   - very good whiteboard SDK / infinite canvas SDK
-
-17. [smartcontractkit /    chainlink](https://github.com/smartcontractkit/chainlink)
-   - node of the decentralized oracle network, bridging on and off-chain computation
-
-18. [Kludex /    uvicorn](https://github.com/Kludex/uvicorn)
-   - An ASGI web server, for Python. 🦄
+17. [exo-explore /    exo](https://github.com/exo-explore/exo)
+   - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 
