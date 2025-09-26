@@ -1,53 +1,50 @@
-# GitHub Trending Repos - 2025-09-25
+# GitHub Trending Repos - 2025-09-26
 
-1. [cloudflare /    capnweb](https://github.com/cloudflare/capnweb)
-   - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
-
-2. [elastic /    elasticsearch](https://github.com/elastic/elasticsearch)
-   - Free and Open Source, Distributed, RESTful Search Engine
-
-3. [LadybirdBrowser /    ladybird](https://github.com/LadybirdBrowser/ladybird)
-   - Truly independent web browser
-
-4. [HKUDS /    RAG-Anything](https://github.com/HKUDS/RAG-Anything)
-   - "RAG-Anything: All-in-One RAG Framework"
-
-5. [ultralytics /    ultralytics](https://github.com/ultralytics/ultralytics)
-   - Ultralytics YOLO 🚀
-
-6. [istio /    istio](https://github.com/istio/istio)
-   - Connect, secure, control, and observe services.
-
-7. [gin-gonic /    gin](https://github.com/gin-gonic/gin)
+1. [gin-gonic /    gin](https://github.com/gin-gonic/gin)
    - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
 
-8. [freqtrade /    freqtrade](https://github.com/freqtrade/freqtrade)
-   - Free, open source crypto trading bot
+2. [humanlayer /    humanlayer](https://github.com/humanlayer/humanlayer)
+   - The best way to get AI to solve hard problems in complex codebases.
 
-9. [bytedance /    Dolphin](https://github.com/bytedance/Dolphin)
-   - The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
+3. [yt-dlp /    yt-dlp](https://github.com/yt-dlp/yt-dlp)
+   - A feature-rich command-line audio/video downloader
 
-10. [aliasrobotics /    cai](https://github.com/aliasrobotics/cai)
-   - Cybersecurity AI (CAI), the framework for AI Security
+4. [TheAlgorithms /    Python](https://github.com/TheAlgorithms/Python)
+   - All Algorithms implemented in Python
 
-11. [Gar-b-age /    CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
-   - 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+5. [ZuodaoTech /    everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)
+   - 人人都能用英语
 
-12. [mtdvio /    every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
-   - A collection of (mostly) technical things every software developer should know about
+6. [Olow304 /    memvid](https://github.com/Olow304/memvid)
+   - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
 
-13. [solana-labs /    solana](https://github.com/solana-labs/solana)
-   - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+7. [TanStack /    router](https://github.com/TanStack/router)
+   - 🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.
 
-14. [siyuan-note /    siyuan](https://github.com/siyuan-note/siyuan)
-   - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+8. [LadybirdBrowser /    ladybird](https://github.com/LadybirdBrowser/ladybird)
+   - Truly independent web browser
 
-15. [django /    django](https://github.com/django/django)
-   - The Web framework for perfectionists with deadlines.
+9. [coinbase /    x402](https://github.com/coinbase/x402)
+   - A payments protocol for the internet. Built on HTTP.
 
-16. [ByteByteGoHq /    system-design-101](https://github.com/ByteByteGoHq/system-design-101)
-   - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+10. [Asabeneh /    30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
+   - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 
-17. [exo-explore /    exo](https://github.com/exo-explore/exo)
-   - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+11. [elastic /    elasticsearch](https://github.com/elastic/elasticsearch)
+   - Free and Open Source, Distributed, RESTful Search Engine
+
+12. [OpenZeppelin /    openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
+   - OpenZeppelin Contracts is a library for secure smart contract development.
+
+13. [confident-ai /    deepeval](https://github.com/confident-ai/deepeval)
+   - The LLM Evaluation Framework
+
+14. [cloudflare /    capnweb](https://github.com/cloudflare/capnweb)
+   - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
+
+15. [smartcontractkit /    chainlink](https://github.com/smartcontractkit/chainlink)
+   - node of the decentralized oracle network, bridging on and off-chain computation
+
+16. [onyx-dot-app /    onyx](https://github.com/onyx-dot-app/onyx)
+   - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 
