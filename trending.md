@@ -1,47 +1,65 @@
-# GitHub Trending Repos - 2025-10-02
+# GitHub Trending Repos - 2025-10-03
 
-1. [harry0703 /    MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
-   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-
-2. [Done-0 /    fuck-u-code](https://github.com/Done-0/fuck-u-code)
-   - Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告
-
-3. [anthropics /    claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python)
-   - No description
-
-4. [lobehub /    lobe-chat](https://github.com/lobehub/lobe-chat)
-   - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
-
-5. [nextcloud /    server](https://github.com/nextcloud/server)
+1. [nextcloud /    server](https://github.com/nextcloud/server)
    - ☁️ Nextcloud server, a safe home for all your data
 
-6. [github /    awesome-copilot](https://github.com/github/awesome-copilot)
-   - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
+2. [google /    tunix](https://github.com/google/tunix)
+   - A JAX-native LLM Post-Training Library
+
+3. [pathwaycom /    pathway](https://github.com/pathwaycom/pathway)
+   - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+
+4. [cjpais /    Handy](https://github.com/cjpais/Handy)
+   - A free, open source, and extensible speech-to-text application that works completely offline.
+
+5. [anthropics /    claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python)
+   - No description
+
+6. [atuinsh /    desktop](https://github.com/atuinsh/desktop)
+   - 📖 Runbooks that run
 
 7. [SDWebImage /    SDWebImage](https://github.com/SDWebImage/SDWebImage)
    - Asynchronous image downloader with cache support as a UIImageView category
 
-8. [mlabonne /    llm-course](https://github.com/mlabonne/llm-course)
-   - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+8. [Lightricks /    LTX-Video](https://github.com/Lightricks/LTX-Video)
+   - Official repository for LTX-Video
 
-9. [aquasecurity /    trivy](https://github.com/aquasecurity/trivy)
-   - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+9. [juspay /    hyperswitch](https://github.com/juspay/hyperswitch)
+   - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
-10. [lukas-blecher /    LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)
-   - pix2tex: Using a ViT to convert images of equations into LaTeX code.
+10. [immich-app /    immich](https://github.com/immich-app/immich)
+   - High performance self-hosted photo and video management solution.
 
-11. [PHPMailer /    PHPMailer](https://github.com/PHPMailer/PHPMailer)
-   - The classic email sending library for PHP
+11. [chiphuyen /    aie-book](https://github.com/chiphuyen/aie-book)
+   - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
 
-12. [commaai /    openpilot](https://github.com/commaai/openpilot)
-   - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+12. [actions /    runner-images](https://github.com/actions/runner-images)
+   - GitHub Actions runner images
 
-13. [microsoft /    ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-   - 12 Lessons to Get Started Building AI Agents
+13. [harry0703 /    MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 
-14. [YILING0013 /    AI_NovelGenerator](https://github.com/YILING0013/AI_NovelGenerator)
-   - 使用ai生成多章节的长篇小说，自动衔接上下文、伏笔
+14. [simstudioai /    sim](https://github.com/simstudioai/sim)
+   - Open-source platform to build and deploy AI agent workflows.
 
-15. [x1xhlol /    system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
-   - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+15. [MudBlazor /    MudBlazor](https://github.com/MudBlazor/MudBlazor)
+   - Blazor Component Library based on Material Design principles with an emphasis on ease of use and extensibility
+
+16. [hsliuping /    TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
+   - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+
+17. [quarkusio /    quarkus](https://github.com/quarkusio/quarkus)
+   - Quarkus: Supersonic Subatomic Java.
+
+18. [anthropics /    claude-code](https://github.com/anthropics/claude-code)
+   - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+
+19. [enescingoz /    awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)
+   - Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks.
+
+20. [kestra-io /    kestra](https://github.com/kestra-io/kestra)
+   - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
+
+21. [tigerbeetle /    tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)
+   - The financial transactions database designed for mission critical safety and performance.
 
