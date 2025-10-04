@@ -1,65 +1,56 @@
-# GitHub Trending Repos - 2025-10-03
+# GitHub Trending Repos - 2025-10-04
 
-1. [nextcloud /    server](https://github.com/nextcloud/server)
-   - ☁️ Nextcloud server, a safe home for all your data
+1. [hsliuping /    TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
+   - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
 
 2. [google /    tunix](https://github.com/google/tunix)
    - A JAX-native LLM Post-Training Library
 
-3. [pathwaycom /    pathway](https://github.com/pathwaycom/pathway)
-   - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
-
-4. [cjpais /    Handy](https://github.com/cjpais/Handy)
-   - A free, open source, and extensible speech-to-text application that works completely offline.
-
-5. [anthropics /    claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python)
-   - No description
-
-6. [atuinsh /    desktop](https://github.com/atuinsh/desktop)
-   - 📖 Runbooks that run
-
-7. [SDWebImage /    SDWebImage](https://github.com/SDWebImage/SDWebImage)
-   - Asynchronous image downloader with cache support as a UIImageView category
-
-8. [Lightricks /    LTX-Video](https://github.com/Lightricks/LTX-Video)
-   - Official repository for LTX-Video
-
-9. [juspay /    hyperswitch](https://github.com/juspay/hyperswitch)
+3. [juspay /    hyperswitch](https://github.com/juspay/hyperswitch)
    - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
-10. [immich-app /    immich](https://github.com/immich-app/immich)
-   - High performance self-hosted photo and video management solution.
+4. [airweave-ai /    airweave](https://github.com/airweave-ai/airweave)
+   - Airweave lets agents search any app
 
-11. [chiphuyen /    aie-book](https://github.com/chiphuyen/aie-book)
-   - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
-
-12. [actions /    runner-images](https://github.com/actions/runner-images)
-   - GitHub Actions runner images
-
-13. [harry0703 /    MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
-   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-
-14. [simstudioai /    sim](https://github.com/simstudioai/sim)
-   - Open-source platform to build and deploy AI agent workflows.
-
-15. [MudBlazor /    MudBlazor](https://github.com/MudBlazor/MudBlazor)
-   - Blazor Component Library based on Material Design principles with an emphasis on ease of use and extensibility
-
-16. [hsliuping /    TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
-   - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
-
-17. [quarkusio /    quarkus](https://github.com/quarkusio/quarkus)
-   - Quarkus: Supersonic Subatomic Java.
-
-18. [anthropics /    claude-code](https://github.com/anthropics/claude-code)
-   - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-
-19. [enescingoz /    awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)
-   - Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks.
-
-20. [kestra-io /    kestra](https://github.com/kestra-io/kestra)
+5. [kestra-io /    kestra](https://github.com/kestra-io/kestra)
    - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
 
-21. [tigerbeetle /    tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)
-   - The financial transactions database designed for mission critical safety and performance.
+6. [nextcloud /    server](https://github.com/nextcloud/server)
+   - ☁️ Nextcloud server, a safe home for all your data
+
+7. [emcie-co /    parlant](https://github.com/emcie-co/parlant)
+   - LLM agents built for control. Designed for real-world use. Deployed in minutes.
+
+8. [Infisical /    infisical](https://github.com/Infisical/infisical)
+   - Infisical is the open-source platform for secrets management, PKI, and SSH access.
+
+9. [SDWebImage /    SDWebImage](https://github.com/SDWebImage/SDWebImage)
+   - Asynchronous image downloader with cache support as a UIImageView category
+
+10. [microsoft /    agent-framework](https://github.com/microsoft/agent-framework)
+   - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
+
+11. [amir1376 /    ab-download-manager](https://github.com/amir1376/ab-download-manager)
+   - A Download Manager that speeds up your downloads
+
+12. [meshery /    meshery](https://github.com/meshery/meshery)
+   - Meshery, the cloud native manager
+
+13. [pathwaycom /    pathway](https://github.com/pathwaycom/pathway)
+   - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+
+14. [ripienaar /    free-for-dev](https://github.com/ripienaar/free-for-dev)
+   - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+15. [symfony /    symfony](https://github.com/symfony/symfony)
+   - The Symfony PHP framework
+
+16. [immich-app /    immich](https://github.com/immich-app/immich)
+   - High performance self-hosted photo and video management solution.
+
+17. [lukas-blecher /    LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)
+   - pix2tex: Using a ViT to convert images of equations into LaTeX code.
+
+18. [mhogomchungu /    media-downloader](https://github.com/mhogomchungu/media-downloader)
+   - Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..
 
