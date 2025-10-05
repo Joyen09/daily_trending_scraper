@@ -1,56 +1,65 @@
-# GitHub Trending Repos - 2025-10-04
+# GitHub Trending Repos - 2025-10-05
 
-1. [hsliuping /    TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
-   - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
-
-2. [google /    tunix](https://github.com/google/tunix)
-   - A JAX-native LLM Post-Training Library
-
-3. [juspay /    hyperswitch](https://github.com/juspay/hyperswitch)
+1. [juspay /    hyperswitch](https://github.com/juspay/hyperswitch)
    - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
-4. [airweave-ai /    airweave](https://github.com/airweave-ai/airweave)
-   - Airweave lets agents search any app
-
-5. [kestra-io /    kestra](https://github.com/kestra-io/kestra)
-   - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
-
-6. [nextcloud /    server](https://github.com/nextcloud/server)
-   - ☁️ Nextcloud server, a safe home for all your data
-
-7. [emcie-co /    parlant](https://github.com/emcie-co/parlant)
-   - LLM agents built for control. Designed for real-world use. Deployed in minutes.
-
-8. [Infisical /    infisical](https://github.com/Infisical/infisical)
-   - Infisical is the open-source platform for secrets management, PKI, and SSH access.
-
-9. [SDWebImage /    SDWebImage](https://github.com/SDWebImage/SDWebImage)
-   - Asynchronous image downloader with cache support as a UIImageView category
-
-10. [microsoft /    agent-framework](https://github.com/microsoft/agent-framework)
-   - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
-
-11. [amir1376 /    ab-download-manager](https://github.com/amir1376/ab-download-manager)
-   - A Download Manager that speeds up your downloads
-
-12. [meshery /    meshery](https://github.com/meshery/meshery)
+2. [meshery /    meshery](https://github.com/meshery/meshery)
    - Meshery, the cloud native manager
 
-13. [pathwaycom /    pathway](https://github.com/pathwaycom/pathway)
+3. [google /    tunix](https://github.com/google/tunix)
+   - A JAX-native LLM Post-Training Library
+
+4. [Stremio /    stremio-web](https://github.com/Stremio/stremio-web)
+   - Stremio - Freedom to Stream
+
+5. [tigerbeetle /    tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)
+   - The financial transactions database designed for mission critical safety and performance.
+
+6. [paaatrick /    playball](https://github.com/paaatrick/playball)
+   - Watch MLB games from the comfort of your own terminal
+
+7. [AykutSarac /    jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)
+   - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+
+8. [simular-ai /    Agent-S](https://github.com/simular-ai/Agent-S)
+   - Agent S: an open agentic framework that uses computers like a human
+
+9. [kestra-io /    kestra](https://github.com/kestra-io/kestra)
+   - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
+
+10. [microsoft /    BitNet](https://github.com/microsoft/BitNet)
+   - Official inference framework for 1-bit LLMs
+
+11. [Infisical /    infisical](https://github.com/Infisical/infisical)
+   - Infisical is the open-source platform for secrets management, PKI, and SSH access.
+
+12. [signalapp /    libsignal](https://github.com/signalapp/libsignal)
+   - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
+
+13. [MudBlazor /    MudBlazor](https://github.com/MudBlazor/MudBlazor)
+   - Blazor Component Library based on Material Design principles with an emphasis on ease of use and extensibility
+
+14. [pathwaycom /    pathway](https://github.com/pathwaycom/pathway)
    - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
 
-14. [ripienaar /    free-for-dev](https://github.com/ripienaar/free-for-dev)
-   - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+15. [glide-browser /    glide](https://github.com/glide-browser/glide)
+   - An extensible and keyboard-focused web browser
 
-15. [symfony /    symfony](https://github.com/symfony/symfony)
-   - The Symfony PHP framework
+16. [dbt-labs /    dbt-core](https://github.com/dbt-labs/dbt-core)
+   - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 
-16. [immich-app /    immich](https://github.com/immich-app/immich)
-   - High performance self-hosted photo and video management solution.
+17. [hsliuping /    TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
+   - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
 
-17. [lukas-blecher /    LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)
-   - pix2tex: Using a ViT to convert images of equations into LaTeX code.
+18. [airweave-ai /    airweave](https://github.com/airweave-ai/airweave)
+   - Airweave lets agents search any app
 
-18. [mhogomchungu /    media-downloader](https://github.com/mhogomchungu/media-downloader)
-   - Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..
+19. [microsoft /    agent-framework](https://github.com/microsoft/agent-framework)
+   - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
+
+20. [pathwaycom /    llm-app](https://github.com/pathwaycom/llm-app)
+   - Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.
+
+21. [MotiaDev /    motia](https://github.com/MotiaDev/motia)
+   - Multi-Language Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
 
