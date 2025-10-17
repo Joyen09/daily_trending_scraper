@@ -1,53 +1,53 @@
-# GitHub Trending Repos - 2025-10-16
+# GitHub Trending Repos - 2025-10-17
 
-1. [anthropics /    prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
-   - Anthropic's Interactive Prompt Engineering Tutorial
+1. [nvm-sh /    nvm](https://github.com/nvm-sh/nvm)
+   - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 
-2. [jingyaogong /    minimind](https://github.com/jingyaogong/minimind)
-   - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+2. [devlikeapro /    waha](https://github.com/devlikeapro/waha)
+   - WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
 
-3. [nitrojs /    nitro](https://github.com/nitrojs/nitro)
-   - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
+3. [QwenLM /    Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)
+   - Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
 
-4. [langchain-ai /    langchainjs](https://github.com/langchain-ai/langchainjs)
-   - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+4. [ChristianLempa /    boilerplates](https://github.com/ChristianLempa/boilerplates)
+   - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
 
 5. [karpathy /    nanoGPT](https://github.com/karpathy/nanoGPT)
    - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 
-6. [nvm-sh /    nvm](https://github.com/nvm-sh/nvm)
-   - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+6. [ntdevlabs /    tiny11builder](https://github.com/ntdevlabs/tiny11builder)
+   - Scripts to build a trimmed-down Windows 11 image.
 
 7. [envoyproxy /    envoy](https://github.com/envoyproxy/envoy)
    - Cloud-native high-performance edge/middle/service proxy
 
-8. [EvolutionAPI /    evolution-api](https://github.com/EvolutionAPI/evolution-api)
-   - Evolution API is an open-source WhatsApp integration API
+8. [GorvGoyl /    Clone-Wars](https://github.com/GorvGoyl/Clone-Wars)
+   - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 
-9. [devlikeapro /    waha](https://github.com/devlikeapro/waha)
-   - WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
+9. [linexjlin /    GPTs](https://github.com/linexjlin/GPTs)
+   - leaked prompts of GPTs
 
-10. [enactic /    openarm](https://github.com/enactic/openarm)
-   - A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.
+10. [reflex-dev /    reflex](https://github.com/reflex-dev/reflex)
+   - 🕸️ Web apps in pure Python 🐍
 
-11. [DigitalPlatDev /    FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)
-   - DigitalPlat FreeDomain: Free Domain For Everyone
+11. [wmjordan /    PDFPatcher](https://github.com/wmjordan/PDFPatcher)
+   - PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等
 
-12. [ChristianLempa /    boilerplates](https://github.com/ChristianLempa/boilerplates)
-   - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
+12. [KellerJordan /    modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt)
+   - NanoGPT (124M) in 3 minutes
 
-13. [alibaba /    spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)
-   - Agentic AI Framework for Java Developers
+13. [anthropics /    prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
+   - Anthropic's Interactive Prompt Engineering Tutorial
 
-14. [dair-ai /    Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
-   - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+14. [jingyaogong /    minimind](https://github.com/jingyaogong/minimind)
+   - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
 
-15. [nanobrowser /    nanobrowser](https://github.com/nanobrowser/nanobrowser)
-   - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
+15. [DataDog /    datadog-agent](https://github.com/DataDog/datadog-agent)
+   - Main repository for Datadog Agent
 
-16. [czlonkowski /    n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
-   - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
+16. [testcontainers /    testcontainers-java](https://github.com/testcontainers/testcontainers-java)
+   - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 
-17. [tulir /    whatsmeow](https://github.com/tulir/whatsmeow)
-   - Go library for the WhatsApp web multidevice API
+17. [datawhalechina /    llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
+   - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
 
