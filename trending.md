@@ -1,53 +1,53 @@
-# GitHub Trending Repos - 2025-10-17
+# GitHub Trending Repos - 2025-10-18
 
-1. [nvm-sh /    nvm](https://github.com/nvm-sh/nvm)
+1. [jingyaogong /    minimind](https://github.com/jingyaogong/minimind)
+   - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+
+2. [nvm-sh /    nvm](https://github.com/nvm-sh/nvm)
    - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 
-2. [devlikeapro /    waha](https://github.com/devlikeapro/waha)
-   - WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
+3. [kamranahmedse /    developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+   - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
-3. [QwenLM /    Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)
-   - Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
+4. [dockur /    windows](https://github.com/dockur/windows)
+   - Windows inside a Docker container.
 
-4. [ChristianLempa /    boilerplates](https://github.com/ChristianLempa/boilerplates)
-   - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
+5. [HuLaSpark /    HuLa](https://github.com/HuLaSpark/HuLa)
+   - 🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）🎉 10月20号 3.0版本重磅发布，敬请期待🎉
 
-5. [karpathy /    nanoGPT](https://github.com/karpathy/nanoGPT)
-   - The simplest, fastest repository for training/finetuning medium-sized GPTs.
+6. [reflex-dev /    reflex](https://github.com/reflex-dev/reflex)
+   - 🕸️ Web apps in pure Python 🐍
 
-6. [ntdevlabs /    tiny11builder](https://github.com/ntdevlabs/tiny11builder)
-   - Scripts to build a trimmed-down Windows 11 image.
+7. [lfnovo /    open-notebook](https://github.com/lfnovo/open-notebook)
+   - An Open Source implementation of Notebook LM with more flexibility and features
 
-7. [envoyproxy /    envoy](https://github.com/envoyproxy/envoy)
-   - Cloud-native high-performance edge/middle/service proxy
-
-8. [GorvGoyl /    Clone-Wars](https://github.com/GorvGoyl/Clone-Wars)
-   - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
+8. [stamparm /    maltrail](https://github.com/stamparm/maltrail)
+   - Malicious traffic detection system
 
 9. [linexjlin /    GPTs](https://github.com/linexjlin/GPTs)
    - leaked prompts of GPTs
 
-10. [reflex-dev /    reflex](https://github.com/reflex-dev/reflex)
-   - 🕸️ Web apps in pure Python 🐍
+10. [keycloak /    keycloak](https://github.com/keycloak/keycloak)
+   - Open Source Identity and Access Management For Modern Applications and Services
 
-11. [wmjordan /    PDFPatcher](https://github.com/wmjordan/PDFPatcher)
-   - PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等
+11. [devlikeapro /    waha](https://github.com/devlikeapro/waha)
+   - WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
 
-12. [KellerJordan /    modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt)
-   - NanoGPT (124M) in 3 minutes
+12. [PaddlePaddle /    PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+   - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 
-13. [anthropics /    prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
-   - Anthropic's Interactive Prompt Engineering Tutorial
+13. [karpathy /    nanoGPT](https://github.com/karpathy/nanoGPT)
+   - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 
-14. [jingyaogong /    minimind](https://github.com/jingyaogong/minimind)
-   - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+14. [modelcontextprotocol /    java-sdk](https://github.com/modelcontextprotocol/java-sdk)
+   - The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
 
-15. [DataDog /    datadog-agent](https://github.com/DataDog/datadog-agent)
-   - Main repository for Datadog Agent
+15. [shiyu-coder /    Kronos](https://github.com/shiyu-coder/Kronos)
+   - Kronos: A Foundation Model for the Language of Financial Markets
 
-16. [testcontainers /    testcontainers-java](https://github.com/testcontainers/testcontainers-java)
-   - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+16. [microsoft /    PowerToys](https://github.com/microsoft/PowerToys)
+   - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 
-17. [datawhalechina /    llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
-   - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
+17. [wavetermdev /    waveterm](https://github.com/wavetermdev/waveterm)
+   - An open-source, cross-platform terminal for seamless workflows
 
