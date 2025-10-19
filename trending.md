@@ -1,53 +1,56 @@
-# GitHub Trending Repos - 2025-10-18
+# GitHub Trending Repos - 2025-10-19
 
-1. [jingyaogong /    minimind](https://github.com/jingyaogong/minimind)
-   - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+1. [anthropics /    claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
+   - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 
 2. [nvm-sh /    nvm](https://github.com/nvm-sh/nvm)
    - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 
-3. [kamranahmedse /    developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-   - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+3. [jingyaogong /    minimind](https://github.com/jingyaogong/minimind)
+   - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
 
-4. [dockur /    windows](https://github.com/dockur/windows)
-   - Windows inside a Docker container.
+4. [microsoft /    vcpkg](https://github.com/microsoft/vcpkg)
+   - C++ Library Manager for Windows, Linux, and MacOS
 
-5. [HuLaSpark /    HuLa](https://github.com/HuLaSpark/HuLa)
-   - 🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）🎉 10月20号 3.0版本重磅发布，敬请期待🎉
+5. [wavetermdev /    waveterm](https://github.com/wavetermdev/waveterm)
+   - An open-source, cross-platform terminal for seamless workflows
 
-6. [reflex-dev /    reflex](https://github.com/reflex-dev/reflex)
-   - 🕸️ Web apps in pure Python 🐍
+6. [pathwaycom /    pathway](https://github.com/pathwaycom/pathway)
+   - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
 
-7. [lfnovo /    open-notebook](https://github.com/lfnovo/open-notebook)
-   - An Open Source implementation of Notebook LM with more flexibility and features
+7. [ThinkInAIXYZ /    deepchat](https://github.com/ThinkInAIXYZ/deepchat)
+   - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 
-8. [stamparm /    maltrail](https://github.com/stamparm/maltrail)
-   - Malicious traffic detection system
-
-9. [linexjlin /    GPTs](https://github.com/linexjlin/GPTs)
-   - leaked prompts of GPTs
-
-10. [keycloak /    keycloak](https://github.com/keycloak/keycloak)
-   - Open Source Identity and Access Management For Modern Applications and Services
-
-11. [devlikeapro /    waha](https://github.com/devlikeapro/waha)
-   - WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
-
-12. [PaddlePaddle /    PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
-   - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
-
-13. [karpathy /    nanoGPT](https://github.com/karpathy/nanoGPT)
-   - The simplest, fastest repository for training/finetuning medium-sized GPTs.
-
-14. [modelcontextprotocol /    java-sdk](https://github.com/modelcontextprotocol/java-sdk)
+8. [modelcontextprotocol /    java-sdk](https://github.com/modelcontextprotocol/java-sdk)
    - The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
 
-15. [shiyu-coder /    Kronos](https://github.com/shiyu-coder/Kronos)
-   - Kronos: A Foundation Model for the Language of Financial Markets
+9. [PaddlePaddle /    PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+   - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 
-16. [microsoft /    PowerToys](https://github.com/microsoft/PowerToys)
+10. [microsoft /    PowerToys](https://github.com/microsoft/PowerToys)
    - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 
-17. [wavetermdev /    waveterm](https://github.com/wavetermdev/waveterm)
-   - An open-source, cross-platform terminal for seamless workflows
+11. [DrewThomasson /    ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
+   - Generate audiobooks from e-books, voice cloning & 1107+ languages!
+
+12. [hashicorp /    terraform](https://github.com/hashicorp/terraform)
+   - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+
+13. [fastfire /    deepdarkCTI](https://github.com/fastfire/deepdarkCTI)
+   - Collection of Cyber Threat Intelligence sources from the deep and dark web
+
+14. [HandsOnLLM /    Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+   - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
+
+15. [kamranahmedse /    developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+   - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+
+16. [storybookjs /    storybook](https://github.com/storybookjs/storybook)
+   - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
+
+17. [TheAlgorithms /    Python](https://github.com/TheAlgorithms/Python)
+   - All Algorithms implemented in Python
+
+18. [gtsteffaniak /    filebrowser](https://github.com/gtsteffaniak/filebrowser)
+   - 📂 Web File Browser
 
