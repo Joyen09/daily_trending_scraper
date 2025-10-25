@@ -1,50 +1,59 @@
-# GitHub Trending Repos - 2025-10-24
+# GitHub Trending Repos - 2025-10-25
 
-1. [minio /    minio](https://github.com/minio/minio)
-   - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+1. [LadybirdBrowser /    ladybird](https://github.com/LadybirdBrowser/ladybird)
+   - Truly independent web browser
 
 2. [guofei9987 /    blind_watermark](https://github.com/guofei9987/blind_watermark)
    - Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
 
-3. [mountain-loop /    yaak](https://github.com/mountain-loop/yaak)
-   - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
+3. [hoppscotch /    hoppscotch](https://github.com/hoppscotch/hoppscotch)
+   - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 
-4. [LadybirdBrowser /    ladybird](https://github.com/LadybirdBrowser/ladybird)
-   - Truly independent web browser
+4. [zephyrproject-rtos /    zephyr](https://github.com/zephyrproject-rtos/zephyr)
+   - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
 
-5. [paperless-ngx /    paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+5. [minio /    minio](https://github.com/minio/minio)
+   - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+
+6. [emcie-co /    parlant](https://github.com/emcie-co/parlant)
+   - LLM agents built for control. Designed for real-world use. Deployed in minutes.
+
+7. [zyronon /    TypeWords](https://github.com/zyronon/TypeWords)
+   - 练习英语，一次敲击，一点进步；Practice English, one strike, one step forward
+
+8. [paperless-ngx /    paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
    - A community-supported supercharged document management system: scan, index and archive all your documents
 
-6. [dyad-sh /    dyad](https://github.com/dyad-sh/dyad)
-   - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+9. [PowerShell /    PowerShell](https://github.com/PowerShell/PowerShell)
+   - PowerShell for every system!
 
-7. [k2-fsa /    sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
-   - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages
+10. [Lightricks /    LTX-Video](https://github.com/Lightricks/LTX-Video)
+   - Official repository for LTX-Video
 
-8. [rossant /    awesome-math](https://github.com/rossant/awesome-math)
-   - A curated list of awesome mathematics resources
+11. [OpenMind /    OM1](https://github.com/OpenMind/OM1)
+   - Modular AI runtime for robots
 
-9. [louislam /    uptime-kuma](https://github.com/louislam/uptime-kuma)
-   - A fancy self-hosted monitoring tool
-
-10. [harvard-edge /    cs249r_book](https://github.com/harvard-edge/cs249r_book)
-   - Introduction to Machine Learning Systems
-
-11. [yt-dlp /    yt-dlp](https://github.com/yt-dlp/yt-dlp)
+12. [yt-dlp /    yt-dlp](https://github.com/yt-dlp/yt-dlp)
    - A feature-rich command-line audio/video downloader
 
-12. [meta-pytorch /    torchforge](https://github.com/meta-pytorch/torchforge)
-   - PyTorch-native post-training at scale
+13. [isaac-sim /    IsaacSim](https://github.com/isaac-sim/IsaacSim)
+   - NVIDIA Isaac Sim™ is an open-source application on NVIDIA Omniverse for developing, simulating, and testing AI-driven robots in realistic virtual environments.
 
-13. [lukasmasuch /    best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python)
-   - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
+14. [seaweedfs /    seaweedfs](https://github.com/seaweedfs/seaweedfs)
+   - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.
 
-14. [guofei9987 /    scikit-opt](https://github.com/guofei9987/scikit-opt)
-   - Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Optimization Algorithm,Immune Algorithm, Artificial Fish Swarm Algorithm, Differential Evolution and TSP(Traveling salesman)
+15. [rustfs /    rustfs](https://github.com/rustfs/rustfs)
+   - 🚀 RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 
-15. [jaywcjlove /    awesome-mac](https://github.com/jaywcjlove/awesome-mac)
-   -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+16. [drawdb-io /    drawdb](https://github.com/drawdb-io/drawdb)
+   - Free, simple, and intuitive online database diagram editor and SQL generator.
 
-16. [hoppscotch /    hoppscotch](https://github.com/hoppscotch/hoppscotch)
-   - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+17. [directus /    directus](https://github.com/directus/directus)
+   - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
+
+18. [dyad-sh /    dyad](https://github.com/dyad-sh/dyad)
+   - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+
+19. [elastic /    elasticsearch](https://github.com/elastic/elasticsearch)
+   - Free and Open Source, Distributed, RESTful Search Engine
 
