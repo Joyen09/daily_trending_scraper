@@ -1,47 +1,47 @@
-# GitHub Trending Repos - 2025-11-01
+# GitHub Trending Repos - 2025-11-02
 
-1. [nvm-sh /    nvm](https://github.com/nvm-sh/nvm)
+1. [get-convex /    chef](https://github.com/get-convex/chef)
+   - The only AI app builder that knows backend
+
+2. [suitenumerique /    docs](https://github.com/suitenumerique/docs)
+   - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
+
+3. [Tencent /    WeKnora](https://github.com/Tencent/WeKnora)
+   - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+
+4. [janhq /    jan](https://github.com/janhq/jan)
+   - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+
+5. [microsoft /    Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+   - 24 Lessons, 12 Weeks, Get Started as a Web Developer
+
+6. [hacksider /    Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+   - real time face swap and one-click video deepfake with only a single image
+
+7. [juspay /    hyperswitch](https://github.com/juspay/hyperswitch)
+   - An open source payments switch written in Rust to make payments fast, reliable and affordable
+
+8. [nvm-sh /    nvm](https://github.com/nvm-sh/nvm)
    - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 
-2. [Wei-Shaw /    claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service)
-   - CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+9. [github /    copilot-cli](https://github.com/github/copilot-cli)
+   - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 
-3. [ventoy /    Ventoy](https://github.com/ventoy/Ventoy)
-   - A new bootable USB solution.
+10. [YunaiV /    ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)
+   - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
 
-4. [projectdiscovery /    nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)
-   - Community curated list of templates for the nuclei engine to find security vulnerabilities.
+11. [hanxi /    xiaomusic](https://github.com/hanxi/xiaomusic)
+   - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
 
-5. [fmtlib /    fmt](https://github.com/fmtlib/fmt)
-   - A modern formatting library
-
-6. [qeeqbox /    social-analyzer](https://github.com/qeeqbox/social-analyzer)
-   - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
-
-7. [open-telemetry /    opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector)
-   - OpenTelemetry Collector
-
-8. [yhirose /    cpp-httplib](https://github.com/yhirose/cpp-httplib)
-   - A C++ header-only HTTP/HTTPS server and client library
-
-9. [microsoft /    agent-lightning](https://github.com/microsoft/agent-lightning)
-   - The absolute trainer to light up AI agents.
-
-10. [666ghj /    BettaFish](https://github.com/666ghj/BettaFish)
+12. [666ghj /    BettaFish](https://github.com/666ghj/BettaFish)
    - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 
-11. [hiyouga /    LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
-   - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+13. [pathwaycom /    llm-app](https://github.com/pathwaycom/llm-app)
+   - Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.
 
-12. [smartcontractkit /    chainlink](https://github.com/smartcontractkit/chainlink)
-   - node of the decentralized oracle network, bridging on and off-chain computation
+14. [lingodotdev /    lingo.dev](https://github.com/lingodotdev/lingo.dev)
+   - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord:
 
-13. [dotnet /    eShop](https://github.com/dotnet/eShop)
-   - A reference .NET application implementing an eCommerce site
-
-14. [patchy631 /    ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
-   - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-
-15. [microsoft /    Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-   - 24 Lessons, 12 Weeks, Get Started as a Web Developer
+15. [ossu /    computer-science](https://github.com/ossu/computer-science)
+   - 🎓 Path to a free self-taught education in Computer Science!
 
