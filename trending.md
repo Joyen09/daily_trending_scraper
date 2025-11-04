@@ -1,41 +1,47 @@
-# GitHub Trending Repos - 2025-11-03
+# GitHub Trending Repos - 2025-11-04
 
 1. [666ghj /    BettaFish](https://github.com/666ghj/BettaFish)
    - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 
-2. [Wei-Shaw /    claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service)
-   - CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
-
-3. [microsoft /    agent-lightning](https://github.com/microsoft/agent-lightning)
-   - The absolute trainer to light up AI agents.
-
-4. [HKUDS /    DeepCode](https://github.com/HKUDS/DeepCode)
-   - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
-
-5. [GeeeekExplorer /    nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)
+2. [GeeeekExplorer /    nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)
    - Nano vLLM
 
-6. [sst /    opencode](https://github.com/sst/opencode)
-   - The AI coding agent built for the terminal.
+3. [HKUDS /    DeepCode](https://github.com/HKUDS/DeepCode)
+   - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
 
-7. [charmbracelet /    glow](https://github.com/charmbracelet/glow)
+4. [charmbracelet /    glow](https://github.com/charmbracelet/glow)
    - Render markdown on the CLI, with pizzazz! 💅🏻
 
-8. [NARKOZ /    hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
-   - Based on a true story
+5. [sst /    opencode](https://github.com/sst/opencode)
+   - The AI coding agent built for the terminal.
 
-9. [moondevonyt /    moon-dev-ai-agents](https://github.com/moondevonyt/moon-dev-ai-agents)
-   - autonomous ai agents for trading in python
+6. [get-convex /    chef](https://github.com/get-convex/chef)
+   - The only AI app builder that knows backend
 
-10. [suitenumerique /    docs](https://github.com/suitenumerique/docs)
-   - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
+7. [pytorch /    pytorch](https://github.com/pytorch/pytorch)
+   - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
-11. [Fosowl /    agenticSeek](https://github.com/Fosowl/agenticSeek)
+8. [Fosowl /    agenticSeek](https://github.com/Fosowl/agenticSeek)
    - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)
 
-12. [HandsOnLLM /    Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
-   - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
+9. [mudler /    LocalAI](https://github.com/mudler/LocalAI)
+   - 🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
 
-13. [hmjz100 /    LinkSwift](https://github.com/hmjz100/LinkSwift)
-   - 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
+10. [1Panel-dev /    MaxKB](https://github.com/1Panel-dev/MaxKB)
+   - 🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。
+
+11. [fastfire /    deepdarkCTI](https://github.com/fastfire/deepdarkCTI)
+   - Collection of Cyber Threat Intelligence sources from the deep and dark web
+
+12. [VectifyAI /    PageIndex](https://github.com/VectifyAI/PageIndex)
+   - 📄🧠 PageIndex: Document Index for Reasoning-based RAG
+
+13. [hacksider /    Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+   - real time face swap and one-click video deepfake with only a single image
+
+14. [sst /    opentui](https://github.com/sst/opentui)
+   - OpenTUI is a library for building terminal user interfaces (TUIs)
+
+15. [DearVa /    Everywhere](https://github.com/DearVa/Everywhere)
+   - A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
 
