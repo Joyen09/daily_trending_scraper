@@ -1,4 +1,4 @@
-# GitHub Trending Repos - 2025-11-09
+# GitHub Trending Repos - 2025-11-10
 
 1. [usestrix /    strix](https://github.com/usestrix/strix)
    - ✨ Open-source AI hackers for your apps 👨🏻‍💻
@@ -6,51 +6,51 @@
 2. [umami-software /    umami](https://github.com/umami-software/umami)
    - Umami is a modern, privacy-focused alternative to Google Analytics.
 
-3. [prometheus /    alertmanager](https://github.com/prometheus/alertmanager)
-   - Prometheus Alertmanager
-
-4. [lima-vm /    lima](https://github.com/lima-vm/lima)
-   - Linux virtual machines, with a focus on running containers
-
-5. [nocobase /    nocobase](https://github.com/nocobase/nocobase)
-   - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
-
-6. [dbeaver /    dbeaver](https://github.com/dbeaver/dbeaver)
-   - Free universal database tool and SQL client
-
-7. [localstack /    localstack](https://github.com/localstack/localstack)
-   - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-
-8. [Shubhamsaboo /    awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
-   - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-
-9. [666ghj /    BettaFish](https://github.com/666ghj/BettaFish)
-   - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
-
-10. [airweave-ai /    airweave](https://github.com/airweave-ai/airweave)
-   - Context retrieval for AI agents across apps and databases
-
-11. [TodePond /    GulfOfMexico](https://github.com/TodePond/GulfOfMexico)
-   - perfect programming language
-
-12. [penpot /    penpot](https://github.com/penpot/penpot)
-   - Penpot: The open-source design tool for design and code collaboration
-
-13. [awslabs /    mcp](https://github.com/awslabs/mcp)
-   - AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.
-
-14. [public-apis /    public-apis](https://github.com/public-apis/public-apis)
-   - A collective list of free APIs
-
-15. [thinking-machines-lab /    tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook)
+3. [thinking-machines-lab /    tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook)
    - Post-training with Tinker
 
-16. [ad-on-is /    rachoon](https://github.com/ad-on-is/rachoon)
-   - 🦝 Rachoon — A self-hostable way to handle invoices
+4. [mui /    material-ui](https://github.com/mui/material-ui)
+   - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 
-17. [FFmpeg /    asm-lessons](https://github.com/FFmpeg/asm-lessons)
-   - FFmpeg Assembly Language Lessons
+5. [google /    adk-go](https://github.com/google/adk-go)
+   - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 
-18. [jamwithai /    arxiv-paper-curator](https://github.com/jamwithai/arxiv-paper-curator)
-   - No description
+6. [axios /    axios](https://github.com/axios/axios)
+   - Promise based HTTP client for the browser and node.js
+
+7. [simstudioai /    sim](https://github.com/simstudioai/sim)
+   - Open-source platform to build and deploy AI agent workflows.
+
+8. [airweave-ai /    airweave](https://github.com/airweave-ai/airweave)
+   - Context retrieval for AI agents across apps and databases
+
+9. [HyDE-Project /    HyDE](https://github.com/HyDE-Project/HyDE)
+   - HyDE, your Development Environment 🖥️💻
+
+10. [AUTOMATIC1111 /    stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+   - Stable Diffusion web UI
+
+11. [prometheus /    alertmanager](https://github.com/prometheus/alertmanager)
+   - Prometheus Alertmanager
+
+12. [librespot-org /    librespot](https://github.com/librespot-org/librespot)
+   - Open Source Spotify client library
+
+13. [MoonshotAI /    Kimi-K2](https://github.com/MoonshotAI/Kimi-K2)
+   - Kimi K2 is the large language model series developed by Moonshot AI team
+
+14. [Shubhamsaboo /    awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+   - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+
+15. [WerWolv /    ImHex](https://github.com/WerWolv/ImHex)
+   - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+
+16. [lima-vm /    lima](https://github.com/lima-vm/lima)
+   - Linux virtual machines, with a focus on running containers
+
+17. [JetBrains /    kotlin](https://github.com/JetBrains/kotlin)
+   - The Kotlin Programming Language.
+
+18. [ziglang /    zig](https://github.com/ziglang/zig)
+   - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
