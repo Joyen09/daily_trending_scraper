@@ -1,56 +1,44 @@
-# GitHub Trending Repos - 2025-11-10
+# GitHub Trending Repos - 2025-11-11
 
-1. [usestrix /    strix](https://github.com/usestrix/strix)
-   - ✨ Open-source AI hackers for your apps 👨🏻‍💻
-
-2. [umami-software /    umami](https://github.com/umami-software/umami)
-   - Umami is a modern, privacy-focused alternative to Google Analytics.
-
-3. [thinking-machines-lab /    tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook)
-   - Post-training with Tinker
-
-4. [mui /    material-ui](https://github.com/mui/material-ui)
-   - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
-
-5. [google /    adk-go](https://github.com/google/adk-go)
+1. [google /    adk-go](https://github.com/google/adk-go)
    - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 
-6. [axios /    axios](https://github.com/axios/axios)
-   - Promise based HTTP client for the browser and node.js
+2. [usestrix /    strix](https://github.com/usestrix/strix)
+   - ✨ Open-source AI hackers for your apps 👨🏻‍💻
 
-7. [simstudioai /    sim](https://github.com/simstudioai/sim)
-   - Open-source platform to build and deploy AI agent workflows.
+3. [umami-software /    umami](https://github.com/umami-software/umami)
+   - Umami is a modern, privacy-focused alternative to Google Analytics.
 
-8. [airweave-ai /    airweave](https://github.com/airweave-ai/airweave)
-   - Context retrieval for AI agents across apps and databases
+4. [TapXWorld /    ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+   - 所有小初高、大学PDF教材。
 
-9. [HyDE-Project /    HyDE](https://github.com/HyDE-Project/HyDE)
-   - HyDE, your Development Environment 🖥️💻
+5. [thinking-machines-lab /    tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook)
+   - Post-training with Tinker
 
-10. [AUTOMATIC1111 /    stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-   - Stable Diffusion web UI
+6. [iptv-org /    iptv](https://github.com/iptv-org/iptv)
+   - Collection of publicly available IPTV channels from all over the world
 
-11. [prometheus /    alertmanager](https://github.com/prometheus/alertmanager)
-   - Prometheus Alertmanager
+7. [lzhoang2801 /    OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify)
+   - A tool designed to simplify the creation of OpenCore EFI
 
-12. [librespot-org /    librespot](https://github.com/librespot-org/librespot)
+8. [YaLTeR /    niri](https://github.com/YaLTeR/niri)
+   - A scrollable-tiling Wayland compositor.
+
+9. [bobeff /    open-source-games](https://github.com/bobeff/open-source-games)
+   - A list of open source games.
+
+10. [microsoft /    call-center-ai](https://github.com/microsoft/call-center-ai)
+   - Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!
+
+11. [librespot-org /    librespot](https://github.com/librespot-org/librespot)
    - Open Source Spotify client library
 
-13. [MoonshotAI /    Kimi-K2](https://github.com/MoonshotAI/Kimi-K2)
-   - Kimi K2 is the large language model series developed by Moonshot AI team
+12. [opencloud-eu /    opencloud](https://github.com/opencloud-eu/opencloud)
+   - 🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.
 
-14. [Shubhamsaboo /    awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
-   - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+13. [end-4 /    dots-hyprland](https://github.com/end-4/dots-hyprland)
+   - uhh questioning the meaning of dotfiles
 
-15. [WerWolv /    ImHex](https://github.com/WerWolv/ImHex)
-   - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-
-16. [lima-vm /    lima](https://github.com/lima-vm/lima)
-   - Linux virtual machines, with a focus on running containers
-
-17. [JetBrains /    kotlin](https://github.com/JetBrains/kotlin)
-   - The Kotlin Programming Language.
-
-18. [ziglang /    zig](https://github.com/ziglang/zig)
-   - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+14. [Zie619 /    n8n-workflows](https://github.com/Zie619/n8n-workflows)
+   - all of the workflows of n8n i could find (also from the site itself)
 
