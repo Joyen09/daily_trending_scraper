@@ -1,35 +1,20 @@
-# GitHub Trending Repos - 2025-12-18
+# GitHub Trending Repos - 2025-12-19
 
-1. [C4illin /    ConvertX](https://github.com/C4illin/ConvertX)
-   - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
+1. [anthropics /    claude-code](https://github.com/anthropics/claude-code)
+   - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
-2. [resemble-ai /    chatterbox](https://github.com/resemble-ai/chatterbox)
-   - SoTA open-source TTS
-
-3. [virattt /    ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+2. [virattt /    ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
    - An AI Hedge Fund Team
 
-4. [simstudioai /    sim](https://github.com/simstudioai/sim)
-   - Open-source platform to build and deploy AI agent workflows.
+3. [astral-sh /    ty](https://github.com/astral-sh/ty)
+   - An extremely fast Python type checker and language server, written in Rust.
 
-5. [Free-TV /    IPTV](https://github.com/Free-TV/IPTV)
-   - M3U Playlist for free TV channels
+4. [letta-ai /    letta](https://github.com/letta-ai/letta)
+   - Letta is the platform for building stateful agents: open AI with advanced memory that can learn and self-improve over time.
 
-6. [TapXWorld /    ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
-   - 所有小初高、大学PDF教材。
+5. [schollz /    croc](https://github.com/schollz/croc)
+   - Easily and securely send things from one computer to another 🐊 📦
 
-7. [0xk1h0 /    ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN)
-   - ChatGPT DAN, Jailbreaks prompt
-
-8. [public-apis /    public-apis](https://github.com/public-apis/public-apis)
-   - A collective list of free APIs
-
-9. [nicotsx /    zerobyte](https://github.com/nicotsx/zerobyte)
-   - Backup automation for self-hosters. Built on top of restic
-
-10. [jellyfin /    jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop)
-   - Jellyfin Desktop Client
-
-11. [NVIDIA-NeMo /    Gym](https://github.com/NVIDIA-NeMo/Gym)
-   - Build RL environments for LLM training
+6. [resemble-ai /    chatterbox](https://github.com/resemble-ai/chatterbox)
+   - SoTA open-source TTS
 
