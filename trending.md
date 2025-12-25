@@ -1,44 +1,50 @@
-# GitHub Trending Repos - 2025-12-24
+# GitHub Trending Repos - 2025-12-25
 
 1. [rendercv /    rendercv](https://github.com/rendercv/rendercv)
    - Typst-based CV/resume generator for academics and engineers
 
-2. [exo-explore /    exo](https://github.com/exo-explore/exo)
-   - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+2. [twitter /    the-algorithm](https://github.com/twitter/the-algorithm)
+   - Source code for the X Recommendation Algorithm
 
 3. [google /    langextract](https://github.com/google/langextract)
    - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 
-4. [yichuan-w /    LEANN](https://github.com/yichuan-w/LEANN)
-   - RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+4. [vllm-project /    vllm-omni](https://github.com/vllm-project/vllm-omni)
+   - A framework for efficient model inference with omni-modality models
 
-5. [safety-research /    bloom](https://github.com/safety-research/bloom)
-   - bloom - evaluate any behavior immediately  🌸🌱
-
-6. [stan-smith /    FossFLOW](https://github.com/stan-smith/FossFLOW)
+5. [stan-smith /    FossFLOW](https://github.com/stan-smith/FossFLOW)
    - Make beautiful isometric infrastructure diagrams
 
-7. [vendure-ecommerce /    vendure](https://github.com/vendure-ecommerce/vendure)
-   - The most customizable commerce platform built with TypeScript, NestJS and GraphQL.
-
-8. [cloudcommunity /    Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)
-   - A curated list of free courses with certifications. Also available at https://free-certifications.com/
-
-9. [open-webui /    open-webui](https://github.com/open-webui/open-webui)
-   - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-
-10. [davila7 /    claude-code-templates](https://github.com/davila7/claude-code-templates)
+6. [davila7 /    claude-code-templates](https://github.com/davila7/claude-code-templates)
    - CLI tool for configuring and monitoring Claude Code
 
-11. [makeplane /    plane](https://github.com/makeplane/plane)
+7. [safety-research /    bloom](https://github.com/safety-research/bloom)
+   - bloom - evaluate any behavior immediately  🌸🌱
+
+8. [makeplane /    plane](https://github.com/makeplane/plane)
    - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 
-12. [xerrors /    Yuxi-Know](https://github.com/xerrors/Yuxi-Know)
-   - 结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
+9. [yichuan-w /    LEANN](https://github.com/yichuan-w/LEANN)
+   - RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 
-13. [swisskyrepo /    PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
-   - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+10. [danielmiessler /    Fabric](https://github.com/danielmiessler/Fabric)
+   - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 
-14. [vllm-project /    vllm-omni](https://github.com/vllm-project/vllm-omni)
-   - A framework for efficient model inference with omni-modality models
+11. [apurvsinghgautam /    robin](https://github.com/apurvsinghgautam/robin)
+   - AI-Powered Dark Web OSINT Tool
+
+12. [langgenius /    dify](https://github.com/langgenius/dify)
+   - Production-ready platform for agentic workflow development.
+
+13. [anthropics /    skills](https://github.com/anthropics/skills)
+   - Public repository for Agent Skills
+
+14. [etcd-io /    etcd](https://github.com/etcd-io/etcd)
+   - Distributed reliable key-value store for the most critical data of a distributed system
+
+15. [facebookresearch /    dinov3](https://github.com/facebookresearch/dinov3)
+   - Reference PyTorch implementation and models for DINOv3
+
+16. [vendure-ecommerce /    vendure](https://github.com/vendure-ecommerce/vendure)
+   - The most customizable commerce platform built with TypeScript, NestJS and GraphQL.
 
