@@ -1,20 +1,17 @@
-# GitHub Trending Repos - 2025-12-27
+# GitHub Trending Repos - 2025-12-28
 
-1. [rendercv /    rendercv](https://github.com/rendercv/rendercv)
+1. [TheAlgorithms /    Python](https://github.com/TheAlgorithms/Python)
+   - All Algorithms implemented in Python
+
+2. [xerrors /    Yuxi-Know](https://github.com/xerrors/Yuxi-Know)
+   - 结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
+
+3. [agrinman /    tunnelto](https://github.com/agrinman/tunnelto)
+   - Expose your local web server to the internet with a public URL.
+
+4. [Shubhamsaboo /    awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+   - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+
+5. [rendercv /    rendercv](https://github.com/rendercv/rendercv)
    - CV/resume generator for academics and engineers, YAML to PDF
-
-2. [langgenius /    dify](https://github.com/langgenius/dify)
-   - Production-ready platform for agentic workflow development.
-
-3. [NanmiCoder /    MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
-   - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-
-4. [flowsurface-rs /    flowsurface](https://github.com/flowsurface-rs/flowsurface)
-   - A native desktop charting platform for crypto markets
-
-5. [yichuan-w /    LEANN](https://github.com/yichuan-w/LEANN)
-   - RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
-
-6. [apurvsinghgautam /    robin](https://github.com/apurvsinghgautam/robin)
-   - AI-Powered Dark Web OSINT Tool
 
