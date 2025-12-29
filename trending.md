@@ -1,17 +1,29 @@
-# GitHub Trending Repos - 2025-12-28
+# GitHub Trending Repos - 2025-12-29
 
-1. [TheAlgorithms /    Python](https://github.com/TheAlgorithms/Python)
+1. [Flowseal /    zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
+   - No description
+
+2. [tw93 /    Mole](https://github.com/tw93/Mole)
+   - 🐹 Deep clean and optimize your Mac.
+
+3. [TheAlgorithms /    Python](https://github.com/TheAlgorithms/Python)
    - All Algorithms implemented in Python
 
-2. [xerrors /    Yuxi-Know](https://github.com/xerrors/Yuxi-Know)
-   - 结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
+4. [Sergeydigl3 /    zapret-discord-youtube-linux](https://github.com/Sergeydigl3/zapret-discord-youtube-linux)
+   - (NOW ONLY FOR NFTABLES) Port zapret-discord-youtube from Flowseal and bol-van for easy to use on linux
 
-3. [agrinman /    tunnelto](https://github.com/agrinman/tunnelto)
-   - Expose your local web server to the internet with a public URL.
+5. [BloopAI /    vibe-kanban](https://github.com/BloopAI/vibe-kanban)
+   - Get 10X more out of Claude Code, Codex or any coding agent
 
-4. [Shubhamsaboo /    awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+6. [RustPython /    RustPython](https://github.com/RustPython/RustPython)
+   - A Python Interpreter written in Rust
+
+7. [QuantConnect /    Lean](https://github.com/QuantConnect/Lean)
+   - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
+
+8. [Shubhamsaboo /    awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
    - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 
-5. [rendercv /    rendercv](https://github.com/rendercv/rendercv)
-   - CV/resume generator for academics and engineers, YAML to PDF
+9. [sinelaw /    fresh](https://github.com/sinelaw/fresh)
+   - Text editor for your terminal: easy, powerful and fast
 
