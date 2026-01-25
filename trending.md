@@ -1,41 +1,32 @@
-# GitHub Trending Repos - 2026-01-24
+# GitHub Trending Repos - 2026-01-25
 
 1. [remotion-dev /    remotion](https://github.com/remotion-dev/remotion)
    - 🎥 Make videos programmatically with React
 
-2. [microsoft /    VibeVoice](https://github.com/microsoft/VibeVoice)
-   - Open-Source Frontier Voice AI
+2. [VectifyAI /    PageIndex](https://github.com/VectifyAI/PageIndex)
+   - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 
-3. [block /    goose](https://github.com/block/goose)
-   - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-
-4. [ai-dynamo /    dynamo](https://github.com/ai-dynamo/dynamo)
-   - A Datacenter Scale Distributed Inference Serving Framework
-
-5. [browser-use /    browser-use](https://github.com/browser-use/browser-use)
-   - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-
-6. [github /    copilot-cli](https://github.com/github/copilot-cli)
-   - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
-
-7. [Asabeneh /    30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
-   - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
-
-8. [anthropics /    claude-code](https://github.com/anthropics/claude-code)
-   - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-
-9. [deepseek-ai /    FlashMLA](https://github.com/deepseek-ai/FlashMLA)
-   - FlashMLA: Efficient Multi-head Latent Attention Kernels
-
-10. [microsoft /    Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
-   - 10 Weeks, 20 Lessons, Data Science for All!
-
-11. [OpenBMB /    UltraRAG](https://github.com/OpenBMB/UltraRAG)
+3. [OpenBMB /    UltraRAG](https://github.com/OpenBMB/UltraRAG)
    - UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 
-12. [lyogavin /    airllm](https://github.com/lyogavin/airllm)
-   - AirLLM 70B inference with single 4GB GPU
+4. [browser-use /    browser-use](https://github.com/browser-use/browser-use)
+   - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
-13. [KellerJordan /    modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt)
-   - NanoGPT (124M) in 2 minutes
+5. [block /    goose](https://github.com/block/goose)
+   - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+
+6. [Blaizzy /    mlx-audio](https://github.com/Blaizzy/mlx-audio)
+   - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
+
+7. [simstudioai /    sim](https://github.com/simstudioai/sim)
+   - Open-source platform to build and deploy AI agent workflows.
+
+8. [microsoft /    VibeVoice](https://github.com/microsoft/VibeVoice)
+   - Open-Source Frontier Voice AI
+
+9. [putyy /    res-downloader](https://github.com/putyy/res-downloader)
+   - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
+
+10. [AI4Finance-Foundation /    FinRobot](https://github.com/AI4Finance-Foundation/FinRobot)
+   - FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀
 
