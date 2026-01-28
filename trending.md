@@ -1,26 +1,20 @@
-# GitHub Trending Repos - 2026-01-27
+# GitHub Trending Repos - 2026-01-28
 
-1. [Blaizzy /    mlx-audio](https://github.com/Blaizzy/mlx-audio)
-   - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
+1. [badlogic /    pi-mono](https://github.com/badlogic/pi-mono)
+   - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 
-2. [VectifyAI /    PageIndex](https://github.com/VectifyAI/PageIndex)
-   - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-
-3. [supermemoryai /    supermemory](https://github.com/supermemoryai/supermemory)
+2. [supermemoryai /    supermemory](https://github.com/supermemoryai/supermemory)
    - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 
-4. [block /    goose](https://github.com/block/goose)
-   - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+3. [Blaizzy /    mlx-audio](https://github.com/Blaizzy/mlx-audio)
+   - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
 
-5. [remotion-dev /    remotion](https://github.com/remotion-dev/remotion)
-   - 🎥 Make videos programmatically with React
+4. [Free-TV /    IPTV](https://github.com/Free-TV/IPTV)
+   - M3U Playlist for free TV channels
 
-6. [AI4Finance-Foundation /    FinRobot](https://github.com/AI4Finance-Foundation/FinRobot)
-   - FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀
+5. [hashicorp /    vault](https://github.com/hashicorp/vault)
+   - A tool for secrets management, encryption as a service, and privileged access management
 
-7. [k4yt3x /    video2x](https://github.com/k4yt3x/video2x)
-   - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
-
-8. [business-science /    ai-data-science-team](https://github.com/business-science/ai-data-science-team)
-   - An AI-powered data science team of agents to help you perform common data science tasks 10X faster.
+6. [Shubhamsaboo /    awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+   - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 
