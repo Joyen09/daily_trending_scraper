@@ -1,6 +1,6 @@
-# GitHub Trending Repos - 2026-01-30
+# GitHub Trending Repos - 2026-01-31
 
-1. [openclaw /    moltbot](https://github.com/openclaw/moltbot)
+1. [openclaw /    openclaw](https://github.com/openclaw/openclaw)
    - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
 2. [asgeirtj /    system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
@@ -13,7 +13,7 @@
    - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
 
 5. [NevaMind-AI /    memU](https://github.com/NevaMind-AI/memU)
-   - Memory for 24/7 proactive agents like moltbot (clawdbot).
+   - Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
 
 6. [hashicorp /    vault](https://github.com/hashicorp/vault)
    - A tool for secrets management, encryption as a service, and privileged access management
