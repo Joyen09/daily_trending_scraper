@@ -1,44 +1,38 @@
-# GitHub Trending Repos - 2026-01-31
+# GitHub Trending Repos - 2026-02-01
 
-1. [openclaw /    openclaw](https://github.com/openclaw/openclaw)
+1. [ThePrimeagen /    99](https://github.com/ThePrimeagen/99)
+   - Neovim AI agent done right
+
+2. [microsoft /    BitNet](https://github.com/microsoft/BitNet)
+   - Official inference framework for 1-bit LLMs
+
+3. [microsoft /    agent-lightning](https://github.com/microsoft/agent-lightning)
+   - The absolute trainer to light up AI agents.
+
+4. [PaddlePaddle /    PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+   - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+
+5. [anthropics /    claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+   - Official, Anthropic-managed directory of high quality Claude Code Plugins.
+
+6. [microsoft /    PowerToys](https://github.com/microsoft/PowerToys)
+   - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+
+7. [termux /    termux-app](https://github.com/termux/termux-app)
+   - Termux - a terminal emulator application for Android OS extendible by variety of packages.
+
+8. [openclaw /    openclaw](https://github.com/openclaw/openclaw)
    - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-2. [asgeirtj /    system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
-   - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-
-3. [MoonshotAI /    kimi-cli](https://github.com/MoonshotAI/kimi-cli)
-   - Kimi Code CLI is your next CLI agent.
-
-4. [modelcontextprotocol /    ext-apps](https://github.com/modelcontextprotocol/ext-apps)
-   - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
-
-5. [NevaMind-AI /    memU](https://github.com/NevaMind-AI/memU)
-   - Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
-
-6. [hashicorp /    vault](https://github.com/hashicorp/vault)
-   - A tool for secrets management, encryption as a service, and privileged access management
-
-7. [badlogic /    pi-mono](https://github.com/badlogic/pi-mono)
-   - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-
-8. [anomalyco /    opencode-anthropic-auth](https://github.com/anomalyco/opencode-anthropic-auth)
-   - No description
-
-9. [protocolbuffers /    protobuf](https://github.com/protocolbuffers/protobuf)
-   - Protocol Buffers - Google's data interchange format
-
-10. [pedroslopez /    whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
+9. [pedroslopez /    whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
    - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 
-11. [TeamNewPipe /    NewPipe](https://github.com/TeamNewPipe/NewPipe)
-   - A libre lightweight streaming front-end for Android.
+10. [AlexanderGrooff /    mermaid-ascii](https://github.com/AlexanderGrooff/mermaid-ascii)
+   - Render Mermaid graphs inside your terminal
 
-12. [Shubhamsaboo /    awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
-   - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+11. [reconurge /    flowsint](https://github.com/reconurge/flowsint)
+   - A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.
 
-13. [microsoft /    playwright-cli](https://github.com/microsoft/playwright-cli)
-   - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
-
-14. [lobehub /    lobehub](https://github.com/lobehub/lobehub)
-   - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
+12. [cline /    cline](https://github.com/cline/cline)
+   - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 
