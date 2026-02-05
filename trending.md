@@ -1,35 +1,38 @@
-# GitHub Trending Repos - 2026-02-04
+# GitHub Trending Repos - 2026-02-05
 
 1. [thedotmack /    claude-mem](https://github.com/thedotmack/claude-mem)
    - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 
-2. [masoncl /    review-prompts](https://github.com/masoncl/review-prompts)
-   - AI review prompts
-
-3. [openai /    skills](https://github.com/openai/skills)
+2. [openai /    skills](https://github.com/openai/skills)
    - Skills Catalog for Codex
 
-4. [automazeio /    ccpm](https://github.com/automazeio/ccpm)
-   - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
+3. [disler /    claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery)
+   - Master Claude Code Hooks
 
-5. [obra /    superpowers](https://github.com/obra/superpowers)
-   - An agentic skills framework & software development methodology that works.
-
-6. [virattt /    dexter](https://github.com/virattt/dexter)
-   - An autonomous agent for deep financial research
-
-7. [karpathy /    nanochat](https://github.com/karpathy/nanochat)
-   - The best ChatGPT that $100 can buy.
-
-8. [kovidgoyal /    calibre](https://github.com/kovidgoyal/calibre)
-   - The official source code repository for the calibre ebook manager
-
-9. [OpenBMB /    ChatDev](https://github.com/OpenBMB/ChatDev)
+4. [OpenBMB /    ChatDev](https://github.com/OpenBMB/ChatDev)
    - ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
 
-10. [pedramamini /    Maestro](https://github.com/pedramamini/Maestro)
+5. [ankitects /    anki](https://github.com/ankitects/anki)
+   - Anki is a smart spaced repetition flashcard program
+
+6. [open-telemetry /    opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
+   - Contrib repository for the OpenTelemetry Collector
+
+7. [Canner /    WrenAI](https://github.com/Canner/WrenAI)
+   - ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.
+
+8. [pedramamini /    Maestro](https://github.com/pedramamini/Maestro)
    - Agent Orchestration Command Center
 
-11. [vm0-ai /    vm0](https://github.com/vm0-ai/vm0)
-   - the easiest way to run natural language-described workflows automatically
+9. [nvm-sh /    nvm](https://github.com/nvm-sh/nvm)
+   - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+
+10. [microsoft /    qlib](https://github.com/microsoft/qlib)
+   - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
+
+11. [LadybirdBrowser /    ladybird](https://github.com/LadybirdBrowser/ladybird)
+   - Truly independent web browser
+
+12. [likec4 /    likec4](https://github.com/likec4/likec4)
+   - Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
 
