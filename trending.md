@@ -1,41 +1,35 @@
-# GitHub Trending Repos - 2026-02-18
+# GitHub Trending Repos - 2026-02-19
 
-1. [p-e-w /    heretic](https://github.com/p-e-w/heretic)
-   - Fully automatic censorship removal for language models
-
-2. [seerr-team /    seerr](https://github.com/seerr-team/seerr)
-   - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
-
-3. [obra /    superpowers](https://github.com/obra/superpowers)
-   - An agentic skills framework & software development methodology that works.
-
-4. [steipete /    gogcli](https://github.com/steipete/gogcli)
-   - Google Suite CLI: Gmail, GCal, GDrive, GContacts.
-
-5. [alibaba /    zvec](https://github.com/alibaba/zvec)
+1. [alibaba /    zvec](https://github.com/alibaba/zvec)
    - A lightweight, lightning-fast, in-process vector database
 
-6. [openclaw /    openclaw](https://github.com/openclaw/openclaw)
-   - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+2. [p-e-w /    heretic](https://github.com/p-e-w/heretic)
+   - Fully automatic censorship removal for language models
 
-7. [SynkraAI /    aios-core](https://github.com/SynkraAI/aios-core)
-   - Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
-
-8. [ashishps1 /    awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
-   - Learn System Design concepts and prepare for interviews using free resources.
-
-9. [steipete /    summarize](https://github.com/steipete/summarize)
-   - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
-
-10. [hummingbot /    hummingbot](https://github.com/hummingbot/hummingbot)
-   - Open source software that helps you create and deploy high-frequency crypto trading bots
-
-11. [anthropics /    claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
-   - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-
-12. [davila7 /    claude-code-templates](https://github.com/davila7/claude-code-templates)
-   - CLI tool for configuring and monitoring Claude Code
-
-13. [OpenCTI-Platform /    opencti](https://github.com/OpenCTI-Platform/opencti)
+3. [OpenCTI-Platform /    opencti](https://github.com/OpenCTI-Platform/opencti)
    - Open Cyber Threat Intelligence Platform
+
+4. [QwenLM /    qwen-code](https://github.com/QwenLM/qwen-code)
+   - An open-source AI agent that lives in your terminal.
+
+5. [NirDiamant /    RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
+   - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
+
+6. [harvard-edge /    cs249r_book](https://github.com/harvard-edge/cs249r_book)
+   - Introduction to Machine Learning Systems
+
+7. [obra /    superpowers](https://github.com/obra/superpowers)
+   - An agentic skills framework & software development methodology that works.
+
+8. [HailToDodongo /    pyrite64](https://github.com/HailToDodongo/pyrite64)
+   - N64 Game-Engine and Editor using libdragon & tiny3d
+
+9. [ComposioHQ /    composio](https://github.com/ComposioHQ/composio)
+   - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
+
+10. [p2r3 /    convert](https://github.com/p2r3/convert)
+   - Truly universal online file converter
+
+11. [openclaw /    openclaw](https://github.com/openclaw/openclaw)
+   - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
