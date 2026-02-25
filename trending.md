@@ -1,44 +1,38 @@
-# GitHub Trending Repos - 2026-02-24
+# GitHub Trending Repos - 2026-02-25
 
-1. [x1xhlol /    system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
-   - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-
-2. [huggingface /    skills](https://github.com/huggingface/skills)
+1. [huggingface /    skills](https://github.com/huggingface/skills)
    - No description
+
+2. [muratcankoylan /    Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
+   - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
 3. [OpenBB-finance /    OpenBB](https://github.com/OpenBB-finance/OpenBB)
    - Financial data platform for analysts, quants and AI agents.
 
-4. [muratcankoylan /    Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
-   - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
+4. [LadybirdBrowser /    ladybird](https://github.com/LadybirdBrowser/ladybird)
+   - Truly independent web browser
 
-5. [f /    prompts.chat](https://github.com/f/prompts.chat)
-   - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+5. [x1xhlol /    system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+   - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 
-6. [CompVis /    stable-diffusion](https://github.com/CompVis/stable-diffusion)
-   - A latent text-to-image diffusion model
+6. [obra /    superpowers](https://github.com/obra/superpowers)
+   - An agentic skills framework & software development methodology that works.
 
-7. [abhigyanpatwari /    GitNexus](https://github.com/abhigyanpatwari/GitNexus)
-   - GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+7. [ruvnet /    ruvector](https://github.com/ruvnet/ruvector)
+   - RuVector is a high performance Vector Graph & Ai System built in Rust, focsused on agentic systems, and real time analytics. It combines HNSW search, dynamic minimum cut coherence, graph intelligence, and self learning memory into one unified engine for scalable, low latency reasoning and structured retrieval.
 
-8. [Stremio /    stremio-web](https://github.com/Stremio/stremio-web)
-   - Stremio - Freedom to Stream
+8. [D4Vinci /    Scrapling](https://github.com/D4Vinci/Scrapling)
+   - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 
-9. [stan-smith /    FossFLOW](https://github.com/stan-smith/FossFLOW)
-   - Make beautiful isometric infrastructure diagrams
+9. [GVCLab /    PersonaLive](https://github.com/GVCLab/PersonaLive)
+   - [CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming
 
-10. [VectifyAI /    PageIndex](https://github.com/VectifyAI/PageIndex)
+10. [HunxByts /    GhostTrack](https://github.com/HunxByts/GhostTrack)
+   - Useful tool to track location or mobile number
+
+11. [VectifyAI /    PageIndex](https://github.com/VectifyAI/PageIndex)
    - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 
-11. [cloudflare /    agents](https://github.com/cloudflare/agents)
-   - Build and deploy AI Agents on Cloudflare
-
-12. [siteboon /    claudecodeui](https://github.com/siteboon/claudecodeui)
-   - Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely
-
-13. [NevaMind-AI /    memU](https://github.com/NevaMind-AI/memU)
-   - Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
-
-14. [clash-verge-rev /    clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
-   - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+12. [openemr /    openemr](https://github.com/openemr/openemr)
+   - The most popular open source electronic health records and medical practice management solution.
 
