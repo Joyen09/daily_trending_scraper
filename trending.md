@@ -1,38 +1,41 @@
-# GitHub Trending Repos - 2026-03-10
+# GitHub Trending Repos - 2026-03-11
 
-1. [GoogleCloudPlatform /    generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)
-   - Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
+1. [msitarzewski /    agency-agents](https://github.com/msitarzewski/agency-agents)
+   - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
-2. [openclaw /    openclaw](https://github.com/openclaw/openclaw)
-   - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-
-3. [666ghj /    MiroFish](https://github.com/666ghj/MiroFish)
+2. [666ghj /    MiroFish](https://github.com/666ghj/MiroFish)
    - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 
-4. [karpathy /    nanochat](https://github.com/karpathy/nanochat)
-   - The best ChatGPT that $100 can buy.
-
-5. [666ghj /    BettaFish](https://github.com/666ghj/BettaFish)
-   - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
-
-6. [NousResearch /    hermes-agent](https://github.com/NousResearch/hermes-agent)
+3. [NousResearch /    hermes-agent](https://github.com/NousResearch/hermes-agent)
    - The agent that grows with you
 
-7. [pbakaus /    impeccable](https://github.com/pbakaus/impeccable)
-   - The design language that makes your AI harness better at design.
+4. [promptfoo /    promptfoo](https://github.com/promptfoo/promptfoo)
+   - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
 
-8. [msitarzewski /    agency-agents](https://github.com/msitarzewski/agency-agents)
-   - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+5. [GoogleCloudPlatform /    generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)
+   - Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
+
+6. [virattt /    ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+   - An AI Hedge Fund Team
+
+7. [karpathy /    nanochat](https://github.com/karpathy/nanochat)
+   - The best ChatGPT that $100 can buy.
+
+8. [obra /    superpowers](https://github.com/obra/superpowers)
+   - An agentic skills framework & software development methodology that works.
 
 9. [alibaba /    page-agent](https://github.com/alibaba/page-agent)
    - JavaScript in-page GUI agent. Control web interfaces with natural language.
 
-10. [alirezarezvani /    claude-skills](https://github.com/alirezarezvani/claude-skills)
-   - 169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
+10. [sepinf-inc /    IPED](https://github.com/sepinf-inc/IPED)
+   - IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.
 
-11. [Raphire /    Win11Debloat](https://github.com/Raphire/Win11Debloat)
-   - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+11. [openclaw /    openclaw](https://github.com/openclaw/openclaw)
+   - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-12. [teng-lin /    notebooklm-py](https://github.com/teng-lin/notebooklm-py)
-   - Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.
+12. [pbakaus /    impeccable](https://github.com/pbakaus/impeccable)
+   - The design language that makes your AI harness better at design.
+
+13. [bytedance /    deer-flow](https://github.com/bytedance/deer-flow)
+   - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
 
