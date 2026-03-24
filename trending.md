@@ -1,44 +1,47 @@
-# GitHub Trending Repos - 2026-03-23
+# GitHub Trending Repos - 2026-03-24
 
 1. [FujiwaraChoki /    MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
    - Automate the process of making money online.
 
-2. [TauricResearch /    TradingAgents](https://github.com/TauricResearch/TradingAgents)
-   - TradingAgents: Multi-Agents LLM Financial Trading Framework
+2. [bytedance /    deer-flow](https://github.com/bytedance/deer-flow)
+   - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
 
-3. [vxcontrol /    pentagi](https://github.com/vxcontrol/pentagi)
-   - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-
-4. [jamwithai /    production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)
-   - No description
-
-5. [affaan-m /    everything-claude-code](https://github.com/affaan-m/everything-claude-code)
-   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-
-6. [Crosstalk-Solutions /    project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+3. [Crosstalk-Solutions /    project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
    - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 
-7. [systemd /    systemd](https://github.com/systemd/systemd)
-   - The systemd System and Service Manager
+4. [vxcontrol /    pentagi](https://github.com/vxcontrol/pentagi)
+   - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 
-8. [browser-use /    browser-use](https://github.com/browser-use/browser-use)
+5. [browser-use /    browser-use](https://github.com/browser-use/browser-use)
    - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
-9. [HKUDS /    LightRAG](https://github.com/HKUDS/LightRAG)
-   - [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+6. [TauricResearch /    TradingAgents](https://github.com/TauricResearch/TradingAgents)
+   - TradingAgents: Multi-Agents LLM Financial Trading Framework
 
-10. [hsliuping /    TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
+7. [tinygrad /    tinygrad](https://github.com/tinygrad/tinygrad)
+   - You like pytorch? You like micrograd? You love tinygrad! ❤️
+
+8. [affaan-m /    everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+
+9. [NousResearch /    hermes-agent](https://github.com/NousResearch/hermes-agent)
+   - The agent that grows with you
+
+10. [jingyaogong /    minimind](https://github.com/jingyaogong/minimind)
+   - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+
+11. [hsliuping /    TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
    - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
 
-11. [louis-e /    arnis](https://github.com/louis-e/arnis)
-   - Generate any location from the real world in Minecraft with a high level of detail.
+12. [kepano /    obsidian-skills](https://github.com/kepano/obsidian-skills)
+   - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
 
-12. [aquasecurity /    trivy](https://github.com/aquasecurity/trivy)
-   - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+13. [czlonkowski /    n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
+   - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 
-13. [bytedance /    deer-flow](https://github.com/bytedance/deer-flow)
-   - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
+14. [iptv-org /    iptv](https://github.com/iptv-org/iptv)
+   - Collection of publicly available IPTV channels from all over the world
 
-14. [harry0703 /    MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
-   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+15. [hesreallyhim /    awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
+   - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 
