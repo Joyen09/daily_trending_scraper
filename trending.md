@@ -1,47 +1,44 @@
-# GitHub Trending Repos - 2026-03-24
+# GitHub Trending Repos - 2026-03-25
 
-1. [FujiwaraChoki /    MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
-   - Automate the process of making money online.
+1. [pascalorg /    editor](https://github.com/pascalorg/editor)
+   - Create and share 3D architectural projects.
 
 2. [bytedance /    deer-flow](https://github.com/bytedance/deer-flow)
    - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
 
-3. [Crosstalk-Solutions /    project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+3. [supermemoryai /    supermemory](https://github.com/supermemoryai/supermemory)
+   - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+
+4. [FujiwaraChoki /    MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
+   - Automate the process of making money online.
+
+5. [harry0703 /    MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+
+6. [Crosstalk-Solutions /    project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
    - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 
-4. [vxcontrol /    pentagi](https://github.com/vxcontrol/pentagi)
-   - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-
-5. [browser-use /    browser-use](https://github.com/browser-use/browser-use)
-   - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-
-6. [TauricResearch /    TradingAgents](https://github.com/TauricResearch/TradingAgents)
+7. [TauricResearch /    TradingAgents](https://github.com/TauricResearch/TradingAgents)
    - TradingAgents: Multi-Agents LLM Financial Trading Framework
 
-7. [tinygrad /    tinygrad](https://github.com/tinygrad/tinygrad)
-   - You like pytorch? You like micrograd? You love tinygrad! ❤️
+8. [mvanhorn /    last30days-skill](https://github.com/mvanhorn/last30days-skill)
+   - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
-8. [affaan-m /    everything-claude-code](https://github.com/affaan-m/everything-claude-code)
-   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+9. [ruvnet /    ruflo](https://github.com/ruvnet/ruflo)
+   - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
 
-9. [NousResearch /    hermes-agent](https://github.com/NousResearch/hermes-agent)
+10. [NousResearch /    hermes-agent](https://github.com/NousResearch/hermes-agent)
    - The agent that grows with you
 
-10. [jingyaogong /    minimind](https://github.com/jingyaogong/minimind)
-   - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+11. [hesreallyhim /    awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
+   - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 
-11. [hsliuping /    TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
+12. [hsliuping /    TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
    - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
 
-12. [kepano /    obsidian-skills](https://github.com/kepano/obsidian-skills)
-   - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
+13. [aquasecurity /    trivy](https://github.com/aquasecurity/trivy)
+   - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
-13. [czlonkowski /    n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
-   - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
-
-14. [iptv-org /    iptv](https://github.com/iptv-org/iptv)
-   - Collection of publicly available IPTV channels from all over the world
-
-15. [hesreallyhim /    awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
-   - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
+14. [ruvnet /    RuView](https://github.com/ruvnet/RuView)
+   - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 
