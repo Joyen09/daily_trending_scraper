@@ -1,38 +1,41 @@
-# GitHub Trending Repos - 2026-04-25
+# GitHub Trending Repos - 2026-04-26
 
 1. [Alishahryar1 /    free-claude-code](https://github.com/Alishahryar1/free-claude-code)
    - Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
 
-2. [huggingface /    ml-intern](https://github.com/huggingface/ml-intern)
-   - 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
+2. [mattpocock /    skills](https://github.com/mattpocock/skills)
+   - My personal directory of skills, straight from my .claude directory.
 
-3. [google /    osv-scanner](https://github.com/google/osv-scanner)
-   - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
-
-4. [Z4nzu /    hackingtool](https://github.com/Z4nzu/hackingtool)
+3. [Z4nzu /    hackingtool](https://github.com/Z4nzu/hackingtool)
    - ALL IN ONE Hacking Tool For Hackers
 
-5. [zilliztech /    claude-context](https://github.com/zilliztech/claude-context)
-   - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
-
-6. [open-metadata /    OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-   - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.
-
-7. [PostHog /    posthog](https://github.com/PostHog/posthog)
+4. [PostHog /    posthog](https://github.com/PostHog/posthog)
    - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
 
-8. [dani-garcia /    vaultwarden](https://github.com/dani-garcia/vaultwarden)
-   - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+5. [davila7 /    claude-code-templates](https://github.com/davila7/claude-code-templates)
+   - CLI tool for configuring and monitoring Claude Code
 
-9. [Anil-matcha /    Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
-   - Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+6. [deepseek-ai /    DeepEP](https://github.com/deepseek-ai/DeepEP)
+   - DeepEP: an efficient expert-parallel communication library
+
+7. [PowerShell /    PowerShell](https://github.com/PowerShell/PowerShell)
+   - PowerShell for every system!
+
+8. [RooCodeInc /    Roo-Code](https://github.com/RooCodeInc/Roo-Code)
+   - Roo Code gives you a whole dev team of AI agents in your code editor.
+
+9. [huggingface /    ml-intern](https://github.com/huggingface/ml-intern)
+   - 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
 
 10. [codecrafters-io /    build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
    - Master programming by recreating your favorite technologies from scratch.
 
-11. [deepseek-ai /    DeepEP](https://github.com/deepseek-ai/DeepEP)
-   - DeepEP: an efficient expert-parallel communication library
+11. [CJackHwang /    ds2api](https://github.com/CJackHwang/ds2api)
+   - Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.
 
-12. [microsoft /    typescript-go](https://github.com/microsoft/typescript-go)
-   - Staging repo for development of native port of TypeScript
+12. [Universal-Commerce-Protocol /    ucp](https://github.com/Universal-Commerce-Protocol/ucp)
+   - Specification and documentation for the Universal Commerce Protocol (UCP)
+
+13. [ComposioHQ /    awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)
+   - A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
 
