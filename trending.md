@@ -1,41 +1,41 @@
-# GitHub Trending Repos - 2026-04-27
+# GitHub Trending Repos - 2026-04-28
 
 1. [mattpocock /    skills](https://github.com/mattpocock/skills)
-   - Agent Skills for real engineers. Straight from my .claude directory.
+   - Skills for Real Engineers. Straight from my .claude directory.
 
-2. [Alishahryar1 /    free-claude-code](https://github.com/Alishahryar1/free-claude-code)
-   - Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
-
-3. [Z4nzu /    hackingtool](https://github.com/Z4nzu/hackingtool)
-   - ALL IN ONE Hacking Tool For Hackers
-
-4. [abhigyanpatwari /    GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+2. [abhigyanpatwari /    GitNexus](https://github.com/abhigyanpatwari/GitNexus)
    - GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
 
-5. [PostHog /    posthog](https://github.com/PostHog/posthog)
-   - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
+3. [ComposioHQ /    awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)
+   - A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
 
-6. [microsoft /    typescript-go](https://github.com/microsoft/typescript-go)
-   - Staging repo for development of native port of TypeScript
+4. [Alishahryar1 /    free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+   - Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
 
-7. [trycua /    cua](https://github.com/trycua/cua)
-   - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
-
-8. [gastownhall /    beads](https://github.com/gastownhall/beads)
+5. [gastownhall /    beads](https://github.com/gastownhall/beads)
    - Beads - A memory upgrade for your coding agent
 
-9. [curl /    curl](https://github.com/curl/curl)
-   - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
+6. [penpot /    penpot](https://github.com/penpot/penpot)
+   - Penpot: The open-source design tool for design and code collaboration
 
-10. [home-assistant /    core](https://github.com/home-assistant/core)
-   - 🏡 Open source home automation that puts local control and privacy first.
+7. [davila7 /    claude-code-templates](https://github.com/davila7/claude-code-templates)
+   - CLI tool for configuring and monitoring Claude Code
 
-11. [codecrafters-io /    build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
-   - Master programming by recreating your favorite technologies from scratch.
+8. [microsoft /    VibeVoice](https://github.com/microsoft/VibeVoice)
+   - Open-Source Frontier Voice AI
 
-12. [openclaw /    openclaw](https://github.com/openclaw/openclaw)
-   - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+9. [Z4nzu /    hackingtool](https://github.com/Z4nzu/hackingtool)
+   - ALL IN ONE Hacking Tool For Hackers
 
-13. [ComposioHQ /    awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)
-   - A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
+10. [TauricResearch /    TradingAgents](https://github.com/TauricResearch/TradingAgents)
+   - TradingAgents: Multi-Agents LLM Financial Trading Framework
+
+11. [CJackHwang /    ds2api](https://github.com/CJackHwang/ds2api)
+   - Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.
+
+12. [deepseek-ai /    DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
+   - No description
+
+13. [donnemartin /    system-design-primer](https://github.com/donnemartin/system-design-primer)
+   - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
