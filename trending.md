@@ -1,4 +1,4 @@
-# GitHub Trending Repos - 2026-04-28
+# GitHub Trending Repos - 2026-04-29
 
 1. [mattpocock /    skills](https://github.com/mattpocock/skills)
    - Skills for Real Engineers. Straight from my .claude directory.
@@ -9,33 +9,33 @@
 3. [ComposioHQ /    awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)
    - A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
 
-4. [Alishahryar1 /    free-claude-code](https://github.com/Alishahryar1/free-claude-code)
-   - Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
-
-5. [gastownhall /    beads](https://github.com/gastownhall/beads)
-   - Beads - A memory upgrade for your coding agent
-
-6. [penpot /    penpot](https://github.com/penpot/penpot)
-   - Penpot: The open-source design tool for design and code collaboration
-
-7. [davila7 /    claude-code-templates](https://github.com/davila7/claude-code-templates)
-   - CLI tool for configuring and monitoring Claude Code
-
-8. [microsoft /    VibeVoice](https://github.com/microsoft/VibeVoice)
+4. [microsoft /    VibeVoice](https://github.com/microsoft/VibeVoice)
    - Open-Source Frontier Voice AI
 
-9. [Z4nzu /    hackingtool](https://github.com/Z4nzu/hackingtool)
-   - ALL IN ONE Hacking Tool For Hackers
+5. [davila7 /    claude-code-templates](https://github.com/davila7/claude-code-templates)
+   - CLI tool for configuring and monitoring Claude Code
 
-10. [TauricResearch /    TradingAgents](https://github.com/TauricResearch/TradingAgents)
-   - TradingAgents: Multi-Agents LLM Financial Trading Framework
+6. [HunxByts /    GhostTrack](https://github.com/HunxByts/GhostTrack)
+   - Useful tool to track location or mobile number
 
-11. [CJackHwang /    ds2api](https://github.com/CJackHwang/ds2api)
+7. [fspecii /    ace-step-ui](https://github.com/fspecii/ace-step-ui)
+   - 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!
+
+8. [public-apis /    public-apis](https://github.com/public-apis/public-apis)
+   - A collective list of free APIs
+
+9. [CJackHwang /    ds2api](https://github.com/CJackHwang/ds2api)
    - Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.
 
-12. [deepseek-ai /    DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
-   - No description
+10. [Alishahryar1 /    free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+   - Use claude-code for free in the terminal, VSCode extension or discord like openclaw
 
-13. [donnemartin /    system-design-primer](https://github.com/donnemartin/system-design-primer)
+11. [donnemartin /    system-design-primer](https://github.com/donnemartin/system-design-primer)
    - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+
+12. [EbookFoundation /    free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+   - 📚 Freely available programming books
+
+13. [iamgio /    quarkdown](https://github.com/iamgio/quarkdown)
+   - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 
