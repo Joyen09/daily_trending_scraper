@@ -1,38 +1,38 @@
-# GitHub Trending Repos - 2026-05-08
+# GitHub Trending Repos - 2026-05-09
 
 1. [anthropics /    financial-services](https://github.com/anthropics/financial-services)
    - No description
 
-2. [Hmbown /    DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
-   - Coding agent for DeepSeek models that runs in your terminal
-
-3. [z-lab /    dflash](https://github.com/z-lab/dflash)
-   - DFlash: Block Diffusion for Flash Speculative Decoding
-
-4. [InsForge /    InsForge](https://github.com/InsForge/InsForge)
-   - InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.
-
-5. [LearningCircuit /    local-deep-research](https://github.com/LearningCircuit/local-deep-research)
-   - ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
-
-6. [addyosmani /    agent-skills](https://github.com/addyosmani/agent-skills)
+2. [addyosmani /    agent-skills](https://github.com/addyosmani/agent-skills)
    - Production-grade engineering skills for AI coding agents.
 
-7. [VectifyAI /    PageIndex](https://github.com/VectifyAI/PageIndex)
-   - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+3. [Hmbown /    DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
+   - Coding agent for DeepSeek models that runs in your terminal
 
-8. [vercel-labs /    open-agents](https://github.com/vercel-labs/open-agents)
-   - An open source template for building cloud agents.
+4. [z-lab /    dflash](https://github.com/z-lab/dflash)
+   - DFlash: Block Diffusion for Flash Speculative Decoding
 
-9. [docusealco /    docuseal](https://github.com/docusealco/docuseal)
-   - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
+5. [decolua /    9router](https://github.com/decolua/9router)
+   - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 
-10. [decolua /    9router](https://github.com/decolua/9router)
-   - 🇻🇳 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+6. [CloakHQ /    CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
+   - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 
-11. [PriorLabs /    TabPFN](https://github.com/PriorLabs/TabPFN)
-   - ⚡ TabPFN: Foundation Model for Tabular Data ⚡
+7. [awslabs /    aidlc-workflows](https://github.com/awslabs/aidlc-workflows)
+   - AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents
 
-12. [aaif-goose /    goose](https://github.com/aaif-goose/goose)
-   - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+8. [HKUDS /    AI-Trader](https://github.com/HKUDS/AI-Trader)
+   - "AI-Trader: 100% Fully-Automated Agent-Native Trading"
+
+9. [LearningCircuit /    local-deep-research](https://github.com/LearningCircuit/local-deep-research)
+   - ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
+
+10. [lobehub /    lobehub](https://github.com/lobehub/lobehub)
+   - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
+
+11. [datawhalechina /    hello-agents](https://github.com/datawhalechina/hello-agents)
+   - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+
+12. [flutter /    skills](https://github.com/flutter/skills)
+   - No description
 
