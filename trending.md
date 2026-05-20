@@ -1,47 +1,56 @@
-# GitHub Trending Repos - 2026-05-19
+# GitHub Trending Repos - 2026-05-20
 
 1. [tinyhumansai /    openhuman](https://github.com/tinyhumansai/openhuman)
    - Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
-2. [Imbad0202 /    academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
-   - Academic Research Skills for Claude Code: research → write → review → revise → finalize
-
-3. [HKUDS /    CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+2. [HKUDS /    CLI-Anything](https://github.com/HKUDS/CLI-Anything)
    - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 
-4. [K-Dense-AI /    scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
-   - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
+3. [Imbad0202 /    academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
+   - Academic Research Skills for Claude Code: research → write → review → revise → finalize
 
-5. [supertone-inc /    supertonic](https://github.com/supertone-inc/supertonic)
-   - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+4. [obra /    superpowers](https://github.com/obra/superpowers)
+   - An agentic skills framework & software development methodology that works.
 
-6. [ggml-org /    llama.cpp](https://github.com/ggml-org/llama.cpp)
-   - LLM inference in C/C++
+5. [anthropics /    claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+   - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
-7. [ruvnet /    RuView](https://github.com/ruvnet/RuView)
-   - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+6. [rohitg00 /    agentmemory](https://github.com/rohitg00/agentmemory)
+   - #1 Persistent memory for AI coding agents based on real-world benchmarks
 
-8. [CloakHQ /    CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
+7. [CloakHQ /    CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
    - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 
-9. [tech-leads-club /    agent-skills](https://github.com/tech-leads-club/agent-skills)
-   - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
+8. [rtk-ai /    rtk](https://github.com/rtk-ai/rtk)
+   - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 
-10. [BigBodyCobain /    Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker)
-   - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.
+9. [msitarzewski /    agency-agents](https://github.com/msitarzewski/agency-agents)
+   - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
-11. [humanlayer /    12-factor-agents](https://github.com/humanlayer/12-factor-agents)
+10. [colbymchenry /    codegraph](https://github.com/colbymchenry/codegraph)
+   - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local
+
+11. [multica-ai /    andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+   - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+
+12. [humanlayer /    12-factor-agents](https://github.com/humanlayer/12-factor-agents)
    - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 
-12. [NVlabs /    Sana](https://github.com/NVlabs/Sana)
-   - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
+13. [Diolinux /    PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
+   - A Patch for GIMP 3+ for Photoshop Users
 
-13. [microsoft /    ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+14. [Alishahryar1 /    free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+   - Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
+
+15. [pascalorg /    editor](https://github.com/pascalorg/editor)
+   - Create and share 3D architectural projects.
+
+16. [frappe /    erpnext](https://github.com/frappe/erpnext)
+   - Free and Open Source Enterprise Resource Planning (ERP)
+
+17. [microsoft /    ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
    - 12 Lessons to Get Started Building AI Agents
 
-14. [ZhuLinsen /    daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
-   - LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
-
-15. [plausible /    analytics](https://github.com/plausible/analytics)
-   - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
+18. [HKUDS /    ViMax](https://github.com/HKUDS/ViMax)
+   - "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
 
