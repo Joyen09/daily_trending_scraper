@@ -1,56 +1,53 @@
-# GitHub Trending Repos - 2026-05-20
+# GitHub Trending Repos - 2026-05-21
 
-1. [tinyhumansai /    openhuman](https://github.com/tinyhumansai/openhuman)
-   - Your Personal AI super intelligence. Private, Simple and extremely powerful.
-
-2. [HKUDS /    CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-   - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
-
-3. [Imbad0202 /    academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
-   - Academic Research Skills for Claude Code: research → write → review → revise → finalize
-
-4. [obra /    superpowers](https://github.com/obra/superpowers)
-   - An agentic skills framework & software development methodology that works.
-
-5. [anthropics /    claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
-   - Official, Anthropic-managed directory of high quality Claude Code Plugins.
-
-6. [rohitg00 /    agentmemory](https://github.com/rohitg00/agentmemory)
-   - #1 Persistent memory for AI coding agents based on real-world benchmarks
-
-7. [CloakHQ /    CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
-   - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
-
-8. [rtk-ai /    rtk](https://github.com/rtk-ai/rtk)
-   - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-
-9. [msitarzewski /    agency-agents](https://github.com/msitarzewski/agency-agents)
-   - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-
-10. [colbymchenry /    codegraph](https://github.com/colbymchenry/codegraph)
+1. [colbymchenry /    codegraph](https://github.com/colbymchenry/codegraph)
    - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local
 
-11. [multica-ai /    andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+2. [Imbad0202 /    academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
+   - Academic Research Skills for Claude Code: research → write → review → revise → finalize
+
+3. [tinyhumansai /    openhuman](https://github.com/tinyhumansai/openhuman)
+   - Your Personal AI super intelligence. Private, Simple and extremely powerful.
+
+4. [multica-ai /    andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
    - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 
-12. [humanlayer /    12-factor-agents](https://github.com/humanlayer/12-factor-agents)
-   - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+5. [rohitg00 /    ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+   - Learn it. Build it. Ship it for others.
 
-13. [Diolinux /    PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
-   - A Patch for GIMP 3+ for Photoshop Users
+6. [HKUDS /    CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+   - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 
-14. [Alishahryar1 /    free-claude-code](https://github.com/Alishahryar1/free-claude-code)
-   - Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
+7. [can1357 /    oh-my-pi](https://github.com/can1357/oh-my-pi)
+   - ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 
-15. [pascalorg /    editor](https://github.com/pascalorg/editor)
-   - Create and share 3D architectural projects.
+8. [obra /    superpowers](https://github.com/obra/superpowers)
+   - An agentic skills framework & software development methodology that works.
 
-16. [frappe /    erpnext](https://github.com/frappe/erpnext)
-   - Free and Open Source Enterprise Resource Planning (ERP)
+9. [anthropics /    claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+   - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
-17. [microsoft /    ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-   - 12 Lessons to Get Started Building AI Agents
+10. [msitarzewski /    agency-agents](https://github.com/msitarzewski/agency-agents)
+   - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
-18. [HKUDS /    ViMax](https://github.com/HKUDS/ViMax)
+11. [rmyndharis /    OpenWA](https://github.com/rmyndharis/OpenWA)
+   - Free, Open Source, Self-Hosted WhatsApp API Gateway
+
+12. [truelockmc /    streambert](https://github.com/truelockmc/streambert)
+   - A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking
+
+13. [opentoonz /    opentoonz](https://github.com/opentoonz/opentoonz)
+   - OpenToonz - An open-source full-featured 2D animation creation software
+
+14. [zakirullin /    files.md](https://github.com/zakirullin/files.md)
+   - 🌱 Private, quiet space for thinking. A simple app for your .md files.
+
+15. [rohitg00 /    agentmemory](https://github.com/rohitg00/agentmemory)
+   - #1 Persistent memory for AI coding agents based on real-world benchmarks
+
+16. [ggml-org /    llama.cpp](https://github.com/ggml-org/llama.cpp)
+   - LLM inference in C/C++
+
+17. [HKUDS /    ViMax](https://github.com/HKUDS/ViMax)
    - "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
 
