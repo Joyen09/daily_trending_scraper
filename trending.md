@@ -1,53 +1,59 @@
-# GitHub Trending Repos - 2026-05-30
+# GitHub Trending Repos - 2026-05-31
 
-1. [harry0703 /    MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
-   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-
-2. [microsoft /    markitdown](https://github.com/microsoft/markitdown)
+1. [microsoft /    markitdown](https://github.com/microsoft/markitdown)
    - Python tool for converting files and office documents to Markdown.
 
-3. [EveryInc /    compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
-   - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
+2. [harry0703 /    MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 
-4. [twentyhq /    twenty](https://github.com/twentyhq/twenty)
-   - The open alternative to Salesforce, designed for AI.
-
-5. [anthropics /    claude-code](https://github.com/anthropics/claude-code)
+3. [anthropics /    claude-code](https://github.com/anthropics/claude-code)
    - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
-6. [Leonxlnx /    taste-skill](https://github.com/Leonxlnx/taste-skill)
-   - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
-
-7. [cursor /    plugins](https://github.com/cursor/plugins)
+4. [cursor /    plugins](https://github.com/cursor/plugins)
    - Cursor plugin specification and official plugins
 
-8. [run-llama /    liteparse](https://github.com/run-llama/liteparse)
-   - A fast, helpful, and open-source document parser
+5. [revfactory /    harness](https://github.com/revfactory/harness)
+   - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
+
+6. [EveryInc /    compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
+   - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
+
+7. [affaan-m /    ECC](https://github.com/affaan-m/ECC)
+   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+
+8. [OpenBMB /    VoxCPM](https://github.com/OpenBMB/VoxCPM)
+   - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 
 9. [galilai-group /    stable-worldmodel](https://github.com/galilai-group/stable-worldmodel)
    - A platform for reproducible world model research and evaluation
 
-10. [byoungd /    English-level-up-tips](https://github.com/byoungd/English-level-up-tips)
-   - An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语
-
-11. [Biohub /    esm](https://github.com/Biohub/esm)
-   - No description
-
-12. [Crosstalk-Solutions /    project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+10. [Crosstalk-Solutions /    project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
    - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 
-13. [DigitalPlatDev /    FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)
-   - DigitalPlat FreeDomain: Free Domain For Everyone
+11. [run-llama /    liteparse](https://github.com/run-llama/liteparse)
+   - A fast, helpful, and open-source document parser
 
-14. [affaan-m /    ECC](https://github.com/affaan-m/ECC)
-   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+12. [chen08209 /    FlClash](https://github.com/chen08209/FlClash)
+   - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 
-15. [hardikpandya /    stop-slop](https://github.com/hardikpandya/stop-slop)
-   - A skill file for removing AI tells from prose
+13. [FareedKhan-dev /    train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch)
+   - A straightforward method for training your LLM, from downloading data to generating text.
 
-16. [DataTalksClub /    data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+14. [ruvnet /    RuView](https://github.com/ruvnet/RuView)
+   - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+
+15. [DataTalksClub /    data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
    - Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼
 
-17. [codecrafters-io /    build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+16. [OpenMOSS /    MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS)
+   - MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.
+
+17. [dreammis /    social-auto-upload](https://github.com/dreammis/social-auto-upload)
+   - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
+
+18. [anthropics /    skills](https://github.com/anthropics/skills)
+   - Public repository for Agent Skills
+
+19. [codecrafters-io /    build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
    - Master programming by recreating your favorite technologies from scratch.
 
