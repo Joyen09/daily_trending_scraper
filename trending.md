@@ -1,44 +1,44 @@
-# GitHub Trending Repos - 2026-06-04
+# GitHub Trending Repos - 2026-06-05
 
 1. [chopratejas /    headroom](https://github.com/chopratejas/headroom)
    - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 
-2. [affaan-m /    ECC](https://github.com/affaan-m/ECC)
-   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-
-3. [aquasecurity /    trivy](https://github.com/aquasecurity/trivy)
-   - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-
-4. [NousResearch /    hermes-agent](https://github.com/NousResearch/hermes-agent)
+2. [NousResearch /    hermes-agent](https://github.com/NousResearch/hermes-agent)
    - The agent that grows with you
 
-5. [microsoft /    markitdown](https://github.com/microsoft/markitdown)
-   - Python tool for converting files and office documents to Markdown.
+3. [affaan-m /    ECC](https://github.com/affaan-m/ECC)
+   - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-6. [nesquena /    hermes-webui](https://github.com/nesquena/hermes-webui)
-   - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
+4. [PaddlePaddle /    PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+   - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 
-7. [D4Vinci /    Scrapling](https://github.com/D4Vinci/Scrapling)
-   - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+5. [github /    spec-kit](https://github.com/github/spec-kit)
+   - 💫 Toolkit to help you get started with Spec-Driven Development
 
-8. [opendataloader-project /    opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
-   - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+6. [NVIDIA /    cosmos](https://github.com/NVIDIA/cosmos)
+   - NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.
 
-9. [odoo /    odoo](https://github.com/odoo/odoo)
-   - Odoo. Open Source Apps To Grow Your Business.
+7. [lfnovo /    open-notebook](https://github.com/lfnovo/open-notebook)
+   - An Open Source implementation of Notebook LM with more flexibility and features
 
-10. [Open-LLM-VTuber /    Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber)
+8. [Open-LLM-VTuber /    Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber)
    - Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
 
-11. [jwasham /    coding-interview-university](https://github.com/jwasham/coding-interview-university)
+9. [jwasham /    coding-interview-university](https://github.com/jwasham/coding-interview-university)
    - A complete computer science study plan to become a software engineer.
 
-12. [lyogavin /    airllm](https://github.com/lyogavin/airllm)
-   - AirLLM 70B inference with single 4GB GPU
+10. [github /    copilot-sdk](https://github.com/github/copilot-sdk)
+   - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
-13. [supermemoryai /    supermemory](https://github.com/supermemoryai/supermemory)
-   - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+11. [aquasecurity /    trivy](https://github.com/aquasecurity/trivy)
+   - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
-14. [HKUDS /    Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
-   - "Vibe-Trading: Your Personal Trading Agent"
+12. [openclaw /    openclaw-windows-node](https://github.com/openclaw/openclaw-windows-node)
+   - Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension
+
+13. [reconurge /    flowsint](https://github.com/reconurge/flowsint)
+   - A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.
+
+14. [mvanhorn /    last30days-skill](https://github.com/mvanhorn/last30days-skill)
+   - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
