@@ -1,47 +1,50 @@
-# GitHub Trending Repos - 2026-06-08
+# GitHub Trending Repos - 2026-06-09
 
 1. [mvanhorn /    last30days-skill](https://github.com/mvanhorn/last30days-skill)
    - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
-2. [opencv /    opencv](https://github.com/opencv/opencv)
-   - Open Source Computer Vision Library
-
-3. [Leonxlnx /    taste-skill](https://github.com/Leonxlnx/taste-skill)
-   - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
-
-4. [NousResearch /    hermes-agent](https://github.com/NousResearch/hermes-agent)
-   - The agent that grows with you
-
-5. [lfnovo /    open-notebook](https://github.com/lfnovo/open-notebook)
-   - An Open Source implementation of Notebook LM with more flexibility and features
-
-6. [yikart /    AiToEarn](https://github.com/yikart/AiToEarn)
-   - Let's use AI to Earn!
-
-7. [aaif-goose /    goose](https://github.com/aaif-goose/goose)
-   - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-
-8. [Crosstalk-Solutions /    project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
-   - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
-
-9. [ggml-org /    llama.cpp](https://github.com/ggml-org/llama.cpp)
-   - LLM inference in C/C++
-
-10. [RyanCodrai /    turbovec](https://github.com/RyanCodrai/turbovec)
+2. [RyanCodrai /    turbovec](https://github.com/RyanCodrai/turbovec)
    - A vector index built on TurboQuant, written in Rust with Python bindings
 
-11. [TapXWorld /    ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
-   - 所有小初高、大学PDF教材。
+3. [google /    skills](https://github.com/google/skills)
+   - Agent Skills for Google products and technologies
 
-12. [openai /    plugins](https://github.com/openai/plugins)
-   - OpenAI Plugins
-
-13. [refactoringhq /    tolaria](https://github.com/refactoringhq/tolaria)
+4. [refactoringhq /    tolaria](https://github.com/refactoringhq/tolaria)
    - Desktop app to manage markdown knowledge bases
 
-14. [HunxByts /    GhostTrack](https://github.com/HunxByts/GhostTrack)
-   - Useful tool to track location or mobile number
+5. [Panniantong /    Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 
-15. [microsoft /    pg_durable](https://github.com/microsoft/pg_durable)
-   - PostgreSQL in-database durable execution
+6. [danielmiessler /    Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
+   - Agentic AI Infrastructure for magnifying HUMAN capabilities.
+
+7. [santifer /    career-ops](https://github.com/santifer/career-ops)
+   - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+
+8. [phuryn /    pm-skills](https://github.com/phuryn/pm-skills)
+   - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
+
+9. [openai /    plugins](https://github.com/openai/plugins)
+   - OpenAI Plugins
+
+10. [Andyyyy64 /    whichllm](https://github.com/Andyyyy64/whichllm)
+   - Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
+
+11. [MemPalace /    mempalace](https://github.com/MemPalace/mempalace)
+   - The best-benchmarked open-source AI memory system. And it's free.
+
+12. [roboflow /    supervision](https://github.com/roboflow/supervision)
+   - We write your reusable computer vision tools. 💜
+
+13. [CopilotKit /    CopilotKit](https://github.com/CopilotKit/CopilotKit)
+   - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol
+
+14. [TapXWorld /    ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+   - 所有小初高、大学PDF教材。
+
+15. [luongnv89 /    claude-howto](https://github.com/luongnv89/claude-howto)
+   - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+
+16. [aaif-goose /    goose](https://github.com/aaif-goose/goose)
+   - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 
