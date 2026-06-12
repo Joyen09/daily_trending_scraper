@@ -1,53 +1,59 @@
-# GitHub Trending Repos - 2026-06-11
+# GitHub Trending Repos - 2026-06-12
 
-1. [addyosmani /    agent-skills](https://github.com/addyosmani/agent-skills)
+1. [apple /    container](https://github.com/apple/container)
+   - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
+
+2. [addyosmani /    agent-skills](https://github.com/addyosmani/agent-skills)
    - Production-grade engineering skills for AI coding agents.
 
-2. [phuryn /    pm-skills](https://github.com/phuryn/pm-skills)
-   - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
-
-3. [refactoringhq /    tolaria](https://github.com/refactoringhq/tolaria)
-   - Desktop app to manage markdown knowledge bases
-
-4. [mvanhorn /    last30days-skill](https://github.com/mvanhorn/last30days-skill)
-   - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-
-5. [soxoj /    maigret](https://github.com/soxoj/maigret)
-   - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
-
-6. [x1xhlol /    system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
-   - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-
-7. [obra /    superpowers](https://github.com/obra/superpowers)
-   - An agentic skills framework & software development methodology that works.
-
-8. [masterking32 /    MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN)
-   - Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.
-
-9. [harry0703 /    MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
-   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-
-10. [maziyarpanahi /    openmed](https://github.com/maziyarpanahi/openmed)
+3. [maziyarpanahi /    openmed](https://github.com/maziyarpanahi/openmed)
    - open-source healthcare ai
 
-11. [luongnv89 /    claude-howto](https://github.com/luongnv89/claude-howto)
-   - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+4. [phuryn /    pm-skills](https://github.com/phuryn/pm-skills)
+   - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 
-12. [activeloopai /    hivemind](https://github.com/activeloopai/hivemind)
-   - One brain for all your agents
+5. [NVIDIA /    SkillSpector](https://github.com/NVIDIA/SkillSpector)
+   - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
 
-13. [ruvnet /    RuView](https://github.com/ruvnet/RuView)
-   - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+6. [soxoj /    maigret](https://github.com/soxoj/maigret)
+   - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 
-14. [roboflow /    supervision](https://github.com/roboflow/supervision)
-   - We write your reusable computer vision tools. 💜
+7. [x1xhlol /    system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+   - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 
-15. [google /    skills](https://github.com/google/skills)
-   - Agent Skills for Google products and technologies
+8. [refactoringhq /    tolaria](https://github.com/refactoringhq/tolaria)
+   - Desktop app to manage markdown knowledge bases
 
-16. [FareedKhan-dev /    train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch)
-   - A straightforward method for training your LLM, from downloading data to generating text.
+9. [obra /    superpowers](https://github.com/obra/superpowers)
+   - An agentic skills framework & software development methodology that works.
 
-17. [apple /    container](https://github.com/apple/container)
-   - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
+10. [restic /    restic](https://github.com/restic/restic)
+   - Fast, secure, efficient backup program
+
+11. [msitarzewski /    agency-agents](https://github.com/msitarzewski/agency-agents)
+   - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+
+12. [masterking32 /    MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN)
+   - Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.
+
+13. [chatwoot /    chatwoot](https://github.com/chatwoot/chatwoot)
+   - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+
+14. [kenn-io /    agentsview](https://github.com/kenn-io/agentsview)
+   - Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!
+
+15. [alchaincyf /    zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill)
+   - 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
+
+16. [TapXWorld /    ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+   - 所有小初高、大学PDF教材。
+
+17. [hexo-ai /    sia](https://github.com/hexo-ai/sia)
+   - SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.
+
+18. [mattermost /    mattermost](https://github.com/mattermost/mattermost)
+   - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
+
+19. [bannedbook /    fanqiang](https://github.com/bannedbook/fanqiang)
+   - 翻墙-科学上网
 
