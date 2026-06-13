@@ -1,59 +1,41 @@
-# GitHub Trending Repos - 2026-06-12
+# GitHub Trending Repos - 2026-06-13
 
-1. [apple /    container](https://github.com/apple/container)
-   - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
-
-2. [addyosmani /    agent-skills](https://github.com/addyosmani/agent-skills)
+1. [addyosmani /    agent-skills](https://github.com/addyosmani/agent-skills)
    - Production-grade engineering skills for AI coding agents.
 
-3. [maziyarpanahi /    openmed](https://github.com/maziyarpanahi/openmed)
-   - open-source healthcare ai
+2. [music-assistant /    server](https://github.com/music-assistant/server)
+   - Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
 
-4. [phuryn /    pm-skills](https://github.com/phuryn/pm-skills)
-   - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
-
-5. [NVIDIA /    SkillSpector](https://github.com/NVIDIA/SkillSpector)
-   - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
-
-6. [soxoj /    maigret](https://github.com/soxoj/maigret)
-   - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
-
-7. [x1xhlol /    system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
-   - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-
-8. [refactoringhq /    tolaria](https://github.com/refactoringhq/tolaria)
-   - Desktop app to manage markdown knowledge bases
-
-9. [obra /    superpowers](https://github.com/obra/superpowers)
-   - An agentic skills framework & software development methodology that works.
-
-10. [restic /    restic](https://github.com/restic/restic)
-   - Fast, secure, efficient backup program
-
-11. [msitarzewski /    agency-agents](https://github.com/msitarzewski/agency-agents)
-   - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-
-12. [masterking32 /    MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN)
-   - Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.
-
-13. [chatwoot /    chatwoot](https://github.com/chatwoot/chatwoot)
-   - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-
-14. [kenn-io /    agentsview](https://github.com/kenn-io/agentsview)
-   - Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!
-
-15. [alchaincyf /    zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill)
-   - 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
-
-16. [TapXWorld /    ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
-   - 所有小初高、大学PDF教材。
-
-17. [hexo-ai /    sia](https://github.com/hexo-ai/sia)
-   - SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.
-
-18. [mattermost /    mattermost](https://github.com/mattermost/mattermost)
+3. [mattermost /    mattermost](https://github.com/mattermost/mattermost)
    - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 
-19. [bannedbook /    fanqiang](https://github.com/bannedbook/fanqiang)
-   - 翻墙-科学上网
+4. [apple /    container](https://github.com/apple/container)
+   - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
+
+5. [iptv-org /    iptv](https://github.com/iptv-org/iptv)
+   - Collection of publicly available IPTV channels from all over the world
+
+6. [obra /    superpowers](https://github.com/obra/superpowers)
+   - An agentic skills framework & software development methodology that works.
+
+7. [refactoringhq /    tolaria](https://github.com/refactoringhq/tolaria)
+   - Desktop app to manage markdown knowledge bases
+
+8. [maziyarpanahi /    openmed](https://github.com/maziyarpanahi/openmed)
+   - open-source healthcare ai
+
+9. [LMCache /    LMCache](https://github.com/LMCache/LMCache)
+   - LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
+
+10. [phuryn /    pm-skills](https://github.com/phuryn/pm-skills)
+   - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
+
+11. [masterking32 /    MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN)
+   - Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.
+
+12. [msitarzewski /    agency-agents](https://github.com/msitarzewski/agency-agents)
+   - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+
+13. [microsoft /    PowerToys](https://github.com/microsoft/PowerToys)
+   - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 
